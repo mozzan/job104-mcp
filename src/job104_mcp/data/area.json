@@ -1,0 +1,5446 @@
+[
+{
+"no": "6001000000",
+"des": "台灣地區",
+"n": [
+{
+"no": "6001001000",
+"des": "台北市",
+"n": [
+{
+"no": "6001001001",
+"des": "台北市中正區",
+"eng": "Zhongzheng District, Taipei City"
+},
+{
+"no": "6001001002",
+"des": "台北市大同區",
+"eng": "Datong District, Taipei City"
+},
+{
+"no": "6001001003",
+"des": "台北市中山區",
+"eng": "Zhongshan District, Taipei City"
+},
+{
+"no": "6001001004",
+"des": "台北市松山區",
+"eng": "Songshan District, Taipei City"
+},
+{
+"no": "6001001005",
+"des": "台北市大安區",
+"eng": "Daan District, Taipei City"
+},
+{
+"no": "6001001006",
+"des": "台北市萬華區",
+"eng": "Wanhua District, Taipei City"
+},
+{
+"no": "6001001007",
+"des": "台北市信義區",
+"eng": "Xinyi District, Taipei City"
+},
+{
+"no": "6001001008",
+"des": "台北市士林區",
+"eng": "Shilin District, Taipei City"
+},
+{
+"no": "6001001009",
+"des": "台北市北投區",
+"eng": "Beitou District, Taipei City"
+},
+{
+"no": "6001001010",
+"des": "台北市內湖區",
+"eng": "Neihu District, Taipei City"
+},
+{
+"no": "6001001011",
+"des": "台北市南港區",
+"eng": "Nangang District, Taipei City"
+},
+{
+"no": "6001001012",
+"des": "台北市文山區",
+"eng": "Wenshan District, Taipei City"
+}
+],
+"eng": "Taipei City"
+},
+{
+"no": "6001002000",
+"des": "新北市",
+"n": [
+{
+"no": "6001002001",
+"des": "新北市萬里區",
+"eng": "Wanli District, New Taipei City"
+},
+{
+"no": "6001002002",
+"des": "新北市金山區",
+"eng": "Jinshan District, New Taipei City"
+},
+{
+"no": "6001002003",
+"des": "新北市板橋區",
+"eng": "Banqiao District, New Taipei City"
+},
+{
+"no": "6001002004",
+"des": "新北市汐止區",
+"eng": "Xizhi District, New Taipei City"
+},
+{
+"no": "6001002005",
+"des": "新北市深坑區",
+"eng": "Shenkeng District, New Taipei City"
+},
+{
+"no": "6001002006",
+"des": "新北市石碇區",
+"eng": "Shiding District, New Taipei City"
+},
+{
+"no": "6001002007",
+"des": "新北市瑞芳區",
+"eng": "Ruifang District, New Taipei City"
+},
+{
+"no": "6001002008",
+"des": "新北市平溪區",
+"eng": "Pingxi District, New Taipei City"
+},
+{
+"no": "6001002009",
+"des": "新北市雙溪區",
+"eng": "Shuangxi District, New Taipei City"
+},
+{
+"no": "6001002010",
+"des": "新北市貢寮區",
+"eng": "Gongliao District, New Taipei City"
+},
+{
+"no": "6001002011",
+"des": "新北市新店區",
+"eng": "Xindian District, New Taipei City"
+},
+{
+"no": "6001002012",
+"des": "新北市坪林區",
+"eng": "Pinglin District, New Taipei City"
+},
+{
+"no": "6001002013",
+"des": "新北市烏來區",
+"eng": "Wulai District, New Taipei City"
+},
+{
+"no": "6001002014",
+"des": "新北市永和區",
+"eng": "Yonghe District, New Taipei City"
+},
+{
+"no": "6001002015",
+"des": "新北市中和區",
+"eng": "Zhonghe District, New Taipei City"
+},
+{
+"no": "6001002016",
+"des": "新北市土城區",
+"eng": "Tucheng District, New Taipei City"
+},
+{
+"no": "6001002017",
+"des": "新北市三峽區",
+"eng": "Sanxia District, New Taipei City"
+},
+{
+"no": "6001002018",
+"des": "新北市樹林區",
+"eng": "Shulin District, New Taipei City"
+},
+{
+"no": "6001002019",
+"des": "新北市鶯歌區",
+"eng": "Yingge District, New Taipei City"
+},
+{
+"no": "6001002020",
+"des": "新北市三重區",
+"eng": "Sanchong District, New Taipei City"
+},
+{
+"no": "6001002021",
+"des": "新北市新莊區",
+"eng": "Xinzhuang District, New Taipei City"
+},
+{
+"no": "6001002022",
+"des": "新北市泰山區",
+"eng": "Taishan District, New Taipei City"
+},
+{
+"no": "6001002023",
+"des": "新北市林口區",
+"eng": "Linkou District, New Taipei City"
+},
+{
+"no": "6001002024",
+"des": "新北市蘆洲區",
+"eng": "Luzhou District, New Taipei City"
+},
+{
+"no": "6001002025",
+"des": "新北市五股區",
+"eng": "Wugu District, New Taipei City"
+},
+{
+"no": "6001002026",
+"des": "新北市八里區",
+"eng": "Bali District, New Taipei City"
+},
+{
+"no": "6001002027",
+"des": "新北市淡水區",
+"eng": "Tamsui District, New Taipei City"
+},
+{
+"no": "6001002028",
+"des": "新北市三芝區",
+"eng": "Sanzhi District, New Taipei City"
+},
+{
+"no": "6001002029",
+"des": "新北市石門區",
+"eng": "Shimen District, New Taipei City"
+}
+],
+"eng": "New Taipei City"
+},
+{
+"no": "6001003000",
+"des": "宜蘭縣",
+"n": [
+{
+"no": "6001003001",
+"des": "宜蘭縣宜蘭市",
+"eng": "Yilan City, Yilan County"
+},
+{
+"no": "6001003002",
+"des": "宜蘭縣頭城鎮",
+"eng": "Toucheng Township, Yilan County"
+},
+{
+"no": "6001003003",
+"des": "宜蘭縣礁溪鄉",
+"eng": "Jiaoxi Township, Yilan County"
+},
+{
+"no": "6001003004",
+"des": "宜蘭縣壯圍鄉",
+"eng": "Zhuangwei Township, Yilan County"
+},
+{
+"no": "6001003005",
+"des": "宜蘭縣員山鄉",
+"eng": "Yuanshan Township, Yilan County"
+},
+{
+"no": "6001003006",
+"des": "宜蘭縣羅東鎮",
+"eng": "Luodong Township, Yilan County"
+},
+{
+"no": "6001003007",
+"des": "宜蘭縣三星鄉",
+"eng": "Sanxing Township, Yilan County"
+},
+{
+"no": "6001003008",
+"des": "宜蘭縣大同鄉",
+"eng": "Datong Township, Yilan County"
+},
+{
+"no": "6001003009",
+"des": "宜蘭縣五結鄉",
+"eng": "Wujie Township, Yilan County"
+},
+{
+"no": "6001003010",
+"des": "宜蘭縣冬山鄉",
+"eng": "Dongshan Township, Yilan County"
+},
+{
+"no": "6001003011",
+"des": "宜蘭縣蘇澳鎮",
+"eng": "Suao Township, Yilan County"
+},
+{
+"no": "6001003012",
+"des": "宜蘭縣南澳鄉",
+"eng": "Nanao Township, Yilan County"
+}
+],
+"eng": "Yilan County"
+},
+{
+"no": "6001004000",
+"des": "基隆市",
+"n": [
+{
+"no": "6001004001",
+"des": "基隆市仁愛區",
+"eng": "Renai District, Keelung City"
+},
+{
+"no": "6001004002",
+"des": "基隆市信義區",
+"eng": "Xinyi District, Keelung City"
+},
+{
+"no": "6001004003",
+"des": "基隆市中正區",
+"eng": "Zhongzheng District, Keelung City"
+},
+{
+"no": "6001004004",
+"des": "基隆市中山區",
+"eng": "Zhongshan District, Keelung City"
+},
+{
+"no": "6001004005",
+"des": "基隆市安樂區",
+"eng": "Anle District, Keelung City"
+},
+{
+"no": "6001004006",
+"des": "基隆市暖暖區",
+"eng": "Nuannuan District, Keelung City"
+},
+{
+"no": "6001004007",
+"des": "基隆市七堵區",
+"eng": "Qidu District, Keelung City"
+}
+],
+"eng": "Keelung City"
+},
+{
+"no": "6001005000",
+"des": "桃園市",
+"n": [
+{
+"no": "6001005001",
+"des": "桃園市中壢區",
+"eng": "Zhongli District, Taoyuan City"
+},
+{
+"no": "6001005002",
+"des": "桃園市平鎮區",
+"eng": "Pingzhen District, Taoyuan City"
+},
+{
+"no": "6001005003",
+"des": "桃園市龍潭區",
+"eng": "Longtan District, Taoyuan City"
+},
+{
+"no": "6001005004",
+"des": "桃園市楊梅區",
+"eng": "Yangmei District, Taoyuan City"
+},
+{
+"no": "6001005005",
+"des": "桃園市新屋區",
+"eng": "Xinwu District, Taoyuan City"
+},
+{
+"no": "6001005006",
+"des": "桃園市觀音區",
+"eng": "Guanyin District, Taoyuan City"
+},
+{
+"no": "6001005007",
+"des": "桃園市桃園區",
+"eng": "Taoyuan District, Taoyuan City"
+},
+{
+"no": "6001005008",
+"des": "桃園市龜山區",
+"eng": "Guishan District, Taoyuan City"
+},
+{
+"no": "6001005009",
+"des": "桃園市八德區",
+"eng": "Bade District, Taoyuan City"
+},
+{
+"no": "6001005010",
+"des": "桃園市大溪區",
+"eng": "Daxi District, Taoyuan City"
+},
+{
+"no": "6001005011",
+"des": "桃園市復興區",
+"eng": "Fuxing District, Taoyuan City"
+},
+{
+"no": "6001005012",
+"des": "桃園市大園區",
+"eng": "Dayuan District, Taoyuan City"
+},
+{
+"no": "6001005013",
+"des": "桃園市蘆竹區",
+"eng": "Luzhu District, Taoyuan City"
+}
+],
+"eng": "Taoyuan City"
+},
+{
+"no": "6001006000",
+"des": "新竹縣市",
+"n": [
+{
+"no": "6001006001",
+"des": "新竹市",
+"eng": "Hsinchu City"
+},
+{
+"no": "6001006002",
+"des": "新竹縣竹北市",
+"eng": "Zhubei City, Hsinchu County"
+},
+{
+"no": "6001006003",
+"des": "新竹縣湖口鄉",
+"eng": "Hukou Township, Hsinchu County"
+},
+{
+"no": "6001006004",
+"des": "新竹縣新豐鄉",
+"eng": "Xinfeng Township, Hsinchu County"
+},
+{
+"no": "6001006005",
+"des": "新竹縣新埔鎮",
+"eng": "Sinpu Township, Hsinchu County"
+},
+{
+"no": "6001006006",
+"des": "新竹縣關西鎮",
+"eng": "Guanshi Township, Hsinchu County"
+},
+{
+"no": "6001006007",
+"des": "新竹縣芎林鄉",
+"eng": "Qionglin Township, Hsinchu County"
+},
+{
+"no": "6001006008",
+"des": "新竹縣寶山鄉",
+"eng": "Baoshan Township, Hsinchu County"
+},
+{
+"no": "6001006009",
+"des": "新竹縣竹東鎮",
+"eng": "Zhudong Township, Hsinchu County"
+},
+{
+"no": "6001006010",
+"des": "新竹縣五峰鄉",
+"eng": "Wufeng Township, Hsinchu County"
+},
+{
+"no": "6001006011",
+"des": "新竹縣橫山鄉",
+"eng": "Hengshan Township, Hsinchu County"
+},
+{
+"no": "6001006012",
+"des": "新竹縣尖石鄉",
+"eng": "Jianshi Township, Hsinchu County"
+},
+{
+"no": "6001006013",
+"des": "新竹縣北埔鄉",
+"eng": "Beipu Township, Hsinchu County"
+},
+{
+"no": "6001006014",
+"des": "新竹縣峨眉鄉",
+"eng": "Emei Township, Hsinchu County"
+}
+],
+"eng": "Hsinchu County and City"
+},
+{
+"no": "6001007000",
+"des": "苗栗縣",
+"n": [
+{
+"no": "6001007001",
+"des": "苗栗縣竹南鎮",
+"eng": "Zhunan Township, Miaoli County"
+},
+{
+"no": "6001007002",
+"des": "苗栗縣頭份市",
+"eng": "Toufen City, Miaoli County"
+},
+{
+"no": "6001007003",
+"des": "苗栗縣三灣鄉",
+"eng": "Sanwan Township, Miaoli County"
+},
+{
+"no": "6001007004",
+"des": "苗栗縣南庄鄉",
+"eng": "Nanzhuang Township, Miaoli County"
+},
+{
+"no": "6001007005",
+"des": "苗栗縣獅潭鄉",
+"eng": "Shitan Township, Miaoli County"
+},
+{
+"no": "6001007006",
+"des": "苗栗縣後龍鎮",
+"eng": "Houlong Township, Miaoli County"
+},
+{
+"no": "6001007007",
+"des": "苗栗縣通霄鎮",
+"eng": "Tongxiao Township, Miaoli County"
+},
+{
+"no": "6001007008",
+"des": "苗栗縣苑裡鎮",
+"eng": "Yuanli Township, Miaoli County"
+},
+{
+"no": "6001007009",
+"des": "苗栗縣苗栗市",
+"eng": "Miaoli City, Miaoli County"
+},
+{
+"no": "6001007010",
+"des": "苗栗縣造橋鄉",
+"eng": "Zaoqiao Township, Miaoli County"
+},
+{
+"no": "6001007011",
+"des": "苗栗縣頭屋鄉",
+"eng": "Touwu Township, Miaoli County"
+},
+{
+"no": "6001007012",
+"des": "苗栗縣公館鄉",
+"eng": "Gongguan Township, Miaoli County"
+},
+{
+"no": "6001007013",
+"des": "苗栗縣大湖鄉",
+"eng": "Dahu Township, Miaoli County"
+},
+{
+"no": "6001007014",
+"des": "苗栗縣泰安鄉",
+"eng": "Taian Township, Miaoli County"
+},
+{
+"no": "6001007015",
+"des": "苗栗縣銅鑼鄉",
+"eng": "Tongluo Township, Miaoli County"
+},
+{
+"no": "6001007016",
+"des": "苗栗縣三義鄉",
+"eng": "Sanyi Township, Miaoli County"
+},
+{
+"no": "6001007017",
+"des": "苗栗縣西湖鄉",
+"eng": "Xihu Township, Miaoli County"
+},
+{
+"no": "6001007018",
+"des": "苗栗縣卓蘭鎮",
+"eng": "Zhuolan Township, Miaoli County"
+}
+],
+"eng": "Miaoli County"
+},
+{
+"no": "6001008000",
+"des": "台中市",
+"n": [
+{
+"no": "6001008001",
+"des": "台中市中區",
+"eng": "Central District, Taichung City"
+},
+{
+"no": "6001008002",
+"des": "台中市東區",
+"eng": "East District, Taichung City"
+},
+{
+"no": "6001008003",
+"des": "台中市南區",
+"eng": "South District, Taichung City"
+},
+{
+"no": "6001008004",
+"des": "台中市西區",
+"eng": "West District, Taichung City"
+},
+{
+"no": "6001008005",
+"des": "台中市北區",
+"eng": "North District, Taichung City"
+},
+{
+"no": "6001008006",
+"des": "台中市北屯區",
+"eng": "Beitun District, Taichung City"
+},
+{
+"no": "6001008007",
+"des": "台中市西屯區",
+"eng": "Xitun District, Taichung City"
+},
+{
+"no": "6001008008",
+"des": "台中市南屯區",
+"eng": "Nantun District, Taichung City"
+},
+{
+"no": "6001008009",
+"des": "台中市太平區",
+"eng": "Taiping District, Taichung City"
+},
+{
+"no": "6001008010",
+"des": "台中市大里區",
+"eng": "Dali District, Taichung City"
+},
+{
+"no": "6001008011",
+"des": "台中市霧峰區",
+"eng": "Wufeng District, Taichung City"
+},
+{
+"no": "6001008012",
+"des": "台中市烏日區",
+"eng": "Wuri District, Taichung City"
+},
+{
+"no": "6001008013",
+"des": "台中市豐原區",
+"eng": "Fengyuan District, Taichung City"
+},
+{
+"no": "6001008014",
+"des": "台中市后里區",
+"eng": "Houli District, Taichung City"
+},
+{
+"no": "6001008015",
+"des": "台中市石岡區",
+"eng": "Shigang District, Taichung City"
+},
+{
+"no": "6001008016",
+"des": "台中市東勢區",
+"eng": "Dongshi District, Taichung City"
+},
+{
+"no": "6001008017",
+"des": "台中市和平區",
+"eng": "Heping District, Taichung City"
+},
+{
+"no": "6001008018",
+"des": "台中市新社區",
+"eng": "Xinshe District, Taichung City"
+},
+{
+"no": "6001008019",
+"des": "台中市潭子區",
+"eng": "Tanzi District, Taichung City"
+},
+{
+"no": "6001008020",
+"des": "台中市大雅區",
+"eng": "Daya District, Taichung City"
+},
+{
+"no": "6001008021",
+"des": "台中市神岡區",
+"eng": "Shengang District, Taichung City"
+},
+{
+"no": "6001008022",
+"des": "台中市大肚區",
+"eng": "Dadu District, Taichung City"
+},
+{
+"no": "6001008023",
+"des": "台中市沙鹿區",
+"eng": "Shalu District, Taichung City"
+},
+{
+"no": "6001008024",
+"des": "台中市龍井區",
+"eng": "Longjing District, Taichung City"
+},
+{
+"no": "6001008025",
+"des": "台中市梧棲區",
+"eng": "Wuqi District, Taichung City"
+},
+{
+"no": "6001008026",
+"des": "台中市清水區",
+"eng": "Qingshui District, Taichung City"
+},
+{
+"no": "6001008027",
+"des": "台中市大甲區",
+"eng": "Dajia District, Taichung City"
+},
+{
+"no": "6001008028",
+"des": "台中市外埔區",
+"eng": "Waipu District, Taichung City"
+},
+{
+"no": "6001008029",
+"des": "台中市大安區",
+"eng": "Daan District, Taichung City"
+}
+],
+"eng": "Taichung City"
+},
+{
+"no": "6001010000",
+"des": "彰化縣",
+"n": [
+{
+"no": "6001010001",
+"des": "彰化縣彰化市",
+"eng": "Changhua City, Changhua County"
+},
+{
+"no": "6001010002",
+"des": "彰化縣芬園鄉",
+"eng": "Fenyuan Township, Changhua County"
+},
+{
+"no": "6001010003",
+"des": "彰化縣花壇鄉",
+"eng": "Huatan Township, Changhua County"
+},
+{
+"no": "6001010004",
+"des": "彰化縣秀水鄉",
+"eng": "Xiushui Township, Changhua County"
+},
+{
+"no": "6001010005",
+"des": "彰化縣鹿港鎮",
+"eng": "Lukang Township, Changhua County"
+},
+{
+"no": "6001010006",
+"des": "彰化縣福興鄉",
+"eng": "Fuxing Township, Changhua County"
+},
+{
+"no": "6001010007",
+"des": "彰化縣線西鄉",
+"eng": "Xianxi Township, Changhua County"
+},
+{
+"no": "6001010008",
+"des": "彰化縣和美鎮",
+"eng": "Hemei Township, Changhua County"
+},
+{
+"no": "6001010009",
+"des": "彰化縣伸港鄉",
+"eng": "Shengang Township, Changhua County"
+},
+{
+"no": "6001010010",
+"des": "彰化縣員林市",
+"eng": "Yuanlin City, Changhua County"
+},
+{
+"no": "6001010011",
+"des": "彰化縣社頭鄉",
+"eng": "Shetou Township, Changhua County"
+},
+{
+"no": "6001010012",
+"des": "彰化縣永靖鄉",
+"eng": "Yongjing Township, Changhua County"
+},
+{
+"no": "6001010013",
+"des": "彰化縣埔心鄉",
+"eng": "Puxin Township, Changhua County"
+},
+{
+"no": "6001010014",
+"des": "彰化縣溪湖鎮",
+"eng": "Xihu Township, Changhua County"
+},
+{
+"no": "6001010015",
+"des": "彰化縣大村鄉",
+"eng": "Dacun Township, Changhua County"
+},
+{
+"no": "6001010016",
+"des": "彰化縣埔鹽鄉",
+"eng": "Puyan Township, Changhua County"
+},
+{
+"no": "6001010017",
+"des": "彰化縣田中鎮",
+"eng": "Tianzhong Township, Changhua County"
+},
+{
+"no": "6001010018",
+"des": "彰化縣北斗鎮",
+"eng": "Beidou Township, Changhua County"
+},
+{
+"no": "6001010019",
+"des": "彰化縣田尾鄉",
+"eng": "Tianwei Township, Changhua County"
+},
+{
+"no": "6001010020",
+"des": "彰化縣埤頭鄉",
+"eng": "Pitou Township, Changhua County"
+},
+{
+"no": "6001010021",
+"des": "彰化縣溪州鄉",
+"eng": "Xizhou Township, Changhua County"
+},
+{
+"no": "6001010022",
+"des": "彰化縣竹塘鄉",
+"eng": "Zhutang Township, Changhua County"
+},
+{
+"no": "6001010023",
+"des": "彰化縣二林鎮",
+"eng": "Erlin Township, Changhua County"
+},
+{
+"no": "6001010024",
+"des": "彰化縣大城鄉",
+"eng": "Dacheng Township, Changhua County"
+},
+{
+"no": "6001010025",
+"des": "彰化縣芳苑鄉",
+"eng": "Fangyuan Township, Changhua County"
+},
+{
+"no": "6001010026",
+"des": "彰化縣二水鄉",
+"eng": "Ershui Township, Changhua County"
+}
+],
+"eng": "Changhua County"
+},
+{
+"no": "6001011000",
+"des": "南投縣",
+"n": [
+{
+"no": "6001011001",
+"des": "南投縣南投市",
+"eng": "Nantou City, Nantou County"
+},
+{
+"no": "6001011002",
+"des": "南投縣中寮鄉",
+"eng": "Zhongliao Township, Nantou County"
+},
+{
+"no": "6001011003",
+"des": "南投縣草屯鎮",
+"eng": "Caotun Township, Nantou County"
+},
+{
+"no": "6001011004",
+"des": "南投縣國姓鄉",
+"eng": "Guoxing Township, Nantou County"
+},
+{
+"no": "6001011005",
+"des": "南投縣埔里鎮",
+"eng": "Puli Township, Nantou County"
+},
+{
+"no": "6001011006",
+"des": "南投縣仁愛鄉",
+"eng": "Renai Township, Nantou County"
+},
+{
+"no": "6001011007",
+"des": "南投縣名間鄉",
+"eng": "Mingjian Township, Nantou County"
+},
+{
+"no": "6001011008",
+"des": "南投縣集集鎮",
+"eng": "Jiji Township, Nantou County"
+},
+{
+"no": "6001011009",
+"des": "南投縣水里鄉",
+"eng": "Shuili Township, Nantou County"
+},
+{
+"no": "6001011010",
+"des": "南投縣魚池鄉",
+"eng": "Yuchi Township, Nantou County"
+},
+{
+"no": "6001011011",
+"des": "南投縣信義鄉",
+"eng": "Xinyi Township, Nantou County"
+},
+{
+"no": "6001011012",
+"des": "南投縣竹山鎮",
+"eng": "Zhuoshui Township, Nantou County"
+},
+{
+"no": "6001011013",
+"des": "南投縣鹿谷鄉",
+"eng": "Lugu Township, Nantou County"
+}
+],
+"eng": "Nantou County"
+},
+{
+"no": "6001012000",
+"des": "雲林縣",
+"n": [
+{
+"no": "6001012001",
+"des": "雲林縣斗南鎮",
+"eng": "Dounan Township, Yunlin County"
+},
+{
+"no": "6001012002",
+"des": "雲林縣大埤鄉",
+"eng": "Dapi Township, Yunlin County"
+},
+{
+"no": "6001012003",
+"des": "雲林縣虎尾鎮",
+"eng": "Huwei Township, Yunlin County"
+},
+{
+"no": "6001012004",
+"des": "雲林縣土庫鎮",
+"eng": "Tuku Township, Yunlin County"
+},
+{
+"no": "6001012005",
+"des": "雲林縣褒忠鄉",
+"eng": "Baozhong Township, Yunlin County"
+},
+{
+"no": "6001012006",
+"des": "雲林縣東勢鄉",
+"eng": "Dongshi Township, Yunlin County"
+},
+{
+"no": "6001012007",
+"des": "雲林縣台西鄉",
+"eng": "Taihsi Township, Yunlin County"
+},
+{
+"no": "6001012008",
+"des": "雲林縣崙背鄉",
+"eng": "Lunbei Township, Yunlin County"
+},
+{
+"no": "6001012009",
+"des": "雲林縣麥寮鄉",
+"eng": "Mailiao Township, Yunlin County"
+},
+{
+"no": "6001012010",
+"des": "雲林縣斗六市",
+"eng": "Douliu City, Yunlin County"
+},
+{
+"no": "6001012011",
+"des": "雲林縣林內鄉",
+"eng": "Linnei Township, Yunlin County"
+},
+{
+"no": "6001012012",
+"des": "雲林縣古坑鄉",
+"eng": "Gukeng Township, Yunlin County"
+},
+{
+"no": "6001012013",
+"des": "雲林縣莿桐鄉",
+"eng": "Cetung Township, Yunlin County"
+},
+{
+"no": "6001012014",
+"des": "雲林縣西螺鎮",
+"eng": "Xiluo Township, Yunlin County"
+},
+{
+"no": "6001012015",
+"des": "雲林縣二崙鄉",
+"eng": "Erren Township, Yunlin County"
+},
+{
+"no": "6001012016",
+"des": "雲林縣北港鎮",
+"eng": "Beigang Township, Yunlin County"
+},
+{
+"no": "6001012017",
+"des": "雲林縣水林鄉",
+"eng": "Shuilin Township, Yunlin County"
+},
+{
+"no": "6001012018",
+"des": "雲林縣口湖鄉",
+"eng": "Kouhu Township, Yunlin County"
+},
+{
+"no": "6001012019",
+"des": "雲林縣四湖鄉",
+"eng": "Sihu Township, Yunlin County"
+},
+{
+"no": "6001012020",
+"des": "雲林縣元長鄉",
+"eng": "Yunlin County, Yulin Township"
+}
+],
+"eng": "Yunlin County"
+},
+{
+"no": "6001013000",
+"des": "嘉義縣市",
+"n": [
+{
+"no": "6001013001",
+"des": "嘉義市",
+"eng": "Chiayi City"
+},
+{
+"no": "6001013002",
+"des": "嘉義縣番路鄉",
+"eng": "Fanlu Township, Chiayi County"
+},
+{
+"no": "6001013003",
+"des": "嘉義縣梅山鄉",
+"eng": "Meishan Township, Chiayi County"
+},
+{
+"no": "6001013004",
+"des": "嘉義縣竹崎鄉",
+"eng": "Jhuqi Township, Chiayi County"
+},
+{
+"no": "6001013005",
+"des": "嘉義縣阿里山鄉",
+"eng": "Alishan Township, Chiayi County"
+},
+{
+"no": "6001013006",
+"des": "嘉義縣中埔鄉",
+"eng": "Zhongpu Township, Chiayi County"
+},
+{
+"no": "6001013007",
+"des": "嘉義縣大埔鄉",
+"eng": "Dapu Township, Chiayi County"
+},
+{
+"no": "6001013008",
+"des": "嘉義縣水上鄉",
+"eng": "Shuishang Township, Chiayi County"
+},
+{
+"no": "6001013009",
+"des": "嘉義縣鹿草鄉",
+"eng": "Lucao Township, Chiayi County"
+},
+{
+"no": "6001013010",
+"des": "嘉義縣太保市",
+"eng": "Taibao City, Chiayi County"
+},
+{
+"no": "6001013011",
+"des": "嘉義縣朴子市",
+"eng": "Puzi City, Chiayi County"
+},
+{
+"no": "6001013012",
+"des": "嘉義縣東石鄉",
+"eng": "Dongshi Township, Chiayi County"
+},
+{
+"no": "6001013013",
+"des": "嘉義縣六腳鄉",
+"eng": "Liujiao Township, Chiayi County"
+},
+{
+"no": "6001013014",
+"des": "嘉義縣新港鄉",
+"eng": "Xingang Township, Chiayi County"
+},
+{
+"no": "6001013015",
+"des": "嘉義縣民雄鄉",
+"eng": "Minxiong Township, Chiayi County"
+},
+{
+"no": "6001013016",
+"des": "嘉義縣大林鎮",
+"eng": "Dalin Township, Chiayi County"
+},
+{
+"no": "6001013017",
+"des": "嘉義縣溪口鄉",
+"eng": "Xikou Township, Chiayi County"
+},
+{
+"no": "6001013018",
+"des": "嘉義縣義竹鄉",
+"eng": "Yizhu Township, Chiayi County"
+},
+{
+"no": "6001013019",
+"des": "嘉義縣布袋鎮",
+"eng": "Budai Township, Chiayi County"
+}
+],
+"eng": "Chiayi County and City"
+},
+{
+"no": "6001014000",
+"des": "台南市",
+"n": [
+{
+"no": "6001014001",
+"des": "台南市中西區",
+"eng": "Central and Western District, Tainan City"
+},
+{
+"no": "6001014002",
+"des": "台南市東區",
+"eng": "East District, Tainan City"
+},
+{
+"no": "6001014003",
+"des": "台南市南區",
+"eng": "South District, Tainan City"
+},
+{
+"no": "6001014004",
+"des": "台南市北區",
+"eng": "North District, Tainan City"
+},
+{
+"no": "6001014005",
+"des": "台南市安平區",
+"eng": "Anping District, Tainan City"
+},
+{
+"no": "6001014006",
+"des": "台南市安南區",
+"eng": "Annan District, Tainan City"
+},
+{
+"no": "6001014007",
+"des": "台南市永康區",
+"eng": "Yongkang District, Tainan City"
+},
+{
+"no": "6001014008",
+"des": "台南市歸仁區",
+"eng": "Guiren District, Tainan City"
+},
+{
+"no": "6001014009",
+"des": "台南市新化區",
+"eng": "Xinhua District, Tainan City"
+},
+{
+"no": "6001014010",
+"des": "台南市左鎮區",
+"eng": "Zuozhen District, Tainan City"
+},
+{
+"no": "6001014011",
+"des": "台南市玉井區",
+"eng": "Yujing District, Tainan City"
+},
+{
+"no": "6001014012",
+"des": "台南市楠西區",
+"eng": "Nanxi District, Tainan City"
+},
+{
+"no": "6001014013",
+"des": "台南市南化區",
+"eng": "Nanhua District, Tainan City"
+},
+{
+"no": "6001014014",
+"des": "台南市仁德區",
+"eng": "Rende District, Tainan City"
+},
+{
+"no": "6001014015",
+"des": "台南市關廟區",
+"eng": "Guanmiao District, Tainan City"
+},
+{
+"no": "6001014016",
+"des": "台南市龍崎區",
+"eng": "Longqi District, Tainan City"
+},
+{
+"no": "6001014017",
+"des": "台南市官田區",
+"eng": "Guantian District, Tainan City"
+},
+{
+"no": "6001014018",
+"des": "台南市麻豆區",
+"eng": "Madou District, Tainan City"
+},
+{
+"no": "6001014019",
+"des": "台南市佳里區",
+"eng": "Jiali District, Tainan City"
+},
+{
+"no": "6001014020",
+"des": "台南市西港區",
+"eng": "Xigang District, Tainan City"
+},
+{
+"no": "6001014021",
+"des": "台南市七股區",
+"eng": "Qigu District, Tainan City"
+},
+{
+"no": "6001014022",
+"des": "台南市將軍區",
+"eng": "Jiangjun District, Tainan City"
+},
+{
+"no": "6001014023",
+"des": "台南市學甲區",
+"eng": "Xuejia District, Tainan City"
+},
+{
+"no": "6001014024",
+"des": "台南市北門區",
+"eng": "Beimen District, Tainan City"
+},
+{
+"no": "6001014025",
+"des": "台南市新營區",
+"eng": "Xinying District, Tainan City"
+},
+{
+"no": "6001014026",
+"des": "台南市後壁區",
+"eng": "Houbi District, Tainan City"
+},
+{
+"no": "6001014027",
+"des": "台南市白河區",
+"eng": "Baihe District, Tainan City"
+},
+{
+"no": "6001014028",
+"des": "台南市東山區",
+"eng": "Dongshan District, Tainan City"
+},
+{
+"no": "6001014029",
+"des": "台南市六甲區",
+"eng": "Liujia District, Tainan City"
+},
+{
+"no": "6001014030",
+"des": "台南市下營區",
+"eng": "Xiaying District, Tainan City"
+},
+{
+"no": "6001014031",
+"des": "台南市柳營區",
+"eng": "Liuying District, Tainan City"
+},
+{
+"no": "6001014032",
+"des": "台南市鹽水區",
+"eng": "Yanshui District, Tainan City"
+},
+{
+"no": "6001014033",
+"des": "台南市善化區",
+"eng": "Shanhua District, Tainan City"
+},
+{
+"no": "6001014034",
+"des": "台南市大內區",
+"eng": "Danei District, Tainan City"
+},
+{
+"no": "6001014035",
+"des": "台南市山上區",
+"eng": "Shanshang District, Tainan City"
+},
+{
+"no": "6001014036",
+"des": "台南市新市區",
+"eng": "Xinshi District, Tainan City"
+},
+{
+"no": "6001014037",
+"des": "台南市安定區",
+"eng": "Anding District, Tainan City"
+}
+],
+"eng": "Tainan City"
+},
+{
+"no": "6001016000",
+"des": "高雄市",
+"n": [
+{
+"no": "6001016001",
+"des": "高雄市新興區",
+"eng": "Xinxing District, Kaohsiung City"
+},
+{
+"no": "6001016002",
+"des": "高雄市前金區",
+"eng": "Qianjin District, Kaohsiung City"
+},
+{
+"no": "6001016003",
+"des": "高雄市苓雅區",
+"eng": "Lingya District, Kaohsiung City"
+},
+{
+"no": "6001016004",
+"des": "高雄市鹽埕區",
+"eng": "Yancheng District, Kaohsiung City"
+},
+{
+"no": "6001016005",
+"des": "高雄市鼓山區",
+"eng": "Gushan District, Kaohsiung City"
+},
+{
+"no": "6001016006",
+"des": "高雄市旗津區",
+"eng": "Qijin District, Kaohsiung City"
+},
+{
+"no": "6001016007",
+"des": "高雄市前鎮區",
+"eng": "Qianzhen District, Kaohsiung City"
+},
+{
+"no": "6001016008",
+"des": "高雄市三民區",
+"eng": "Sanmin District, Kaohsiung City"
+},
+{
+"no": "6001016009",
+"des": "高雄市楠梓區",
+"eng": "Nanzi District, Kaohsiung City"
+},
+{
+"no": "6001016010",
+"des": "高雄市小港區",
+"eng": "Xiaogang District, Kaohsiung City"
+},
+{
+"no": "6001016011",
+"des": "高雄市左營區",
+"eng": "Zuoying District, Kaohsiung City"
+},
+{
+"no": "6001016012",
+"des": "高雄市仁武區",
+"eng": "Renwu District, Kaohsiung City"
+},
+{
+"no": "6001016013",
+"des": "高雄市大社區",
+"eng": "Dashe District, Kaohsiung City"
+},
+{
+"no": "6001016014",
+"des": "高雄市岡山區",
+"eng": "Gangshan District, Kaohsiung City"
+},
+{
+"no": "6001016015",
+"des": "高雄市路竹區",
+"eng": "Luzhu District, Kaohsiung City"
+},
+{
+"no": "6001016016",
+"des": "高雄市阿蓮區",
+"eng": "Alian District, Kaohsiung City"
+},
+{
+"no": "6001016017",
+"des": "高雄市田寮區",
+"eng": "Tianliao District, Kaohsiung City"
+},
+{
+"no": "6001016018",
+"des": "高雄市燕巢區",
+"eng": "Yanchao District, Kaohsiung City"
+},
+{
+"no": "6001016019",
+"des": "高雄市橋頭區",
+"eng": "Qiaotou District, Kaohsiung City"
+},
+{
+"no": "6001016020",
+"des": "高雄市梓官區",
+"eng": "Ziguan District, Kaohsiung City"
+},
+{
+"no": "6001016021",
+"des": "高雄市彌陀區",
+"eng": "Mituo District, Kaohsiung City"
+},
+{
+"no": "6001016022",
+"des": "高雄市永安區",
+"eng": "Yongan District, Kaohsiung City"
+},
+{
+"no": "6001016023",
+"des": "高雄市湖內區",
+"eng": "Hunei District, Kaohsiung City"
+},
+{
+"no": "6001016024",
+"des": "高雄市鳳山區",
+"eng": "Fengshan District, Kaohsiung City"
+},
+{
+"no": "6001016025",
+"des": "高雄市大寮區",
+"eng": "Daliao District, Kaohsiung City"
+},
+{
+"no": "6001016026",
+"des": "高雄市林園區",
+"eng": "Linyuan District, Kaohsiung City"
+},
+{
+"no": "6001016027",
+"des": "高雄市鳥松區",
+"eng": "Niaosong District, Kaohsiung City"
+},
+{
+"no": "6001016028",
+"des": "高雄市大樹區",
+"eng": "Dashu District, Kaohsiung City"
+},
+{
+"no": "6001016029",
+"des": "高雄市旗山區",
+"eng": "Qishan District, Kaohsiung City"
+},
+{
+"no": "6001016030",
+"des": "高雄市美濃區",
+"eng": "Meinong District, Kaohsiung City"
+},
+{
+"no": "6001016031",
+"des": "高雄市六龜區",
+"eng": "Liugui District, Kaohsiung City"
+},
+{
+"no": "6001016032",
+"des": "高雄市內門區",
+"eng": "Neimen District, Kaohsiung City"
+},
+{
+"no": "6001016033",
+"des": "高雄市杉林區",
+"eng": "Shanlin District, Kaohsiung City"
+},
+{
+"no": "6001016034",
+"des": "高雄市甲仙區",
+"eng": "Jiaxian District, Kaohsiung City"
+},
+{
+"no": "6001016035",
+"des": "高雄市桃源區",
+"eng": "Taoyuan District, Kaohsiung City"
+},
+{
+"no": "6001016036",
+"des": "高雄市那瑪夏區",
+"eng": "Namaxia District, Kaohsiung City"
+},
+{
+"no": "6001016037",
+"des": "高雄市茂林區",
+"eng": "Maolin District, Kaohsiung City"
+},
+{
+"no": "6001016038",
+"des": "高雄市茄萣區",
+"eng": "Qieding District, Kaohsiung City"
+}
+],
+"eng": "Kaohsiung City"
+},
+{
+"no": "6001018000",
+"des": "屏東縣",
+"n": [
+{
+"no": "6001018001",
+"des": "屏東縣屏東市",
+"eng": "Pingtung City, Pingtung County"
+},
+{
+"no": "6001018002",
+"des": "屏東縣三地門鄉",
+"eng": "Sandimen Township, Pingtung County"
+},
+{
+"no": "6001018003",
+"des": "屏東縣霧台鄉",
+"eng": "Wutai Township, Pingtung County"
+},
+{
+"no": "6001018004",
+"des": "屏東縣瑪家鄉",
+"eng": "Majia Township, Pingtung County"
+},
+{
+"no": "6001018005",
+"des": "屏東縣九如鄉",
+"eng": "Jiuru Township, Pingtung County"
+},
+{
+"no": "6001018006",
+"des": "屏東縣里港鄉",
+"eng": "Ligang Township, Pingtung County"
+},
+{
+"no": "6001018007",
+"des": "屏東縣高樹鄉",
+"eng": "Gaoshu Township, Pingtung County"
+},
+{
+"no": "6001018008",
+"des": "屏東縣鹽埔鄉",
+"eng": "Yanpu Township, Pingtung County"
+},
+{
+"no": "6001018009",
+"des": "屏東縣長治鄉",
+"eng": "Changzhi Township, Pingtung County"
+},
+{
+"no": "6001018010",
+"des": "屏東縣麟洛鄉",
+"eng": "Linluo Township, Pingtung County"
+},
+{
+"no": "6001018011",
+"des": "屏東縣竹田鄉",
+"eng": "Zhutian Township, Pingtung County"
+},
+{
+"no": "6001018012",
+"des": "屏東縣內埔鄉",
+"eng": "Neipu Township, Pingtung County"
+},
+{
+"no": "6001018013",
+"des": "屏東縣萬丹鄉",
+"eng": "Wandan Township, Pingtung County"
+},
+{
+"no": "6001018014",
+"des": "屏東縣潮州鎮",
+"eng": "Chaozhou Township, Pingtung County"
+},
+{
+"no": "6001018015",
+"des": "屏東縣泰武鄉",
+"eng": "Taiwu Township, Pingtung County"
+},
+{
+"no": "6001018016",
+"des": "屏東縣來義鄉",
+"eng": "Laiyi Township, Pingtung County"
+},
+{
+"no": "6001018017",
+"des": "屏東縣萬巒鄉",
+"eng": "Wanluan Township, Pingtung County"
+},
+{
+"no": "6001018018",
+"des": "屏東縣崁頂鄉",
+"eng": "Kanding Township, Pingtung County"
+},
+{
+"no": "6001018019",
+"des": "屏東縣新埤鄉",
+"eng": "Xinpi Township, Pingtung County"
+},
+{
+"no": "6001018020",
+"des": "屏東縣南州鄉",
+"eng": "Nanzhou Township, Pingtung County"
+},
+{
+"no": "6001018021",
+"des": "屏東縣林邊鄉",
+"eng": "Linbian Township, Pingtung County"
+},
+{
+"no": "6001018022",
+"des": "屏東縣東港鎮",
+"eng": "Donggang Township, Pingtung County"
+},
+{
+"no": "6001018023",
+"des": "屏東縣琉球鄉",
+"eng": "Liuqiu Township, Pingtung County"
+},
+{
+"no": "6001018024",
+"des": "屏東縣佳冬鄉",
+"eng": "Jiadong Township, Pingtung County"
+},
+{
+"no": "6001018025",
+"des": "屏東縣新園鄉",
+"eng": "Xinyuan Township, Pingtung County"
+},
+{
+"no": "6001018026",
+"des": "屏東縣枋寮鄉",
+"eng": "Fangliao Township, Pingtung County"
+},
+{
+"no": "6001018027",
+"des": "屏東縣枋山鄉",
+"eng": "Fangshan Township, Pingtung County"
+},
+{
+"no": "6001018028",
+"des": "屏東縣春日鄉",
+"eng": "Chunri Township, Pingtung County"
+},
+{
+"no": "6001018029",
+"des": "屏東縣獅子鄉",
+"eng": "Shizi Township, Pingtung County"
+},
+{
+"no": "6001018030",
+"des": "屏東縣車城鄉",
+"eng": "Checheng Township, Pingtung County"
+},
+{
+"no": "6001018031",
+"des": "屏東縣牡丹鄉",
+"eng": "Mudan Township, Pingtung County"
+},
+{
+"no": "6001018032",
+"des": "屏東縣恆春鎮",
+"eng": "Hengchun Township, Pingtung County"
+},
+{
+"no": "6001018033",
+"des": "屏東縣滿州鄉",
+"eng": "Manzhou Township, Pingtung County"
+}
+],
+"eng": "Pingtung County"
+},
+{
+"no": "6001019000",
+"des": "台東縣",
+"n": [
+{
+"no": "6001019001",
+"des": "台東縣台東市",
+"eng": "Taitung City, Taitung County"
+},
+{
+"no": "6001019002",
+"des": "台東縣綠島鄉",
+"eng": "Green Island Township, Taitung County"
+},
+{
+"no": "6001019003",
+"des": "台東縣蘭嶼鄉",
+"eng": "Lanyu Township, Taitung County"
+},
+{
+"no": "6001019004",
+"des": "台東縣延平鄉",
+"eng": "Yanping Township, Taitung County"
+},
+{
+"no": "6001019005",
+"des": "台東縣卑南鄉",
+"eng": "Beinan Township, Taitung County"
+},
+{
+"no": "6001019006",
+"des": "台東縣鹿野鄉",
+"eng": "Luye Township, Taitung County"
+},
+{
+"no": "6001019007",
+"des": "台東縣關山鎮",
+"eng": "Guanshan Township, Taitung County"
+},
+{
+"no": "6001019008",
+"des": "台東縣海端鄉",
+"eng": "Haiduan Township, Taitung County"
+},
+{
+"no": "6001019009",
+"des": "台東縣池上鄉",
+"eng": "Chishang Township, Taitung County"
+},
+{
+"no": "6001019010",
+"des": "台東縣東河鄉",
+"eng": "Donghe Township, Taitung County"
+},
+{
+"no": "6001019011",
+"des": "台東縣成功鎮",
+"eng": "Chenggong Township, Taitung County"
+},
+{
+"no": "6001019012",
+"des": "台東縣長濱鄉",
+"eng": "Changbin Township, Taitung County"
+},
+{
+"no": "6001019013",
+"des": "台東縣太麻里鄉",
+"eng": "Taimali Township, Taitung County"
+},
+{
+"no": "6001019014",
+"des": "台東縣金峰鄉",
+"eng": "Jinfeng Township, Taitung County"
+},
+{
+"no": "6001019015",
+"des": "台東縣大武鄉",
+"eng": "Dawu Township, Taitung County"
+},
+{
+"no": "6001019016",
+"des": "台東縣達仁鄉",
+"eng": "Daren Township, Taitung County"
+}
+],
+"eng": "Taitung County"
+},
+{
+"no": "6001020000",
+"des": "花蓮縣",
+"n": [
+{
+"no": "6001020001",
+"des": "花蓮縣花蓮市",
+"eng": "Hualien City, Hualien County"
+},
+{
+"no": "6001020002",
+"des": "花蓮縣新城鄉",
+"eng": "Xincheng Township, Hualien County"
+},
+{
+"no": "6001020003",
+"des": "花蓮縣秀林鄉",
+"eng": "Xiulin Township, Hualien County"
+},
+{
+"no": "6001020004",
+"des": "花蓮縣吉安鄉",
+"eng": "Jian Township, Hualien County"
+},
+{
+"no": "6001020005",
+"des": "花蓮縣壽豐鄉",
+"eng": "Shoufeng Township, Hualien County"
+},
+{
+"no": "6001020006",
+"des": "花蓮縣鳳林鎮",
+"eng": "Fenglin Township, Hualien County"
+},
+{
+"no": "6001020007",
+"des": "花蓮縣光復鄉",
+"eng": "Guangfu Township, Hualien County"
+},
+{
+"no": "6001020008",
+"des": "花蓮縣豐濱鄉",
+"eng": "Fengbin Township, Hualien County"
+},
+{
+"no": "6001020009",
+"des": "花蓮縣瑞穗鄉",
+"eng": "Ruisui Township, Hualien County"
+},
+{
+"no": "6001020010",
+"des": "花蓮縣萬榮鄉",
+"eng": "Wanrong Township, Hualien County"
+},
+{
+"no": "6001020011",
+"des": "花蓮縣玉里鎮",
+"eng": "Yuli Township, Hualien County"
+},
+{
+"no": "6001020012",
+"des": "花蓮縣卓溪鄉",
+"eng": "Zhuoxi Township, Hualien County"
+},
+{
+"no": "6001020013",
+"des": "花蓮縣富里鄉",
+"eng": "Fuli Township, Hualien County"
+}
+],
+"eng": "Hualien County"
+},
+{
+"no": "6001021000",
+"des": "澎湖縣",
+"n": [
+{
+"no": "6001021001",
+"des": "澎湖縣馬公市",
+"eng": "Magong City, Penghu County"
+},
+{
+"no": "6001021002",
+"des": "澎湖縣西嶼鄉",
+"eng": "Xiyu Township, Penghu County"
+},
+{
+"no": "6001021003",
+"des": "澎湖縣望安鄉",
+"eng": "Wangan Township, Penghu County"
+},
+{
+"no": "6001021004",
+"des": "澎湖縣七美鄉",
+"eng": "Cimei Township, Penghu County"
+},
+{
+"no": "6001021005",
+"des": "澎湖縣白沙鄉",
+"eng": "Baisha Township, Penghu County"
+},
+{
+"no": "6001021006",
+"des": "澎湖縣湖西鄉",
+"eng": "Huxi Township, Penghu County "
+}
+],
+"eng": "Penghu County"
+},
+{
+"no": "6001022000",
+"des": "金門縣",
+"n": [
+{
+"no": "6001022001",
+"des": "金門縣金沙鎮",
+"eng": "Jinsha Township, Kinmen County"
+},
+{
+"no": "6001022002",
+"des": "金門縣金湖鎮",
+"eng": "Jinhu Township, Kinmen County"
+},
+{
+"no": "6001022003",
+"des": "金門縣金寧鄉",
+"eng": "Jinning Township, Kinmen County"
+},
+{
+"no": "6001022004",
+"des": "金門縣金城鎮",
+"eng": "Jincheng Township, Kinmen County"
+},
+{
+"no": "6001022005",
+"des": "金門縣烈嶼鄉",
+"eng": "Lieyu Township, Kinmen County"
+},
+{
+"no": "6001022006",
+"des": "金門縣烏坵鄉",
+"eng": "Wuqiu Township, Kinmen County"
+}
+],
+"eng": "Kinmen County"
+},
+{
+"no": "6001023000",
+"des": "連江縣",
+"n": [
+{
+"no": "6001023001",
+"des": "連江縣南竿鄉",
+"eng": "Nangan Township, Lienchiang County"
+},
+{
+"no": "6001023002",
+"des": "連江縣北竿鄉",
+"eng": "Beigan Township, Lienchiang County"
+},
+{
+"no": "6001023003",
+"des": "連江縣莒光鄉",
+"eng": "Juguang Township, Lienchiang County"
+},
+{
+"no": "6001023004",
+"des": "連江縣東引鄉",
+"eng": "Dongyin Township, Lienchiang County"
+}
+],
+"eng": "Lienchiang County, Kinmen County"
+}
+],
+"eng": "Taiwan"
+},
+{
+"no": "6002000000",
+"des": "大陸地區",
+"n": [
+{
+"no": "6002001000",
+"des": "北京市",
+"n": [
+{
+"no": "6002001001",
+"des": "北京市",
+"eng": "Beijing"
+}
+],
+"eng": "Beijing"
+},
+{
+"no": "6002002000",
+"des": "天津市",
+"n": [
+{
+"no": "6002002001",
+"des": "天津市",
+"eng": "Tianjin"
+}
+],
+"eng": "Tianjin "
+},
+{
+"no": "6002003000",
+"des": "上海市",
+"n": [
+{
+"no": "6002003001",
+"des": "上海市",
+"eng": "Shanghai"
+}
+],
+"eng": "Shanghai"
+},
+{
+"no": "6002004000",
+"des": "重慶市",
+"n": [
+{
+"no": "6002004001",
+"des": "重慶市",
+"eng": "Chongqing"
+}
+],
+"eng": "Chongqing"
+},
+{
+"no": "6002005000",
+"des": "廣東省",
+"n": [
+{
+"no": "6002005001",
+"des": "廣東省廣州市",
+"eng": "Guangzhou, Guangdong Province"
+},
+{
+"no": "6002005002",
+"des": "廣東省韶關市",
+"eng": "Shaoguan, Guangdong Province "
+},
+{
+"no": "6002005003",
+"des": "廣東省深圳市",
+"eng": "Shenzhen, Guangdong Province"
+},
+{
+"no": "6002005004",
+"des": "廣東省珠海市",
+"eng": "Zhuhai, Guangdong Province "
+},
+{
+"no": "6002005005",
+"des": "廣東省汕頭市",
+"eng": "Shantou, Guangdong Province "
+},
+{
+"no": "6002005006",
+"des": "廣東省佛山市",
+"eng": "Foshan, Guangdong Province"
+},
+{
+"no": "6002005007",
+"des": "廣東省江門市",
+"eng": "Jiangmen, Guangdong Province "
+},
+{
+"no": "6002005008",
+"des": "廣東省湛江市",
+"eng": "Zhanjiang, Guangdong Province"
+},
+{
+"no": "6002005009",
+"des": "廣東省茂名市",
+"eng": "Maoming, Guangdong Province"
+},
+{
+"no": "6002005010",
+"des": "廣東省肇慶市",
+"eng": "Zhaoqing, Guangdong Province"
+},
+{
+"no": "6002005011",
+"des": "廣東省惠州市",
+"eng": "Huizhou, Guangdong Province"
+},
+{
+"no": "6002005012",
+"des": "廣東省梅州市",
+"eng": "Meizhou, Guangdong Province"
+},
+{
+"no": "6002005013",
+"des": "廣東省汕尾市",
+"eng": "Shanwei, Guangdong Province "
+},
+{
+"no": "6002005014",
+"des": "廣東省河源市",
+"eng": "Heyuan, Guangdong Province"
+},
+{
+"no": "6002005015",
+"des": "廣東省陽江市",
+"eng": "Yangjiang, Guangdong Province"
+},
+{
+"no": "6002005016",
+"des": "廣東省清遠市",
+"eng": "Qingyuan, Guangdong Province"
+},
+{
+"no": "6002005017",
+"des": "廣東省東莞市",
+"eng": "Dongguan, Guangdong Province"
+},
+{
+"no": "6002005018",
+"des": "廣東省中山市",
+"eng": "Zhongshan, Guangdong Province"
+},
+{
+"no": "6002005019",
+"des": "廣東省潮州市",
+"eng": "Chaozhou, Guangdong Province"
+},
+{
+"no": "6002005020",
+"des": "廣東省揭陽市",
+"eng": "Jieyang, Guangdong Province"
+},
+{
+"no": "6002005021",
+"des": "廣東省雲浮市",
+"eng": "Yunfu, Guangdong Province"
+}
+],
+"eng": "Guangdong Province"
+},
+{
+"no": "6002006000",
+"des": "福建省",
+"n": [
+{
+"no": "6002006001",
+"des": "福建省福州市",
+"eng": "Fuzhou, Fujian Province"
+},
+{
+"no": "6002006002",
+"des": "福建省廈門市",
+"eng": "Xiamen, Fujian Province"
+},
+{
+"no": "6002006003",
+"des": "福建省莆田市",
+"eng": "Putian, Fujian Province"
+},
+{
+"no": "6002006004",
+"des": "福建省三明市",
+"eng": "Sanming, Fujian Province"
+},
+{
+"no": "6002006005",
+"des": "福建省泉州市",
+"eng": "Quanzhou, Fujian Province"
+},
+{
+"no": "6002006006",
+"des": "福建省漳州市",
+"eng": "Zhangzhou, Fujian Province"
+},
+{
+"no": "6002006007",
+"des": "福建省南平市",
+"eng": "Nanping, Fujian Province"
+},
+{
+"no": "6002006008",
+"des": "福建省龍岩市",
+"eng": "Longyan, Fujian Province"
+},
+{
+"no": "6002006009",
+"des": "福建省寧德市",
+"eng": "Ningde, Fujian Province"
+}
+],
+"eng": "Fujian Province"
+},
+{
+"no": "6002007000",
+"des": "海南省",
+"n": [
+{
+"no": "6002007001",
+"des": "海南省海口市",
+"eng": "Haikou, Hainan Province"
+},
+{
+"no": "6002007002",
+"des": "海南省三亞市",
+"eng": "Sanya, Hainan Province"
+},
+{
+"no": "6002007003",
+"des": "海南省省直轄",
+"eng": "Federal Territory of Hainan Province"
+}
+],
+"eng": "Hainan Province"
+},
+{
+"no": "6002008000",
+"des": "浙江省",
+"n": [
+{
+"no": "6002008001",
+"des": "浙江省杭州市",
+"eng": "Hangzhou, Zhejiang Province"
+},
+{
+"no": "6002008002",
+"des": "浙江省寧波市",
+"eng": "Ningbo, Zhejiang Province"
+},
+{
+"no": "6002008003",
+"des": "浙江省溫州市",
+"eng": "Wenzhou, Zhejiang Province"
+},
+{
+"no": "6002008004",
+"des": "浙江省嘉興市",
+"eng": "Jiaxing, Zhejiang Province"
+},
+{
+"no": "6002008005",
+"des": "浙江省湖州市",
+"eng": "Huzhou, Zhejiang Province"
+},
+{
+"no": "6002008006",
+"des": "浙江省紹興市",
+"eng": "Shaoxing, Zhejiang Province"
+},
+{
+"no": "6002008007",
+"des": "浙江省金華市",
+"eng": "Jinhua, Zhejiang Province"
+},
+{
+"no": "6002008008",
+"des": "浙江省衢州市",
+"eng": "Quzhou, Zhejiang Province"
+},
+{
+"no": "6002008009",
+"des": "浙江省舟山市",
+"eng": "Zhoushan, Zhejiang Province"
+},
+{
+"no": "6002008010",
+"des": "浙江省台州市",
+"eng": "Taizhou, Zhejiang Province"
+},
+{
+"no": "6002008011",
+"des": "浙江省麗水市",
+"eng": "Lishui, Zhejiang Province"
+}
+],
+"eng": "Zhejiang Province"
+},
+{
+"no": "6002009000",
+"des": "江蘇省",
+"n": [
+{
+"no": "6002009001",
+"des": "江蘇省蘇州市",
+"eng": "Suzhou, Jiangsu Province"
+},
+{
+"no": "6002009002",
+"des": "江蘇省南京市",
+"eng": "Nanjing, Jiangsu Province"
+},
+{
+"no": "6002009003",
+"des": "江蘇省無錫市",
+"eng": "Wuxi, Jiangsu Province"
+},
+{
+"no": "6002009004",
+"des": "江蘇省徐州市",
+"eng": "Xuzhou, Jiangsu Province"
+},
+{
+"no": "6002009005",
+"des": "江蘇省常州市",
+"eng": "Changzhou, Jiangsu Province"
+},
+{
+"no": "6002009006",
+"des": "江蘇省南通市",
+"eng": "Nantong, Jiangsu Province"
+},
+{
+"no": "6002009007",
+"des": "江蘇省連雲港市",
+"eng": "Lianyungang, Jiangsu Province"
+},
+{
+"no": "6002009008",
+"des": "江蘇省淮安市",
+"eng": "Huaian, Jiangsu Province"
+},
+{
+"no": "6002009009",
+"des": "江蘇省鹽城市",
+"eng": "Yancheng, Jiangsu Province "
+},
+{
+"no": "6002009010",
+"des": "江蘇省揚州市",
+"eng": "Yangzhou, Jiangsu Province"
+},
+{
+"no": "6002009011",
+"des": "江蘇省鎮江市",
+"eng": "Zhenjiang, Jiangsu Province"
+},
+{
+"no": "6002009012",
+"des": "江蘇省泰州市",
+"eng": "Taizhou, Jiangsu Province"
+},
+{
+"no": "6002009013",
+"des": "江蘇省宿遷市",
+"eng": "Suqian, Jiangsu Province"
+}
+],
+"eng": "Jiangsu Province"
+},
+{
+"no": "6002010000",
+"des": "山東省",
+"n": [
+{
+"no": "6002010001",
+"des": "山東省濟南市",
+"eng": "Jinan, Shandong Province "
+},
+{
+"no": "6002010002",
+"des": "山東省青島市",
+"eng": "Qingdao, Shandong Province "
+},
+{
+"no": "6002010003",
+"des": "山東省淄博市",
+"eng": "Zibo, Shandong Province"
+},
+{
+"no": "6002010004",
+"des": "山東省棗庄市",
+"eng": "Zaozhuang, Shandong Province"
+},
+{
+"no": "6002010005",
+"des": "山東省東營市",
+"eng": "Dongying, Shandong Province"
+},
+{
+"no": "6002010006",
+"des": "山東省煙台市",
+"eng": "Yantai, Shandong Province"
+},
+{
+"no": "6002010007",
+"des": "山東省濰坊市",
+"eng": "Weifang, Shandong Province "
+},
+{
+"no": "6002010008",
+"des": "山東省濟寧市",
+"eng": "Jining, Shandong Province"
+},
+{
+"no": "6002010009",
+"des": "山東省泰安市",
+"eng": "Taian, Shandong Province"
+},
+{
+"no": "6002010010",
+"des": "山東省威海市",
+"eng": "Weihai, Shandong Province"
+},
+{
+"no": "6002010011",
+"des": "山東省日照市",
+"eng": "Rizhao, Shandong Province"
+},
+{
+"no": "6002010012",
+"des": "山東省萊蕪市",
+"eng": "Laiwu, Shandong Province"
+},
+{
+"no": "6002010013",
+"des": "山東省臨沂市",
+"eng": "Linyi, Shandong Province"
+},
+{
+"no": "6002010014",
+"des": "山東省德州市",
+"eng": "Dezhou, Shandong Province"
+},
+{
+"no": "6002010015",
+"des": "山東省聊城市",
+"eng": "Liaocheng, Shandong Province "
+},
+{
+"no": "6002010016",
+"des": "山東省濱州市",
+"eng": "Binzhou, Shandong Province"
+},
+{
+"no": "6002010017",
+"des": "山東省荷澤市",
+"eng": "Heze, Shandong Province"
+}
+],
+"eng": "Shandong Province"
+},
+{
+"no": "6002011000",
+"des": "河北省",
+"n": [
+{
+"no": "6002011001",
+"des": "河北省石家庄市",
+"eng": "Shijiazhuang, Hebei Province"
+},
+{
+"no": "6002011002",
+"des": "河北省唐山市",
+"eng": "Tangshan, Hebei Province"
+},
+{
+"no": "6002011003",
+"des": "河北省秦皇島市",
+"eng": "Qinhuangdao, Hebei Province"
+},
+{
+"no": "6002011004",
+"des": "河北省邯鄲市",
+"eng": "Handan, Shandong Province"
+},
+{
+"no": "6002011005",
+"des": "河北省邢台市",
+"eng": "Xingtai, Hebei Province"
+},
+{
+"no": "6002011006",
+"des": "河北省保定市",
+"eng": "Baoding, Hebei Province"
+},
+{
+"no": "6002011007",
+"des": "河北省張家口市",
+"eng": "Zhangjiakou, Hebei Province "
+},
+{
+"no": "6002011008",
+"des": "河北省承德市",
+"eng": "Chengde, Hebei Province "
+},
+{
+"no": "6002011009",
+"des": "河北省滄州市",
+"eng": "Cangzhou, Hebei Province "
+},
+{
+"no": "6002011010",
+"des": "河北省廊坊市",
+"eng": "Langfang, Hebei Province"
+},
+{
+"no": "6002011011",
+"des": "河北省衡水市",
+"eng": "Hengshui, Hebri Province"
+}
+],
+"eng": "Hebei Province"
+},
+{
+"no": "6002012000",
+"des": "遼寧省",
+"n": [
+{
+"no": "6002012001",
+"des": "遼寧省瀋陽市",
+"eng": "Shenyang, Liaoning Province"
+},
+{
+"no": "6002012002",
+"des": "遼寧省大連市",
+"eng": "Dalian, Liaoning Province"
+},
+{
+"no": "6002012003",
+"des": "遼寧省鞍山市",
+"eng": "Anshan, Liaoning Province"
+},
+{
+"no": "6002012004",
+"des": "遼寧省撫順市",
+"eng": "Fushun, Liaoning Province"
+},
+{
+"no": "6002012005",
+"des": "遼寧省本溪市",
+"eng": "Benxi, Liaoning Province "
+},
+{
+"no": "6002012006",
+"des": "遼寧省丹東市",
+"eng": "Dandong, Liaoning Province "
+},
+{
+"no": "6002012007",
+"des": "遼寧省錦州市",
+"eng": "Jinzhou, Liaoning Province"
+},
+{
+"no": "6002012008",
+"des": "遼寧省營口市",
+"eng": "Yingkou, Liaoning Province "
+},
+{
+"no": "6002012009",
+"des": "遼寧省阜新市",
+"eng": "Fuxin, Liaoning Province"
+},
+{
+"no": "6002012010",
+"des": "遼寧省遼陽市",
+"eng": "Liaoyang, Liaoning Province"
+},
+{
+"no": "6002012011",
+"des": "遼寧省盤錦市",
+"eng": "Panjin, Liaoning Province"
+},
+{
+"no": "6002012012",
+"des": "遼寧省鐵嶺市",
+"eng": "Tieling, Liaoning Province"
+},
+{
+"no": "6002012013",
+"des": "遼寧省朝陽市",
+"eng": "Chaoyang, Liaoning Province"
+},
+{
+"no": "6002012014",
+"des": "遼寧省葫蘆島市",
+"eng": "Huludao, Liaoning Province"
+}
+],
+"eng": "Liaoning Province"
+},
+{
+"no": "6002013000",
+"des": "吉林省",
+"n": [
+{
+"no": "6002013001",
+"des": "吉林省長春市",
+"eng": "Changchun, Jilin Province"
+},
+{
+"no": "6002013002",
+"des": "吉林省吉林市",
+"eng": "Jilin City, Jilin Province"
+},
+{
+"no": "6002013003",
+"des": "吉林省四平市",
+"eng": "Siping, Jilin Province"
+},
+{
+"no": "6002013004",
+"des": "吉林省遼源市",
+"eng": "Liaoyuan, Jilin Province"
+},
+{
+"no": "6002013005",
+"des": "吉林省通化市",
+"eng": "Tonghua, Jilin Province"
+},
+{
+"no": "6002013006",
+"des": "吉林省白山市",
+"eng": "Baishan, Jilin Province"
+},
+{
+"no": "6002013007",
+"des": "吉林省松原市",
+"eng": "Songyuan, Jilin Province"
+},
+{
+"no": "6002013008",
+"des": "吉林省白城市",
+"eng": "Baicheng, Jilin Province"
+},
+{
+"no": "6002013009",
+"des": "吉林省延邊朝鮮族自治州",
+"eng": "Yanbian Korean Autonomous Prefecture"
+}
+],
+"eng": "Jilin Province"
+},
+{
+"no": "6002014000",
+"des": "黑龍江省",
+"n": [
+{
+"no": "6002014001",
+"des": "黑龍江省哈爾濱市",
+"eng": "Harbin, Heilongjiang Province"
+},
+{
+"no": "6002014002",
+"des": "黑龍江省齊齊哈爾市",
+"eng": "Qiqihar, Heilongjiang Province"
+},
+{
+"no": "6002014003",
+"des": "黑龍江省雞西市",
+"eng": "Jixi, Heilongjiang Province"
+},
+{
+"no": "6002014004",
+"des": "黑龍江省鶴崗市",
+"eng": "Hegang, Heilongjiang Province"
+},
+{
+"no": "6002014005",
+"des": "黑龍江省雙鴨山市",
+"eng": "Shuangyashan, Heilongjiang Province"
+},
+{
+"no": "6002014006",
+"des": "黑龍江省大慶市",
+"eng": "Daqing, Heilongjiang Province"
+},
+{
+"no": "6002014007",
+"des": "黑龍江省伊春市",
+"eng": "Yichun, Heilongjiang Province"
+},
+{
+"no": "6002014008",
+"des": "黑龍江省佳木斯市",
+"eng": "Jiamusi, Heilongjiang Province"
+},
+{
+"no": "6002014009",
+"des": "黑龍江省七台河市",
+"eng": "Qitaihe, Heilongjiang Province"
+},
+{
+"no": "6002014010",
+"des": "黑龍江省牡丹江市",
+"eng": "Mudanjiang, Heilongjiang Province"
+},
+{
+"no": "6002014011",
+"des": "黑龍江省黑河市",
+"eng": "Heihe, Heilongjiang Province"
+},
+{
+"no": "6002014012",
+"des": "黑龍江省綏化市",
+"eng": "Suihua, Heilongjiang Province"
+},
+{
+"no": "6002014013",
+"des": "黑龍江省大興安嶺地區",
+"eng": "Daxinganling Prefecture, Heilongjiang Province"
+}
+],
+"eng": "Heilongjiang Province"
+},
+{
+"no": "6002015000",
+"des": "湖南省",
+"n": [
+{
+"no": "6002015001",
+"des": "湖南省長沙市",
+"eng": "Changsha, Hunan Province"
+},
+{
+"no": "6002015002",
+"des": "湖南省株洲市",
+"eng": "Zhuzhou, Hunan Province"
+},
+{
+"no": "6002015003",
+"des": "湖南省湘潭市",
+"eng": "Xiangtan, Hunan Province"
+},
+{
+"no": "6002015004",
+"des": "湖南省衡陽市",
+"eng": "Hengyang, Hunan Province"
+},
+{
+"no": "6002015005",
+"des": "湖南省邵陽市",
+"eng": "Shaoyang, Hunan Province"
+},
+{
+"no": "6002015006",
+"des": "湖南省岳陽市",
+"eng": "Yueyang, Hunan Province"
+},
+{
+"no": "6002015007",
+"des": "湖南省常德市",
+"eng": "Changde, Yunan Province"
+},
+{
+"no": "6002015008",
+"des": "湖南省張家界市",
+"eng": "Zhangjiajie, Hunan Province"
+},
+{
+"no": "6002015009",
+"des": "湖南省益陽市",
+"eng": "Yiyang, Hunan Province"
+},
+{
+"no": "6002015010",
+"des": "湖南省郴州市",
+"eng": "Chenzhou, Hunan Province"
+},
+{
+"no": "6002015011",
+"des": "湖南省永州市",
+"eng": "Yongzhou, Hunan Province"
+},
+{
+"no": "6002015012",
+"des": "湖南省懷化市",
+"eng": "Huaihua, Hunan Province"
+},
+{
+"no": "6002015013",
+"des": "湖南省婁底市",
+"eng": "Loudi, Hunan Province"
+},
+{
+"no": "6002015014",
+"des": "湖南省湘西土家族苗族自治州",
+"eng": "Xiangxi Tujia and Miao Autonomous Prefecture, Hunan Province"
+}
+],
+"eng": "Hunan Province"
+},
+{
+"no": "6002016000",
+"des": "湖北省",
+"n": [
+{
+"no": "6002016001",
+"des": "湖北省武漢市",
+"eng": "Wuhan, Hubei Province"
+},
+{
+"no": "6002016002",
+"des": "湖北省黃石市",
+"eng": "Huangshi, Hubei Province"
+},
+{
+"no": "6002016003",
+"des": "湖北省十堰市",
+"eng": "Shiyan, Hubei Province"
+},
+{
+"no": "6002016004",
+"des": "湖北省宜昌市",
+"eng": "Yichang, Hubei Province"
+},
+{
+"no": "6002016005",
+"des": "湖北省襄陽市",
+"eng": "Xiangyang, Hubei Province"
+},
+{
+"no": "6002016006",
+"des": "湖北省鄂州市",
+"eng": "Ezhou, Hubei Province"
+},
+{
+"no": "6002016007",
+"des": "湖北省荊門市",
+"eng": "Jingmen, Hubei Province"
+},
+{
+"no": "6002016008",
+"des": "湖北省孝感市",
+"eng": "Xiaogan, Hubei Province"
+},
+{
+"no": "6002016009",
+"des": "湖北省荊州市",
+"eng": "Jingzhou, Hubei Province"
+},
+{
+"no": "6002016010",
+"des": "湖北省黃岡市",
+"eng": "Huanggang, Hubei Province"
+},
+{
+"no": "6002016011",
+"des": "湖北省咸寧市",
+"eng": "Xianning, Hubei Province"
+},
+{
+"no": "6002016012",
+"des": "湖北省隨州市",
+"eng": "Suizhou, Hubei Province"
+},
+{
+"no": "6002016013",
+"des": "湖北省神衣架林區",
+"eng": "Shennongjia Forest District, Hubei Province"
+},
+{
+"no": "6002016014",
+"des": "湖北省天門市",
+"eng": "Tianmen, Hubei Province"
+},
+{
+"no": "6002016015",
+"des": "湖北省替江市",
+"eng": "Qianjiang, Hubei Province"
+},
+{
+"no": "6002016016",
+"des": "湖北省仙桃市",
+"eng": "Xiantao, Hubei Province"
+},
+{
+"no": "6002016017",
+"des": "湖北省恩施土家族苗族自治州",
+"eng": "Enshi Tujia and Miao Autonomous Prefecture, Hubei Province"
+},
+{
+"no": "6002016018",
+"des": "湖北省省直轄",
+"eng": "Federal Territory of Hubei Province"
+}
+],
+"eng": "Hubei Province"
+},
+{
+"no": "6002017000",
+"des": "江西省",
+"n": [
+{
+"no": "6002017001",
+"des": "江西省南昌市",
+"eng": "Nanchang, Jiangxi Province"
+},
+{
+"no": "6002017002",
+"des": "江西省景德鎮市",
+"eng": "Jingdezhen, Jiangxi Province"
+},
+{
+"no": "6002017003",
+"des": "江西省萍鄉市",
+"eng": "Pingxiang, Jiangxi Province"
+},
+{
+"no": "6002017004",
+"des": "江西省九江市",
+"eng": "Jiujiang, Jiangxi Province"
+},
+{
+"no": "6002017005",
+"des": "江西省新余市",
+"eng": "Xinyu, Jiangxi Province"
+},
+{
+"no": "6002017006",
+"des": "江西省鷹潭市",
+"eng": "Yingtan, Jiangxi Province"
+},
+{
+"no": "6002017007",
+"des": "江西省贛州市",
+"eng": "Ganzhou, Jiangxi Province"
+},
+{
+"no": "6002017008",
+"des": "江西省吉安市",
+"eng": "Jian, Jiangxi Province"
+},
+{
+"no": "6002017009",
+"des": "江西省宜春市",
+"eng": "Yichun, Jiangxi Province"
+},
+{
+"no": "6002017010",
+"des": "江西省撫州市",
+"eng": "Fuzhou, Jiangxi Province"
+},
+{
+"no": "6002017011",
+"des": "江西省上饒市",
+"eng": "Shangrao, Jiangxi Province"
+}
+],
+"eng": "Jiangxi Province"
+},
+{
+"no": "6002018000",
+"des": "安徽省",
+"n": [
+{
+"no": "6002018001",
+"des": "安徽省合肥市",
+"eng": "Hefei, Anhui Province"
+},
+{
+"no": "6002018002",
+"des": "安徽省蕪湖市",
+"eng": "Wuhu, Anhui Province"
+},
+{
+"no": "6002018003",
+"des": "安徽省蚌埠市",
+"eng": "Bengbu, Anhui Province"
+},
+{
+"no": "6002018004",
+"des": "安徽省淮南市",
+"eng": "Huainan, Anhui Province"
+},
+{
+"no": "6002018005",
+"des": "安徽省馬鞍山市",
+"eng": "Maanshan, Anhui Province"
+},
+{
+"no": "6002018006",
+"des": "安徽省淮北市",
+"eng": "Huaibei, Anhui Province"
+},
+{
+"no": "6002018007",
+"des": "安徽省銅陵市",
+"eng": "Tongling, Anhui Province"
+},
+{
+"no": "6002018008",
+"des": "安徽省安慶市",
+"eng": "Anqing, Anhui Province"
+},
+{
+"no": "6002018009",
+"des": "安徽省黃山市",
+"eng": "Huangshan, Anhui Province"
+},
+{
+"no": "6002018010",
+"des": "安徽省滁州市",
+"eng": "Chuzhou, Anhui Province"
+},
+{
+"no": "6002018011",
+"des": "安徽省阜陽市",
+"eng": "Fuyang, Anhui Province"
+},
+{
+"no": "6002018012",
+"des": "安徽省宿州市",
+"eng": "Suzhou, Anhui Province"
+},
+{
+"no": "6002018013",
+"des": "安徽省巢湖市",
+"eng": "Chaohu, Anhui Province"
+},
+{
+"no": "6002018014",
+"des": "安徽省六安市",
+"eng": "Luan, Anhui Province"
+},
+{
+"no": "6002018015",
+"des": "安徽省亳州市",
+"eng": "Bozhou, Anhui Province"
+},
+{
+"no": "6002018016",
+"des": "安徽省池州市",
+"eng": "Chizhou, Anhui Province"
+},
+{
+"no": "6002018017",
+"des": "安徽省宣城市",
+"eng": "Xuancheng, Anhui Province"
+}
+],
+"eng": "Anhui Province"
+},
+{
+"no": "6002019000",
+"des": "河南省",
+"n": [
+{
+"no": "6002019001",
+"des": "河南省鄭州市",
+"eng": "Zhengzhou, Henan Province"
+},
+{
+"no": "6002019002",
+"des": "河南省開封市",
+"eng": "Kaifeng, Henan Province"
+},
+{
+"no": "6002019003",
+"des": "河南省洛陽市",
+"eng": "Luoyang, Henan Province"
+},
+{
+"no": "6002019004",
+"des": "河南省平頂山市",
+"eng": "Pingdingshan, Henan Province"
+},
+{
+"no": "6002019005",
+"des": "河南省安陽市",
+"eng": "Anyang, Henan Province"
+},
+{
+"no": "6002019006",
+"des": "河南省鶴壁市",
+"eng": "Hebi, Henan Province"
+},
+{
+"no": "6002019007",
+"des": "河南省新鄉市",
+"eng": "Xinxiang, Henan Province"
+},
+{
+"no": "6002019008",
+"des": "河南省焦作市",
+"eng": "Jiaozuo, Henan Province"
+},
+{
+"no": "6002019009",
+"des": "河南省濮陽市",
+"eng": "Puyang, Henan Province"
+},
+{
+"no": "6002019010",
+"des": "河南省許昌市",
+"eng": "Xuchang, Henan Province"
+},
+{
+"no": "6002019011",
+"des": "河南省漯河市",
+"eng": "Luohe, Henan Province"
+},
+{
+"no": "6002019012",
+"des": "河南省三門峽市",
+"eng": "Sanmenxia, Henan Province"
+},
+{
+"no": "6002019013",
+"des": "河南省南陽市",
+"eng": "Nanyang, Henan Province"
+},
+{
+"no": "6002019014",
+"des": "河南省商丘市",
+"eng": "Shangqiu, Henan Province"
+},
+{
+"no": "6002019015",
+"des": "河南省信陽市",
+"eng": "Xinyang, Henan Province"
+},
+{
+"no": "6002019016",
+"des": "河南省周口市",
+"eng": "Zhoukou, Henan Province"
+},
+{
+"no": "6002019017",
+"des": "河南省駐馬店市",
+"eng": "Zhumadian, Henan Province"
+},
+{
+"no": "6002019018",
+"des": "河南省濟源市",
+"eng": "Jiyuan, Henan Province"
+},
+{
+"no": "6002019019",
+"des": "河南省省直轄",
+"eng": "Federal Territory of Henan Province"
+}
+],
+"eng": "Henan Province"
+},
+{
+"no": "6002020000",
+"des": "山西省",
+"n": [
+{
+"no": "6002020001",
+"des": "山西省太原市",
+"eng": "Taiyuan, Shanxi Province"
+},
+{
+"no": "6002020002",
+"des": "山西省大同市",
+"eng": "Datong, Shangxi Province"
+},
+{
+"no": "6002020003",
+"des": "山西省陽泉市",
+"eng": "Yangquan, Shangxi Province"
+},
+{
+"no": "6002020004",
+"des": "山西省長治市",
+"eng": "Changzhi, Shangxi Province"
+},
+{
+"no": "6002020005",
+"des": "山西省晉城市",
+"eng": "Jincheng, Shangxi Province"
+},
+{
+"no": "6002020006",
+"des": "山西省朔州市",
+"eng": "Shuozhou, Shangxi Province"
+},
+{
+"no": "6002020007",
+"des": "山西省晉中市",
+"eng": "Jinzhong, Shangxi Province"
+},
+{
+"no": "6002020008",
+"des": "山西省運城市",
+"eng": "Yuncheng, Shangxi Province"
+},
+{
+"no": "6002020009",
+"des": "山西省忻州市",
+"eng": "Xinzhou, Shangxi Province"
+},
+{
+"no": "6002020010",
+"des": "山西省臨汾市",
+"eng": "Linfen, Shangxi Province "
+},
+{
+"no": "6002020011",
+"des": "山西省呂梁市",
+"eng": "Lüliang, Shangxi Province"
+}
+],
+"eng": "Shanxi Province"
+},
+{
+"no": "6002021000",
+"des": "陜西省",
+"n": [
+{
+"no": "6002021001",
+"des": "陜西省西安市",
+"eng": "Xian, Shaanxi Province"
+},
+{
+"no": "6002021002",
+"des": "陜西省銅川市",
+"eng": "Tongchuan, Shaanxi Province"
+},
+{
+"no": "6002021003",
+"des": "陜西省寶雞市",
+"eng": "Baoji, Shaanxi Province"
+},
+{
+"no": "6002021004",
+"des": "陜西省咸陽市",
+"eng": "Xianyang, Shaanxi Province"
+},
+{
+"no": "6002021005",
+"des": "陜西省渭南市",
+"eng": "Weinan, Shaanxi Province"
+},
+{
+"no": "6002021006",
+"des": "陜西省延安市",
+"eng": "Yanan, Shaanxi Province"
+},
+{
+"no": "6002021007",
+"des": "陜西省漢中市",
+"eng": "Hanzhong, Shaanxi Province"
+},
+{
+"no": "6002021008",
+"des": "陜西省榆林市",
+"eng": "Yulin, Shaanxi Province"
+},
+{
+"no": "6002021009",
+"des": "陜西省安康市",
+"eng": "Ankang, Shaanxi Province"
+},
+{
+"no": "6002021010",
+"des": "陜西省商洛市",
+"eng": "Shangluo, Shaanxi Province"
+}
+],
+"eng": "Shaanxi Province"
+},
+{
+"no": "6002022000",
+"des": "甘肅省",
+"n": [
+{
+"no": "6002022001",
+"des": "甘肅省蘭州市",
+"eng": "Lanzhou, Gansu Province"
+},
+{
+"no": "6002022002",
+"des": "甘肅省嘉峪關市",
+"eng": "Jiayuguan, Gansu Province"
+},
+{
+"no": "6002022003",
+"des": "甘肅省白銀市",
+"eng": "Baiyin, Gansu Province"
+},
+{
+"no": "6002022004",
+"des": "甘肅省天水市",
+"eng": "Tianshui, Gansu Province"
+},
+{
+"no": "6002022005",
+"des": "甘肅省武威市",
+"eng": "Wuwei, Gansu Province"
+},
+{
+"no": "6002022006",
+"des": "甘肅省張掖市",
+"eng": "Zhangye, Gansu Province"
+},
+{
+"no": "6002022007",
+"des": "甘肅省平涼市",
+"eng": "Pingliang, Gansu Province"
+},
+{
+"no": "6002022008",
+"des": "甘肅省酒泉市",
+"eng": "Jiuquan, Gansu Province"
+},
+{
+"no": "6002022009",
+"des": "甘肅省慶陽市",
+"eng": "Qingyang, Gansu Province"
+},
+{
+"no": "6002022010",
+"des": "甘肅省定西市",
+"eng": "Dingxi, Gansu Province"
+},
+{
+"no": "6002022011",
+"des": "甘肅省隴南市",
+"eng": "Longnan, Gansu Province"
+},
+{
+"no": "6002022012",
+"des": "甘肅省金昌市",
+"eng": "Jinchang, Gansu Province"
+},
+{
+"no": "6002022013",
+"des": "甘肅省臨夏回族自治州",
+"eng": "Linxia Hui Autonomous Prefecture, Gansu Province"
+},
+{
+"no": "6002022014",
+"des": "甘肅省甘南藏族自治州",
+"eng": "Gannan Tibetan Autonomous Prefecture"
+}
+],
+"eng": "Gansu Province"
+},
+{
+"no": "6002023000",
+"des": "青海省",
+"n": [
+{
+"no": "6002023001",
+"des": "青海省西寧市",
+"eng": "Xining, Qinghai Province"
+},
+{
+"no": "6002023002",
+"des": "青海省海東市",
+"eng": "Haidong, Qinghai Province"
+},
+{
+"no": "6002023003",
+"des": "青海省海北藏族自治州",
+"eng": "Haibei Tibetan Autonomous Prefecture, Qinghai Province"
+},
+{
+"no": "6002023004",
+"des": "青海省黃南藏族自治州",
+"eng": "Huangnan Tibetan Autonomous Prefecture, Qinghai Province"
+},
+{
+"no": "6002023005",
+"des": "青海省海南藏族自治州",
+"eng": "Hainan Tibetan Autonomous Prefecture, Qinghai Province"
+},
+{
+"no": "6002023006",
+"des": "青海省果洛藏族自治州",
+"eng": "Golog Tibetan Autonomous Prefecture, Qinghai Province"
+},
+{
+"no": "6002023007",
+"des": "青海省玉樹藏族自治州",
+"eng": "Yushu Tibetan Autonomous Prefecture, Qinghai Province"
+},
+{
+"no": "6002023008",
+"des": "青海省海西蒙古族藏族自治州",
+"eng": "Haixi Mongol and Tibetan Autonomous Prefecture, Qinghai Province"
+}
+],
+"eng": "Qinghai Province"
+},
+{
+"no": "6002024000",
+"des": "四川省",
+"n": [
+{
+"no": "6002024001",
+"des": "四川省成都市",
+"eng": "Chengdu, Sichuan Province"
+},
+{
+"no": "6002024002",
+"des": "四川省自貢市",
+"eng": "Zigong, Sichuan Province"
+},
+{
+"no": "6002024003",
+"des": "四川省攀枝花市",
+"eng": "Panzhihua, Sichuan Province"
+},
+{
+"no": "6002024004",
+"des": "四川省瀘州市",
+"eng": "Luzhou, Sichuan Province"
+},
+{
+"no": "6002024005",
+"des": "四川省德陽市",
+"eng": "Deyang, Sichuan Province"
+},
+{
+"no": "6002024006",
+"des": "四川省綿陽市",
+"eng": "Mianyang, Sichuan Province"
+},
+{
+"no": "6002024007",
+"des": "四川省廣元市",
+"eng": "Guangyuan, Sichuan Province"
+},
+{
+"no": "6002024008",
+"des": "四川省遂寧市",
+"eng": "Suining, Sichuan Province"
+},
+{
+"no": "6002024009",
+"des": "四川省內江市",
+"eng": "Neijiang, Sichuan Province"
+},
+{
+"no": "6002024010",
+"des": "四川省樂山市",
+"eng": "Leshan, Sichuan Province"
+},
+{
+"no": "6002024011",
+"des": "四川省南充市",
+"eng": "Nanchong, Sichuan Province"
+},
+{
+"no": "6002024012",
+"des": "四川省眉山市",
+"eng": "Meishan, Sichuan Province"
+},
+{
+"no": "6002024013",
+"des": "四川省宜賓市",
+"eng": "Yibin, Sichuan Province"
+},
+{
+"no": "6002024014",
+"des": "四川省廣安市",
+"eng": "Guangan, Sichuan Province"
+},
+{
+"no": "6002024015",
+"des": "四川省達州市",
+"eng": "Dazhou, Sichuan Province"
+},
+{
+"no": "6002024016",
+"des": "四川省雅安市",
+"eng": "Yaan, Sichuan Province"
+},
+{
+"no": "6002024017",
+"des": "四川省巴中市",
+"eng": "Bazhong, Sichuan Province"
+},
+{
+"no": "6002024018",
+"des": "四川省資陽市",
+"eng": "Ziyang, Sichuan Province"
+},
+{
+"no": "6002024019",
+"des": "四川省阿壩藏族羌族自治州",
+"eng": "Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan Province"
+},
+{
+"no": "6002024020",
+"des": "四川省甘孜藏族自治州",
+"eng": "Garzê Tibetan Autonomous Prefecture, Sichuan Province"
+},
+{
+"no": "6002024021",
+"des": "四川省涼山彝族自治州",
+"eng": "Liangshan Yi Autonomous Prefecture, Sichuan Province"
+}
+],
+"eng": "Sichuan Province"
+},
+{
+"no": "6002025000",
+"des": "貴州省",
+"n": [
+{
+"no": "6002025001",
+"des": "貴州省貴陽市",
+"eng": "Guiyang, Guizhou Province"
+},
+{
+"no": "6002025002",
+"des": "貴州省六盤水市",
+"eng": "Liupanshui, Guizhou Province"
+},
+{
+"no": "6002025003",
+"des": "貴州省遵義市",
+"eng": "Zunyi, Guizhou Province"
+},
+{
+"no": "6002025004",
+"des": "貴州省安順市",
+"eng": "Anshun, Guizhou Province"
+},
+{
+"no": "6002025005",
+"des": "貴州省銅仁市",
+"eng": "Tongren, Guizhou Province"
+},
+{
+"no": "6002025006",
+"des": "貴州省黔西南布依族苗族自治州",
+"eng": "Qianxinan Buyei and Miao Autonomous Prefecture, Guizhou Province"
+},
+{
+"no": "6002025007",
+"des": "貴州省畢節市",
+"eng": "Bijie, Guizhou Province"
+},
+{
+"no": "6002025008",
+"des": "貴州省黔東南苗族侗族自治州",
+"eng": "Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Prefecture"
+},
+{
+"no": "6002025009",
+"des": "貴州省黔南布依族苗族自治州",
+"eng": "Qiannan Buyei and Miao Autonomous Prefecture, Guizhou Prefecture"
+}
+],
+"eng": "Guizhou Province"
+},
+{
+"no": "6002026000",
+"des": "雲南省",
+"n": [
+{
+"no": "6002026001",
+"des": "雲南省昆明市",
+"eng": "Kunming City, Yunnan Province"
+},
+{
+"no": "6002026002",
+"des": "雲南省曲靖市",
+"eng": "Qujing, Yunnan Province"
+},
+{
+"no": "6002026003",
+"des": "雲南省玉溪市",
+"eng": "Yuxi, Yunnan Province"
+},
+{
+"no": "6002026004",
+"des": "雲南省保山市",
+"eng": "Baoshan, Yunnan Province"
+},
+{
+"no": "6002026005",
+"des": "雲南省昭通市",
+"eng": "Zhaotong, Yunnan Province"
+},
+{
+"no": "6002026006",
+"des": "雲南省麗江市",
+"eng": "Lijiang, Yunnan Province"
+},
+{
+"no": "6002026007",
+"des": "雲南省普洱市",
+"eng": "Puer, Yunnan Province"
+},
+{
+"no": "6002026008",
+"des": "雲南省臨滄市",
+"eng": "Lincang, Yunnan Province"
+},
+{
+"no": "6002026009",
+"des": "雲南省楚雄彝族自治州",
+"eng": "Chuxiong Yi Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026010",
+"des": "雲南省紅河哈尼族彝族自治洲",
+"eng": "Honghe Hani and Yi Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026011",
+"des": "雲南省文山壯族苗族自治州",
+"eng": "Wenshan Zhuang and Miao Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026012",
+"des": "雲南省西雙版納傣族自治州",
+"eng": "Xishuangbanna Dai Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026013",
+"des": "雲南省大理白族自治州",
+"eng": "Dali Bai Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026014",
+"des": "雲南省德宏傣族景頗族自治州",
+"eng": "Dehong Dai and Jingpo Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026015",
+"des": "雲南省怒江僳族自治州",
+"eng": "Nujiang Lisu Autonomous Prefecture, Yunnan Province"
+},
+{
+"no": "6002026016",
+"des": "雲南省迪慶藏族自治州",
+"eng": "Diqing Tibetan Autonomous Prefecture, Yunnan Province"
+}
+],
+"eng": "Yunnan Province"
+},
+{
+"no": "6002027000",
+"des": "內蒙古自治區",
+"n": [
+{
+"no": "6002027001",
+"des": "內蒙古呼和浩特市",
+"eng": "Hohhot, Inner Mongolia"
+},
+{
+"no": "6002027002",
+"des": "內蒙古包頭市",
+"eng": "Baotou, Inner Mongolia"
+},
+{
+"no": "6002027003",
+"des": "內蒙古烏海市",
+"eng": "Wuhai, Inner Mongolia"
+},
+{
+"no": "6002027004",
+"des": "內蒙古赤峰市",
+"eng": "Chifeng, Inner Mongolia"
+},
+{
+"no": "6002027005",
+"des": "內蒙古通遼市",
+"eng": "Tongliao, Inner Mongolia"
+},
+{
+"no": "6002027006",
+"des": "內蒙古鄂爾多斯市",
+"eng": "Ordos, Inner Mongolia"
+},
+{
+"no": "6002027007",
+"des": "內蒙古呼倫貝爾市",
+"eng": "Hulunbuir, Inner Mongolia"
+},
+{
+"no": "6002027008",
+"des": "內蒙古巴彥淖爾市",
+"eng": "Bayannur, Inner Mongolia"
+},
+{
+"no": "6002027009",
+"des": "內蒙古烏蘭察布市",
+"eng": "Ulanqab, Inner Mongolia"
+},
+{
+"no": "6002027010",
+"des": "內蒙古興安盟",
+"eng": "Hinggan League, Inner Mongolia"
+},
+{
+"no": "6002027011",
+"des": "內蒙古錫林郭勒盟",
+"eng": "Xilingol League, Inner Mongolia"
+},
+{
+"no": "6002027012",
+"des": "內蒙古阿拉善盟",
+"eng": "Alashan League, Inner Mongolia"
+}
+],
+"eng": "Inner Mongolia "
+},
+{
+"no": "6002028000",
+"des": "西藏自治區",
+"n": [
+{
+"no": "6002028001",
+"des": "西藏拉薩市",
+"eng": "Lhasa, Tibet"
+},
+{
+"no": "6002028002",
+"des": "西藏昌都市",
+"eng": "Chamdo, Tibet"
+},
+{
+"no": "6002028003",
+"des": "西藏山南市",
+"eng": "Shannan, Tibet "
+},
+{
+"no": "6002028004",
+"des": "西藏日喀則市",
+"eng": "Shigatse, Tibet"
+},
+{
+"no": "6002028005",
+"des": "西藏那曲市",
+"eng": "Nagqu, Tibet"
+},
+{
+"no": "6002028006",
+"des": "西藏阿里地區",
+"eng": "Ngari Prefecture, Tibet"
+},
+{
+"no": "6002028007",
+"des": "西藏林芝市",
+"eng": "Nyingchi, Tibet"
+}
+],
+"eng": "Tibet Autonomous Region"
+},
+{
+"no": "6002029000",
+"des": "寧夏回族自治區",
+"n": [
+{
+"no": "6002029001",
+"des": "寧夏銀川市",
+"eng": "Yinchuan, Ningxia"
+},
+{
+"no": "6002029002",
+"des": "寧夏石嘴山市",
+"eng": "Shizuishan, Ningxia"
+},
+{
+"no": "6002029003",
+"des": "寧夏吳忠市",
+"eng": "Wuzhong, Ningxia"
+},
+{
+"no": "6002029004",
+"des": "寧夏固原市",
+"eng": "Guyuan, Ningxia"
+},
+{
+"no": "6002029005",
+"des": "寧夏中衛市",
+"eng": "Zhongwei, Ningxia"
+}
+],
+"eng": "Ningxia Hui Autonomous Region"
+},
+{
+"no": "6002030000",
+"des": "新疆維吾爾自治區",
+"n": [
+{
+"no": "6002030001",
+"des": "新疆烏魯木齊市",
+"eng": "Ürümqi, Xinjiang"
+},
+{
+"no": "6002030002",
+"des": "新疆克拉瑪依市",
+"eng": "Karamay, Xinjiang"
+},
+{
+"no": "6002030003",
+"des": "新疆吐魯番市",
+"eng": "Turpan, Xinjiang"
+},
+{
+"no": "6002030004",
+"des": "新疆哈密市",
+"eng": "Hami, Xinjiang"
+},
+{
+"no": "6002030005",
+"des": "新疆昌吉回族自治州",
+"eng": "Changji Hui Autonomous Prefecture, Xinjiang"
+},
+{
+"no": "6002030006",
+"des": "新疆博爾塔拉蒙古自治州",
+"eng": "Bortala Mongol Autonomous Prefecture, Xinjiang"
+},
+{
+"no": "6002030007",
+"des": "新疆巴音郭楞蒙古自治州",
+"eng": "Bayingolin Mongol Autonomous Prefecture, Xinjiang"
+},
+{
+"no": "6002030008",
+"des": "新疆阿克蘇地區",
+"eng": "Aksu Prefecture, Xinjiang"
+},
+{
+"no": "6002030009",
+"des": "新疆克孜勒蘇柯爾克孜自治州",
+"eng": "Kizilsu Kyrgyz Autonomous Prefecture, Xinjiang"
+},
+{
+"no": "6002030010",
+"des": "新疆喀什地區",
+"eng": "Kashgar Prefecture, Xinjiang"
+},
+{
+"no": "6002030011",
+"des": "新疆和田地區",
+"eng": "Hotan Prefecture, Xinjiang"
+},
+{
+"no": "6002030012",
+"des": "新疆伊犁哈薩克自治州",
+"eng": "Xinjiang Ili Kazak Autonomous Prefecture, Xinjiang"
+},
+{
+"no": "6002030013",
+"des": "新疆塔城地區",
+"eng": "Tacheng Prefecture, Xinjiang"
+},
+{
+"no": "6002030014",
+"des": "新疆阿勒泰地區",
+"eng": "Altay Prefecture, Xinjiang"
+}
+],
+"eng": "Xinjiang Uygur Autonomous Region"
+},
+{
+"no": "6002031000",
+"des": "廣西壯族自治區",
+"n": [
+{
+"no": "6002031001",
+"des": "廣西南寧市",
+"eng": "Nanning, Guangxi "
+},
+{
+"no": "6002031002",
+"des": "廣西柳州市",
+"eng": "Liuzhou, Guangxi "
+},
+{
+"no": "6002031003",
+"des": "廣西桂林市",
+"eng": "Guilin, Guangxi "
+},
+{
+"no": "6002031004",
+"des": "廣西梧州市",
+"eng": "Wuzhou, Guangxi "
+},
+{
+"no": "6002031005",
+"des": "廣西北海市",
+"eng": "Beihai, Guangxi "
+},
+{
+"no": "6002031006",
+"des": "廣西防城港市",
+"eng": "Fangchenggang, Guanxi "
+},
+{
+"no": "6002031007",
+"des": "廣西欽州市",
+"eng": "Qinzhou, Guanxi"
+},
+{
+"no": "6002031008",
+"des": "廣西貴港市",
+"eng": "Guigang, Guanxi"
+},
+{
+"no": "6002031009",
+"des": "廣西玉林市",
+"eng": "Yulin, Guanxi"
+},
+{
+"no": "6002031010",
+"des": "廣西百色市",
+"eng": "Baise, Guangxi"
+},
+{
+"no": "6002031011",
+"des": "廣西賀州市",
+"eng": "Hezhou, Guanxi"
+},
+{
+"no": "6002031012",
+"des": "廣西河池市",
+"eng": "Hechi, Guangxi"
+},
+{
+"no": "6002031013",
+"des": "廣西來賓市",
+"eng": "Liangbin, Guangxi"
+},
+{
+"no": "6002031014",
+"des": "廣西崇左市",
+"eng": "Chongzuo, Guangxi"
+}
+],
+"eng": "Guangxi Zhuang Autonomous Region"
+},
+{
+"no": "6002032000",
+"des": "香港特別行政區",
+"n": [
+{
+"no": "6002032001",
+"des": "香港特別行政區",
+"eng": "Hong Kong Special Administrative Region"
+}
+],
+"eng": "Hong Kong Special Administrative Region"
+},
+{
+"no": "6002033000",
+"des": "澳門特別行政區",
+"n": [
+{
+"no": "6002033001",
+"des": "澳門特別行政區",
+"eng": "Macao Special Administrative Region"
+}
+],
+"eng": "Macao Special Administrative Region"
+}
+],
+"eng": "Mainland China"
+},
+{
+"no": "6003000000",
+"des": "其他亞洲",
+"n": [
+{
+"no": "6003001000",
+"des": "東北亞",
+"n": [
+{
+"no": "6003001001",
+"des": "日本",
+"eng": "Japan"
+},
+{
+"no": "6003001002",
+"des": "北韓",
+"eng": "North Korea"
+},
+{
+"no": "6003001003",
+"des": "南韓",
+"eng": "South Korea"
+}
+],
+"eng": "Northeast Asia"
+},
+{
+"no": "6003002000",
+"des": "東南亞",
+"n": [
+{
+"no": "6003002001",
+"des": "越南",
+"eng": "Vietnam"
+},
+{
+"no": "6003002002",
+"des": "寮國",
+"eng": "Laos"
+},
+{
+"no": "6003002003",
+"des": "柬埔寨",
+"eng": "Cambodia"
+},
+{
+"no": "6003002004",
+"des": "緬甸",
+"eng": "Myanmar"
+},
+{
+"no": "6003002005",
+"des": "泰國",
+"eng": "Thailand"
+},
+{
+"no": "6003002006",
+"des": "馬來西亞",
+"eng": "Malaysia"
+},
+{
+"no": "6003002007",
+"des": "新加坡",
+"eng": "Singapore"
+},
+{
+"no": "6003002008",
+"des": "菲律賓",
+"eng": "Philippines"
+},
+{
+"no": "6003002009",
+"des": "汶萊",
+"eng": "Brunei"
+},
+{
+"no": "6003002010",
+"des": "印尼",
+"eng": "Indonesia"
+}
+],
+"eng": "Southeast Asia"
+},
+{
+"no": "6003003000",
+"des": "亞洲其他",
+"n": [
+{
+"no": "6003003001",
+"des": "阿富汗",
+"eng": "Afghanistan"
+},
+{
+"no": "6003003002",
+"des": "巴林",
+"eng": "Bahrain"
+},
+{
+"no": "6003003003",
+"des": "伊朗",
+"eng": "Iran"
+},
+{
+"no": "6003003004",
+"des": "伊拉克",
+"eng": "Iraq"
+},
+{
+"no": "6003003005",
+"des": "以色列",
+"eng": "Israel"
+},
+{
+"no": "6003003006",
+"des": "約旦",
+"eng": "Jordan"
+},
+{
+"no": "6003003007",
+"des": "科威特",
+"eng": "Kuwait"
+},
+{
+"no": "6003003008",
+"des": "黎巴嫩",
+"eng": "Lebanon"
+},
+{
+"no": "6003003009",
+"des": "阿曼",
+"eng": "Oman"
+},
+{
+"no": "6003003010",
+"des": "卡達",
+"eng": "Qatar"
+},
+{
+"no": "6003003011",
+"des": "沙烏地阿拉伯",
+"eng": "Saudi Arabia"
+},
+{
+"no": "6003003012",
+"des": "敘利亞",
+"eng": "Syria"
+},
+{
+"no": "6003003013",
+"des": "土耳其",
+"eng": "Turkey"
+},
+{
+"no": "6003003014",
+"des": "阿拉伯聯合大公國",
+"eng": "United Arab Emirates"
+},
+{
+"no": "6003003015",
+"des": "葉門",
+"eng": "Yemen"
+},
+{
+"no": "6003003016",
+"des": "孟加拉",
+"eng": "Bangladesh"
+},
+{
+"no": "6003003017",
+"des": "不丹",
+"eng": "Bhutan"
+},
+{
+"no": "6003003018",
+"des": "印度",
+"eng": "India"
+},
+{
+"no": "6003003019",
+"des": "馬爾地夫",
+"eng": "Maldives"
+},
+{
+"no": "6003003020",
+"des": "尼泊爾",
+"eng": "Nepal"
+},
+{
+"no": "6003003021",
+"des": "巴基斯坦",
+"eng": "Pakistan"
+},
+{
+"no": "6003003022",
+"des": "斯里蘭卡",
+"eng": "Sri Lanka"
+},
+{
+"no": "6003003023",
+"des": "蒙古",
+"eng": "Mongolia"
+},
+{
+"no": "6003003024",
+"des": "俄羅斯",
+"eng": "Russia"
+},
+{
+"no": "6003003025",
+"des": "亞美尼亞",
+"eng": "Armenia"
+},
+{
+"no": "6003003026",
+"des": "亞塞拜然",
+"eng": "Azerbaijan"
+},
+{
+"no": "6003003029",
+"des": "喬治亞",
+"eng": "Georgia"
+},
+{
+"no": "6003003032",
+"des": "東帝汶",
+"eng": "Timor-Leste"
+},
+{
+"no": "6003003033",
+"des": "哈薩克",
+"eng": "Kazakhstan"
+},
+{
+"no": "6003003034",
+"des": "吉爾吉斯",
+"eng": "Kyrgyzstan"
+},
+{
+"no": "6003003035",
+"des": "塔吉克",
+"eng": "Tajikistan"
+},
+{
+"no": "6003003036",
+"des": "土庫曼",
+"eng": "Turkmenistan"
+},
+{
+"no": "6003003037",
+"des": "烏茲別克",
+"eng": "Uzbekistan"
+},
+{
+"no": "6003003038",
+"des": "巴勒斯坦",
+"eng": "Palestine"
+}
+],
+"eng": "Other parts of Asia"
+}
+],
+"eng": "Other parts of Asia"
+},
+{
+"no": "6004000000",
+"des": "大洋洲",
+"n": [
+{
+"no": "6004001000",
+"des": "紐澳",
+"n": [
+{
+"no": "6004001001",
+"des": "澳洲",
+"eng": "Australia"
+},
+{
+"no": "6004001002",
+"des": "紐西蘭",
+"eng": "New Zealand"
+},
+{
+"no": "6004001003",
+"des": "巴布亞紐幾內亞",
+"eng": "Papua New Guinea"
+}
+],
+"eng": "New Zealand and Australia"
+},
+{
+"no": "6004002000",
+"des": "大洋洲其他",
+"n": [
+{
+"no": "6004002001",
+"des": "庫克群島",
+"eng": "Cook Islands"
+},
+{
+"no": "6004002002",
+"des": "斐濟",
+"eng": "Fiji"
+},
+{
+"no": "6004002003",
+"des": "吉里巴斯",
+"eng": "Kiribati"
+},
+{
+"no": "6004002005",
+"des": "馬紹爾群島",
+"eng": "Marshall Islands"
+},
+{
+"no": "6004002006",
+"des": "密克羅尼西亞",
+"eng": "Micronesia"
+},
+{
+"no": "6004002007",
+"des": "諾魯",
+"eng": "Nauru"
+},
+{
+"no": "6004002008",
+"des": "紐埃",
+"eng": "Niue"
+},
+{
+"no": "6004002009",
+"des": "帛琉",
+"eng": "Palau"
+},
+{
+"no": "6004002010",
+"des": "薩摩亞",
+"eng": "Samoa"
+},
+{
+"no": "6004002011",
+"des": "索羅門群島",
+"eng": "Solomon Islands"
+},
+{
+"no": "6004002012",
+"des": "東加",
+"eng": "Tonga"
+},
+{
+"no": "6004002013",
+"des": "吐瓦魯",
+"eng": "Tuvalu"
+},
+{
+"no": "6004002014",
+"des": "萬那杜",
+"eng": "Vanuatu"
+},
+{
+"no": "6004002015",
+"des": "新喀里多尼亞",
+"eng": "New Caledonia"
+},
+{
+"no": "6004002016",
+"des": "法屬玻里尼西亞",
+"eng": "French Polynesia"
+}
+],
+"eng": "Other parts of Oceania"
+}
+],
+"eng": "Oceania"
+},
+{
+"no": "6005000000",
+"des": "美加地區",
+"n": [
+{
+"no": "6005001000",
+"des": "加拿大",
+"n": [
+{
+"no": "6005001001",
+"des": "加拿大",
+"eng": "Canada"
+}
+],
+"eng": "Canada"
+},
+{
+"no": "6005002000",
+"des": "美東地區",
+"n": [
+{
+"no": "6005002001",
+"des": "美國康乃狄克州",
+"eng": "Connecticut, United States"
+},
+{
+"no": "6005002002",
+"des": "美國麻塞諸塞州",
+"eng": "Massachusetts, United States"
+},
+{
+"no": "6005002003",
+"des": "美國緬因州",
+"eng": "Maine, United States"
+},
+{
+"no": "6005002004",
+"des": "美國新罕布什爾州",
+"eng": "New Hampshire, United States"
+},
+{
+"no": "6005002005",
+"des": "美國羅得島州",
+"eng": "Rhode Island, United States"
+},
+{
+"no": "6005002006",
+"des": "美國佛蒙特州",
+"eng": "Vermont, United States"
+},
+{
+"no": "6005002007",
+"des": "美國哥倫比亞特區州",
+"eng": "District of Columbia, United States"
+},
+{
+"no": "6005002008",
+"des": "美國德拉瓦州",
+"eng": "Delaware, United States"
+},
+{
+"no": "6005002009",
+"des": "美國馬里蘭州",
+"eng": "Maryland, United States"
+},
+{
+"no": "6005002010",
+"des": "美國新澤西州",
+"eng": "New Jersey, United States."
+},
+{
+"no": "6005002011",
+"des": "美國紐約州",
+"eng": "New York State, United States"
+},
+{
+"no": "6005002012",
+"des": "美國賓夕凡尼亞州",
+"eng": "Pennsylvania, United States"
+},
+{
+"no": "6005002013",
+"des": "美國阿拉巴馬州",
+"eng": "Alabama, United States"
+},
+{
+"no": "6005002014",
+"des": "美國阿肯色州",
+"eng": "Arkansas, United States"
+},
+{
+"no": "6005002015",
+"des": "美國佛羅里達州",
+"eng": "Florida, United States"
+},
+{
+"no": "6005002016",
+"des": "美國喬治亞州",
+"eng": "Georgia, United States"
+},
+{
+"no": "6005002017",
+"des": "美國肯塔基州",
+"eng": "Kentucky, United States"
+},
+{
+"no": "6005002018",
+"des": "美國路易斯安那州",
+"eng": "Louisiana, United States"
+},
+{
+"no": "6005002019",
+"des": "美國密西西比州",
+"eng": "Mississippi, United States"
+},
+{
+"no": "6005002020",
+"des": "美國北卡羅萊納州",
+"eng": "North Carolina, United States"
+},
+{
+"no": "6005002021",
+"des": "美國南卡羅萊納州",
+"eng": "South Carolina, United States"
+},
+{
+"no": "6005002022",
+"des": "美國田納西州",
+"eng": "Tennessee, United States"
+},
+{
+"no": "6005002023",
+"des": "美國維吉尼亞州",
+"eng": "Virginia, United States"
+},
+{
+"no": "6005002024",
+"des": "美國西維吉尼亞州",
+"eng": "West Virginia, United States"
+}
+],
+"eng": "Eastern United States"
+},
+{
+"no": "6005003000",
+"des": "美西地區",
+"n": [
+{
+"no": "6005003001",
+"des": "美國加利佛尼亞州",
+"eng": "California, United States"
+},
+{
+"no": "6005003002",
+"des": "美國科羅拉多州",
+"eng": "Colorado, United States"
+},
+{
+"no": "6005003003",
+"des": "美國愛達荷州",
+"eng": "Idaho, United States"
+},
+{
+"no": "6005003004",
+"des": "美國蒙大拿州",
+"eng": "Montana, United States"
+},
+{
+"no": "6005003005",
+"des": "美國內華達州",
+"eng": "Nevada, United States"
+},
+{
+"no": "6005003006",
+"des": "美國俄勒岡州",
+"eng": "Oregon, United States"
+},
+{
+"no": "6005003007",
+"des": "美國猶他州",
+"eng": "Utah, United States"
+},
+{
+"no": "6005003008",
+"des": "美國華盛頓州",
+"eng": "Washington, United States"
+},
+{
+"no": "6005003009",
+"des": "美國懷俄明州",
+"eng": "Wyoming, United States"
+},
+{
+"no": "6005003010",
+"des": "美國阿拉斯加州",
+"eng": "Alaska, United States"
+},
+{
+"no": "6005003011",
+"des": "美國夏威夷州",
+"eng": "Hawaii, United States"
+},
+{
+"no": "6005003012",
+"des": "美國關島",
+"eng": "Guam, United States"
+},
+{
+"no": "6005003013",
+"des": "美國賽班島",
+"eng": "Saipan, United States"
+}
+],
+"eng": "Western United States"
+},
+{
+"no": "6005004000",
+"des": "美中地區",
+"n": [
+{
+"no": "6005004001",
+"des": "美國愛荷華州",
+"eng": "Iowa, United States"
+},
+{
+"no": "6005004002",
+"des": "美國伊利諾州",
+"eng": "Illinois, United States"
+},
+{
+"no": "6005004003",
+"des": "美國印地安那州",
+"eng": "Indiana, United States"
+},
+{
+"no": "6005004004",
+"des": "美國堪薩斯州",
+"eng": "Kansas, United States"
+},
+{
+"no": "6005004005",
+"des": "美國密西根州",
+"eng": "Michigan, United States"
+},
+{
+"no": "6005004006",
+"des": "美國明尼蘇達州",
+"eng": "Minnesota, United States"
+},
+{
+"no": "6005004007",
+"des": "美國密蘇里州",
+"eng": "Missouri, United States"
+},
+{
+"no": "6005004008",
+"des": "美國北達科達州",
+"eng": "North Dakota, United States."
+},
+{
+"no": "6005004009",
+"des": "美國內布拉斯加州",
+"eng": "Nebraska, United States"
+},
+{
+"no": "6005004010",
+"des": "美國俄亥俄州",
+"eng": "Ohio, United States"
+},
+{
+"no": "6005004011",
+"des": "美國南達科達州",
+"eng": "South Dakota, United States."
+},
+{
+"no": "6005004012",
+"des": "美國威斯康辛州",
+"eng": "Wisconsin, United States"
+},
+{
+"no": "6005004013",
+"des": "美國亞利桑那州",
+"eng": "Arizona, United States"
+},
+{
+"no": "6005004014",
+"des": "美國新墨西哥州",
+"eng": "New Mexico, United States"
+},
+{
+"no": "6005004015",
+"des": "美國奧克拉荷馬州",
+"eng": "Oklahoma, United States"
+},
+{
+"no": "6005004016",
+"des": "美國德克薩斯州",
+"eng": "Texas, United States"
+}
+],
+"eng": "Midwestern United States"
+}
+],
+"eng": "United States and Canada"
+},
+{
+"no": "6006000000",
+"des": "中南美洲",
+"n": [
+{
+"no": "6006001000",
+"des": "中美洲",
+"n": [
+{
+"no": "6006001001",
+"des": "貝里斯",
+"eng": "Belize"
+},
+{
+"no": "6006001002",
+"des": "哥斯大黎加",
+"eng": "Costa Rica"
+},
+{
+"no": "6006001003",
+"des": "薩爾瓦多",
+"eng": "El Salvador"
+},
+{
+"no": "6006001004",
+"des": "瓜地馬拉",
+"eng": "Guatemala"
+},
+{
+"no": "6006001005",
+"des": "宏都拉斯",
+"eng": "Honduras"
+},
+{
+"no": "6006001006",
+"des": "尼加拉瓜",
+"eng": "Nicaragua"
+},
+{
+"no": "6006001007",
+"des": "巴拿馬",
+"eng": "Panama"
+},
+{
+"no": "6006001011",
+"des": "墨西哥",
+"eng": "Mexico"
+},
+{
+"no": "6006001012",
+"des": "聖文森",
+"eng": "Saint Vincent"
+},
+{
+"no": "6006001013",
+"des": "古巴",
+"eng": "Cuba"
+},
+{
+"no": "6006001014",
+"des": "聖露西亞",
+"eng": "Saint Lucia"
+},
+{
+"no": "6006001015",
+"des": "安地卡及巴布達",
+"eng": "Antigua and Barbuda"
+},
+{
+"no": "6006001016",
+"des": "阿魯巴",
+"eng": "Aruba"
+},
+{
+"no": "6006001017",
+"des": "巴貝多",
+"eng": "Barbados"
+},
+{
+"no": "6006001018",
+"des": "百慕達",
+"eng": "Bermuda"
+},
+{
+"no": "6006001019",
+"des": "巴哈馬",
+"eng": "Bahamas"
+},
+{
+"no": "6006001020",
+"des": "多米尼克",
+"eng": "Dominica"
+},
+{
+"no": "6006001021",
+"des": "瓜德羅普",
+"eng": "Guadeloupe"
+},
+{
+"no": "6006001022",
+"des": "海地",
+"eng": "Haiti"
+},
+{
+"no": "6006001023",
+"des": "牙買加",
+"eng": "Jamaica"
+},
+{
+"no": "6006001024",
+"des": "聖克里斯多福及尼維斯",
+"eng": "Saint Christopher and Nevis"
+},
+{
+"no": "6006001025",
+"des": "蓋曼群島",
+"eng": "Cayman Islands"
+},
+{
+"no": "6006001026",
+"des": "波多黎各",
+"eng": "Puerto Rico"
+},
+{
+"no": "6006001027",
+"des": "千里達及托巴哥",
+"eng": "Trinidad and Tobago"
+},
+{
+"no": "6006001028",
+"des": "英屬維京群島",
+"eng": "British Virgin Islands"
+},
+{
+"no": "6006001029",
+"des": "美屬維京群島",
+"eng": "United States Virgin Islands"
+},
+{
+"no": "6006001030",
+"des": "荷屬安地列斯",
+"eng": "Netherlands Antilles"
+}
+],
+"eng": "Central America"
+},
+{
+"no": "6006002000",
+"des": "南美洲",
+"n": [
+{
+"no": "6006002001",
+"des": "巴拉圭",
+"eng": "Paraguay"
+},
+{
+"no": "6006002002",
+"des": "巴西",
+"eng": "Brazil"
+},
+{
+"no": "6006002003",
+"des": "智利",
+"eng": "Chile"
+},
+{
+"no": "6006002004",
+"des": "玻利維亞",
+"eng": "Bolivia"
+},
+{
+"no": "6006002005",
+"des": "秘魯",
+"eng": "Peru"
+},
+{
+"no": "6006002006",
+"des": "蘇利南",
+"eng": "Suriname"
+},
+{
+"no": "6006002007",
+"des": "阿根廷",
+"eng": "Argentina"
+},
+{
+"no": "6006002008",
+"des": "烏拉圭",
+"eng": "Uruguay"
+},
+{
+"no": "6006002009",
+"des": "厄瓜多",
+"eng": "Ecuador"
+},
+{
+"no": "6006002010",
+"des": "哥倫比亞",
+"eng": "Columbia"
+},
+{
+"no": "6006002011",
+"des": "多明尼加",
+"eng": "Dominican Republic"
+},
+{
+"no": "6006002012",
+"des": "委內瑞拉",
+"eng": "Venezuela"
+},
+{
+"no": "6006002013",
+"des": "法屬圭亞那",
+"eng": "French Guiana"
+},
+{
+"no": "6006002014",
+"des": "蓋亞那",
+"eng": "Guyana"
+},
+{
+"no": "6006002015",
+"des": "福克蘭群島",
+"eng": "Falkland Islands"
+}
+],
+"eng": "South Ameria"
+}
+],
+"eng": "Central and South America"
+},
+{
+"no": "6007000000",
+"des": "歐洲",
+"n": [
+{
+"no": "6007001000",
+"des": "北歐",
+"n": [
+{
+"no": "6007001001",
+"des": "挪威",
+"eng": "Norway"
+},
+{
+"no": "6007001002",
+"des": "瑞典",
+"eng": "Sweden"
+},
+{
+"no": "6007001003",
+"des": "芬蘭",
+"eng": "Finland"
+},
+{
+"no": "6007001004",
+"des": "丹麥",
+"eng": "Denmark"
+},
+{
+"no": "6007001005",
+"des": "冰島",
+"eng": "Iceland"
+},
+{
+"no": "6007001006",
+"des": "阿爾巴尼亞",
+"eng": "Albania"
+},
+{
+"no": "6007001007",
+"des": "安道爾",
+"eng": "Andorra"
+}
+],
+"eng": "Northern Europe"
+},
+{
+"no": "6007002000",
+"des": "南歐",
+"n": [
+{
+"no": "6007002001",
+"des": "波士尼亞赫塞哥維納",
+"eng": "Bosnia and Herzegovina"
+},
+{
+"no": "6007002002",
+"des": "保加利亞",
+"eng": "Bulgaria"
+},
+{
+"no": "6007002003",
+"des": "克羅埃西亞",
+"eng": "Croatia"
+},
+{
+"no": "6007002004",
+"des": "賽普勒斯",
+"eng": "Cyprus"
+},
+{
+"no": "6007002005",
+"des": "希臘",
+"eng": "Greece"
+},
+{
+"no": "6007002006",
+"des": "義大利",
+"eng": "Italy"
+},
+{
+"no": "6007002007",
+"des": "馬其頓",
+"eng": "Macedonia"
+},
+{
+"no": "6007002008",
+"des": "馬爾他",
+"eng": "Malta"
+},
+{
+"no": "6007002009",
+"des": "葡萄牙",
+"eng": "Portugal"
+},
+{
+"no": "6007002010",
+"des": "羅馬尼亞",
+"eng": "Romania"
+},
+{
+"no": "6007002011",
+"des": "聖馬利諾",
+"eng": "San Marino"
+},
+{
+"no": "6007002012",
+"des": "塞爾維亞",
+"eng": "Serbia"
+},
+{
+"no": "6007002013",
+"des": "斯洛維尼亞",
+"eng": "Slovenia"
+},
+{
+"no": "6007002014",
+"des": "西班牙",
+"eng": "Spain"
+},
+{
+"no": "6007002015",
+"des": "蒙特內哥羅",
+"eng": "Montenegro"
+},
+{
+"no": "6007002016",
+"des": "梵蒂岡",
+"eng": "Vatican City"
+}
+],
+"eng": "Southern Europe"
+},
+{
+"no": "6007003000",
+"des": "東歐",
+"n": [
+{
+"no": "6007003001",
+"des": "白俄羅斯",
+"eng": "Belarus"
+},
+{
+"no": "6007003002",
+"des": "愛沙尼亞",
+"eng": "Estonia"
+},
+{
+"no": "6007003003",
+"des": "拉脫維亞",
+"eng": "Latvia"
+},
+{
+"no": "6007003004",
+"des": "立陶宛",
+"eng": "Lithuania"
+},
+{
+"no": "6007003005",
+"des": "摩爾多瓦",
+"eng": "Moldova"
+},
+{
+"no": "6007003007",
+"des": "烏克蘭",
+"eng": "Ukraine"
+}
+],
+"eng": "Eastern Europe"
+},
+{
+"no": "6007004000",
+"des": "西歐",
+"n": [
+{
+"no": "6007004001",
+"des": "比利時",
+"eng": "Belgium"
+},
+{
+"no": "6007004002",
+"des": "法國",
+"eng": "France"
+},
+{
+"no": "6007004003",
+"des": "愛爾蘭",
+"eng": "Ireland"
+},
+{
+"no": "6007004004",
+"des": "盧森堡",
+"eng": "Luxembourg"
+},
+{
+"no": "6007004005",
+"des": "摩納哥",
+"eng": "Monaco"
+},
+{
+"no": "6007004006",
+"des": "荷蘭",
+"eng": "Netherlands"
+},
+{
+"no": "6007004007",
+"des": "英國",
+"eng": "United Kingdom"
+}
+],
+"eng": "Western Europe"
+},
+{
+"no": "6007005000",
+"des": "中歐",
+"n": [
+{
+"no": "6007005001",
+"des": "奧地利",
+"eng": "Austria"
+},
+{
+"no": "6007005002",
+"des": "捷克",
+"eng": "Czech Republic"
+},
+{
+"no": "6007005003",
+"des": "德國",
+"eng": "Germany"
+},
+{
+"no": "6007005004",
+"des": "匈牙利",
+"eng": "Hungary"
+},
+{
+"no": "6007005005",
+"des": "列支敦斯登",
+"eng": "Liechtenstein"
+},
+{
+"no": "6007005006",
+"des": "波蘭",
+"eng": "Poland"
+},
+{
+"no": "6007005007",
+"des": "斯洛伐克",
+"eng": "Slovakia"
+},
+{
+"no": "6007005008",
+"des": "瑞士",
+"eng": "Switzerland"
+}
+],
+"eng": "Central Europe"
+}
+],
+"eng": "Europe"
+},
+{
+"no": "6008000000",
+"des": "非洲",
+"n": [
+{
+"no": "6008001000",
+"des": "北非",
+"n": [
+{
+"no": "6008001001",
+"des": "阿爾及利亞",
+"eng": "Algeria"
+},
+{
+"no": "6008001002",
+"des": "埃及",
+"eng": "Egypt"
+},
+{
+"no": "6008001003",
+"des": "利比亞",
+"eng": "Libya"
+},
+{
+"no": "6008001004",
+"des": "蘇丹",
+"eng": "Sudan"
+},
+{
+"no": "6008001005",
+"des": "突尼西亞",
+"eng": "Tunisia"
+},
+{
+"no": "6008001006",
+"des": "西撒哈拉",
+"eng": "Western Sahara"
+},
+{
+"no": "6008001007",
+"des": "摩洛哥",
+"eng": "Morocco"
+}
+],
+"eng": "North Africa"
+},
+{
+"no": "6008002000",
+"des": "中非",
+"n": [
+{
+"no": "6008002001",
+"des": "中非",
+"eng": "Central Africa"
+},
+{
+"no": "6008002002",
+"des": "喀麥隆",
+"eng": "Cameroon"
+},
+{
+"no": "6008002003",
+"des": "赤道幾內亞",
+"eng": "Equatorial Guinea"
+},
+{
+"no": "6008002004",
+"des": "加彭",
+"eng": "Gabon"
+},
+{
+"no": "6008002005",
+"des": "剛果",
+"eng": "DR Congo"
+},
+{
+"no": "6008002006",
+"des": "剛果(金)",
+"eng": "Congo-Kinshasa"
+},
+{
+"no": "6008002007",
+"des": "聖多美和普林西比",
+"eng": "Sao Tome and Principe"
+}
+],
+"eng": "Central Africa"
+},
+{
+"no": "6008003000",
+"des": "南非",
+"n": [
+{
+"no": "6008003001",
+"des": "安哥拉",
+"eng": "Angola"
+},
+{
+"no": "6008003002",
+"des": "波札那",
+"eng": "Botswana"
+},
+{
+"no": "6008003003",
+"des": "賴索托",
+"eng": "Lesotho"
+},
+{
+"no": "6008003004",
+"des": "馬達加斯加",
+"eng": "Madagascar"
+},
+{
+"no": "6008003005",
+"des": "馬拉威",
+"eng": "Malawi"
+},
+{
+"no": "6008003006",
+"des": "模里西斯",
+"eng": "Mauritius"
+},
+{
+"no": "6008003007",
+"des": "莫三比克",
+"eng": "Mozambique"
+},
+{
+"no": "6008003008",
+"des": "納米比亞",
+"eng": "Namibia"
+},
+{
+"no": "6008003009",
+"des": "史瓦帝尼",
+"eng": "Estawini"
+},
+{
+"no": "6008003010",
+"des": "南非",
+"eng": "South Africa"
+},
+{
+"no": "6008003012",
+"des": "尚比亞",
+"eng": "Zambia"
+},
+{
+"no": "6008003013",
+"des": "辛巴威",
+"eng": "Zimbabwe"
+},
+{
+"no": "6008003014",
+"des": "留尼旺",
+"eng": "La Réunion"
+},
+{
+"no": "6008003015",
+"des": "聖赫倫那",
+"eng": "Saint Helena"
+}
+],
+"eng": "South Africa"
+},
+{
+"no": "6008004000",
+"des": "東非",
+"n": [
+{
+"no": "6008004001",
+"des": "衣索比亞",
+"eng": "Ethiopia"
+},
+{
+"no": "6008004002",
+"des": "蒲隆地",
+"eng": "Burundi"
+},
+{
+"no": "6008004003",
+"des": "厄利垂亞",
+"eng": "Eritrea"
+},
+{
+"no": "6008004004",
+"des": "吉布地",
+"eng": "Djibouti"
+},
+{
+"no": "6008004005",
+"des": "葛摩",
+"eng": "Comoros"
+},
+{
+"no": "6008004006",
+"des": "肯亞",
+"eng": "Kenya"
+},
+{
+"no": "6008004007",
+"des": "盧安達",
+"eng": "Rwanda"
+},
+{
+"no": "6008004008",
+"des": "塞席爾",
+"eng": "Seychelles"
+},
+{
+"no": "6008004009",
+"des": "索馬利亞",
+"eng": "Somalia"
+},
+{
+"no": "6008004010",
+"des": "坦尚尼亞",
+"eng": "Tanzania"
+},
+{
+"no": "6008004012",
+"des": "烏干達",
+"eng": "Uganda"
+},
+{
+"no": "6008004013",
+"des": "南蘇丹",
+"eng": "South Sudan"
+}
+],
+"eng": "East Africa"
+},
+{
+"no": "6008005000",
+"des": "西非",
+"n": [
+{
+"no": "6008005001",
+"des": "貝南",
+"eng": "Benin"
+},
+{
+"no": "6008005002",
+"des": "布吉納法索",
+"eng": "Burkina Faso"
+},
+{
+"no": "6008005003",
+"des": "查德",
+"eng": "Chad"
+},
+{
+"no": "6008005005",
+"des": "多哥",
+"eng": "Togo"
+},
+{
+"no": "6008005006",
+"des": "維德角",
+"eng": "Cape Verde"
+},
+{
+"no": "6008005007",
+"des": "甘比亞",
+"eng": "Gambia"
+},
+{
+"no": "6008005008",
+"des": "幾內亞",
+"eng": "Guinea"
+},
+{
+"no": "6008005009",
+"des": "幾內亞比索",
+"eng": "Guinea-Bissau"
+},
+{
+"no": "6008005010",
+"des": "迦納",
+"eng": "Ghana"
+},
+{
+"no": "6008005013",
+"des": "象牙海岸",
+"eng": "Ivory Coast"
+},
+{
+"no": "6008005014",
+"des": "賴比瑞亞",
+"eng": "Liberia"
+},
+{
+"no": "6008005015",
+"des": "馬利",
+"eng": "Mali"
+},
+{
+"no": "6008005016",
+"des": "尼日",
+"eng": "Niger"
+},
+{
+"no": "6008005017",
+"des": "奈及利亞",
+"eng": "Nigeria"
+},
+{
+"no": "6008005018",
+"des": "獅子山",
+"eng": "Sierra Leone"
+},
+{
+"no": "6008005019",
+"des": "塞內加爾",
+"eng": "Senegal"
+},
+{
+"no": "6008005021",
+"des": "茅利塔尼亞",
+"eng": "Mauritania"
+}
+],
+"eng": "West Africa"
+}
+],
+"eng": "Africa"
+}
+]

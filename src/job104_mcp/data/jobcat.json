@@ -1,0 +1,3526 @@
+[
+{
+"no": "2001000000",
+"des": "經營／人資類",
+"n": [
+{
+"no": "2001001000",
+"des": "經營／幕僚類人員",
+"n": [
+{
+"no": "2001001002",
+"des": "儲備幹部",
+"eng": "Management Associate "
+},
+{
+"no": "2001001001",
+"des": "經營管理主管",
+"eng": "Business Management Supervisor"
+},
+{
+"no": "2001001003",
+"des": "主管特別助理",
+"eng": "Special Assistant to Supervisor"
+},
+{
+"no": "2001001004",
+"des": "副總經理",
+"eng": "Deputy General Manager"
+},
+{
+"no": "2001001005",
+"des": "總經理",
+"eng": "Managing Directors"
+},
+{
+"no": "2001001006",
+"des": "執行長",
+"eng": "Chief Executive Officer (CEO)"
+},
+{
+"no": "2001001007",
+"des": "營運長",
+"eng": "Chief Operating Officer (COO)"
+}
+],
+"eng": "Business/Executive Staff"
+},
+{
+"no": "2001002000",
+"des": "人力資源類人員",
+"n": [
+{
+"no": "2001002002",
+"des": "人力資源人員",
+"eng": "Human Resource Personnel"
+},
+{
+"no": "2001002005",
+"des": "人力資源助理",
+"eng": "Human Resources Assistant"
+},
+{
+"no": "2001002001",
+"des": "人力資源主管",
+"eng": "Human Resources Manager"
+},
+{
+"no": "2001002003",
+"des": "教育訓練人員",
+"eng": "Education and Training Specialist "
+},
+{
+"no": "2001002004",
+"des": "人力／外勞仲介",
+"eng": "Human/Foreign Labor Brokerage"
+},
+{
+"no": "2001002006",
+"des": "招募顧問",
+"eng": "Recruitment Consultant"
+}
+],
+"eng": "Human Resources Staff"
+}
+],
+"eng": "Business/HR"
+},
+{
+"no": "2002000000",
+"des": "行政／總務／法務類",
+"n": [
+{
+"no": "2002001000",
+"des": "行政／總務類人員",
+"n": [
+{
+"no": "2002001012",
+"des": "行政助理",
+"eng": "Administrative Assistant"
+},
+{
+"no": "2002001003",
+"des": "行政人員",
+"eng": "Administrative Staff"
+},
+{
+"no": "2002001001",
+"des": "行政主管",
+"eng": "Administrative Manager"
+},
+{
+"no": "2002001011",
+"des": "實習生／工讀生",
+"eng": "Intern"
+},
+{
+"no": "2002001005",
+"des": "秘書",
+"eng": "Secretary"
+},
+{
+"no": "2002001004",
+"des": "總務",
+"eng": "General Affairs"
+},
+{
+"no": "2002001002",
+"des": "總務主管",
+"eng": "General Affairs Manager"
+},
+{
+"no": "2002001010",
+"des": "櫃檯接待人員",
+"eng": "Receptionist"
+},
+{
+"no": "2002001006",
+"des": "資料輸入人員",
+"eng": "Data Entry Clerk"
+},
+{
+"no": "2002001009",
+"des": "總機",
+"eng": "Switchboard Operator"
+},
+{
+"no": "2002001007",
+"des": "文件管理師",
+"eng": "Document Controller"
+},
+{
+"no": "2002001008",
+"des": "圖書管理人員",
+"eng": "Librarians and Related Information Professionals"
+},
+{
+"no": "2002001013",
+"des": "禮賓接待人員",
+"eng": "Concierge / Receptionist"
+}
+],
+"eng": "Administrative/General Affairs Staff"
+},
+{
+"no": "2002002000",
+"des": "法務／智財類人員",
+"n": [
+{
+"no": "2002002002",
+"des": "律師",
+"eng": "Lawyer"
+},
+{
+"no": "2002002004",
+"des": "法務",
+"eng": "Legal Affairs"
+},
+{
+"no": "2002002008",
+"des": "法務助理",
+"eng": "Legal Assistant"
+},
+{
+"no": "2002002001",
+"des": "法務主管",
+"eng": "Legal Manager"
+},
+{
+"no": "2002002005",
+"des": "商標／專利人員",
+"eng": "Trademark/Patent Specialist"
+},
+{
+"no": "2002002009",
+"des": "專利工程師",
+"eng": "Patent Engineer"
+},
+{
+"no": "2002002010",
+"des": "專利師",
+"eng": "Patent Attorney"
+},
+{
+"no": "2002002011",
+"des": "法遵人員",
+"eng": "Compliance Officer"
+},
+{
+"no": "2002002007",
+"des": "工商登記人員",
+"eng": "Commercial Registration Staff"
+},
+{
+"no": "2002002003",
+"des": "代書／地政士",
+"eng": "Scrivener/Land administration agents"
+},
+{
+"no": "2002002006",
+"des": "其他法律專業人員",
+"eng": "Other Legal Professionals"
+}
+],
+"eng": "Legal/Intellectual Property Staff"
+}
+],
+"eng": "Administrative/General Affairs/Legal Type"
+},
+{
+"no": "2003000000",
+"des": "財會／金融專業類",
+"n": [
+{
+"no": "2003002000",
+"des": "金融專業相關類人員",
+"n": [
+{
+"no": "2003002007",
+"des": "銀行辦事員",
+"eng": "Bank Clerk"
+},
+{
+"no": "2003002019",
+"des": "證券營業員",
+"eng": "Securities and Finance Dealers and Brokers"
+},
+{
+"no": "2003002006",
+"des": "理財專員",
+"eng": "Financial Planner"
+},
+{
+"no": "2003002003",
+"des": "金融交易員",
+"eng": "Financial Trader"
+},
+{
+"no": "2003002005",
+"des": "金融營業員",
+"eng": "Financial Sales Staff"
+},
+{
+"no": "2003002004",
+"des": "金融承銷員",
+"eng": "Financial Underwriter"
+},
+{
+"no": "2003002002",
+"des": "金融研究員",
+"eng": "Financial Researcher"
+},
+{
+"no": "2003002001",
+"des": "金融主管",
+"eng": "Financial Supervisor"
+},
+{
+"no": "2003002010",
+"des": "保險業務／經紀人",
+"eng": "Insurance Representatives"
+},
+{
+"no": "2003002018",
+"des": "保險主管",
+"eng": "Insurance Supervisor"
+},
+{
+"no": "2003002011",
+"des": "融資／信用業務人員",
+"eng": "Financing/Credit Business Staff"
+},
+{
+"no": "2003002013",
+"des": "核保／保險內勤人員",
+"eng": "Underwriting/Insurance In-house Staff"
+},
+{
+"no": "2003002014",
+"des": "理賠人員",
+"eng": "Claims Adjuster"
+},
+{
+"no": "2003002016",
+"des": "股務人員",
+"eng": "Shareholder Services Staff"
+},
+{
+"no": "2003002012",
+"des": "催收人員",
+"eng": "Collection Staff"
+},
+{
+"no": "2003002015",
+"des": "券商後線人員",
+"eng": "Securities Broker Back-office Staff"
+},
+{
+"no": "2003002008",
+"des": "統計精算人員",
+"eng": "Statistical Actuary"
+},
+{
+"no": "2003002017",
+"des": "投資經理人",
+"eng": "Investment Manager"
+},
+{
+"no": "2003002020",
+"des": "風險管理人員",
+"eng": "Risk Management Staff"
+},
+{
+"no": "2003002009",
+"des": "不動產估價師",
+"eng": "Real Estate Appraiser"
+},
+{
+"no": "2003002021",
+"des": "投資人關係",
+"eng": "Investor Relations"
+}
+],
+"eng": "Financial Professional Related Staff"
+},
+{
+"no": "2003001000",
+"des": "財務／會計／稅務類",
+"n": [
+{
+"no": "2003001006",
+"des": "記帳／出納／一般會計",
+"eng": "Bookkeeping/Cashier/General Accounting"
+},
+{
+"no": "2003001004",
+"des": "主辦會計",
+"eng": "Responsible Accountant"
+},
+{
+"no": "2003001005",
+"des": "成本會計",
+"eng": "Cost Accountant"
+},
+{
+"no": "2003001010",
+"des": "財務會計助理",
+"eng": "Financial Accounting Assistant"
+},
+{
+"no": "2003001003",
+"des": "財務分析／財務人員",
+"eng": "Financial Analysis/Financial Staff"
+},
+{
+"no": "2003001001",
+"des": "財務或會計主管",
+"eng": "Finance or Accounting Supervisor"
+},
+{
+"no": "2003001008",
+"des": "稽核人員",
+"eng": "Audit Staff"
+},
+{
+"no": "2003001011",
+"des": "稽核主管",
+"eng": "Audit Supervisor"
+},
+{
+"no": "2003001002",
+"des": "會計師",
+"eng": "Accountant"
+},
+{
+"no": "2003001007",
+"des": "查帳／審計人員",
+"eng": "Account Checking/Audit Staff"
+},
+{
+"no": "2003001012",
+"des": "財務長",
+"eng": "Chief Financial Officer"
+},
+{
+"no": "2003001013",
+"des": "記帳士",
+"eng": "Accounting Clerk"
+},
+{
+"no": "2003001009",
+"des": "稅務會計人員",
+"eng": "Tax Staff"
+}
+],
+"eng": "Finance/Accounting/Tax "
+}
+],
+"eng": "Finance/Financial Professional "
+},
+{
+"no": "2004000000",
+"des": "行銷／企劃／專案管理類",
+"n": [
+{
+"no": "2004001000",
+"des": "行銷類人員",
+"n": [
+{
+"no": "2004001014",
+"des": "社群行銷",
+"eng": "Social Marketing"
+},
+{
+"no": "2004001005",
+"des": "行銷企劃",
+"eng": "Marketing Planning"
+},
+{
+"no": "2004001012",
+"des": "行銷助理",
+"eng": "Marketing Assistant"
+},
+{
+"no": "2004001002",
+"des": "行銷主管",
+"eng": "Marketing Supervisor"
+},
+{
+"no": "2004001007",
+"des": "網站行銷企劃",
+"eng": "Website Marketing Planning"
+},
+{
+"no": "2004001004",
+"des": "產品行銷企劃",
+"eng": "Product Marketing Planning"
+},
+{
+"no": "2004001006",
+"des": "活動企劃",
+"eng": "Event Planning"
+},
+{
+"no": "2004001009",
+"des": "廣告文案／企劃",
+"eng": "Advertising Copywriting/Planning"
+},
+{
+"no": "2004001001",
+"des": "廣告企劃主管",
+"eng": "Advertising Planning Supervisor"
+},
+{
+"no": "2004001011",
+"des": "不動產／商場開發人員",
+"eng": "Real Estate/Shopping Mall Development Staff"
+},
+{
+"no": "2004001010",
+"des": "市場調查／市場分析",
+"eng": "Market Research/Market Analysis"
+},
+{
+"no": "2004001015",
+"des": "神秘客",
+"eng": "Mystery Shopper"
+},
+{
+"no": "2004001003",
+"des": "媒體公關人員／主管",
+"eng": "Media Public Relations Staff/Supervisor"
+},
+{
+"no": "2004001016",
+"des": "公關助理",
+"eng": "PR Assistant"
+},
+{
+"no": "2004001008",
+"des": "媒體公關／宣傳採買",
+"eng": "Media PR/Publicity Procurement"
+},
+{
+"no": "2004001013",
+"des": "媒體或出版主管",
+"eng": "Media or Publishing Supervisor"
+},
+{
+"no": "2004001017",
+"des": "行銷總監",
+"eng": "Marketing Director"
+},
+{
+"no": "2004001018",
+"des": "數位行銷",
+"eng": "Digital Marketing"
+},
+{
+"no": "2004001019",
+"des": "電商行銷",
+"eng": "E-Commerce Marketing"
+},
+{
+"no": "2004001021",
+"des": "品牌經理",
+"eng": "Brand Manager"
+},
+{
+"no": "2004001022",
+"des": "內容行銷人員",
+"eng": "Content Marketing Specialist"
+},
+{
+"no": "2004001023",
+"des": "網紅行銷人員",
+"eng": "Influencer Marketing Specialist"
+},
+{
+"no": "2004001024",
+"des": "數位廣告行銷人員",
+"eng": "Digital Advertising Specialist"
+}
+],
+"eng": "Marketing Staff"
+},
+{
+"no": "2004002000",
+"des": "產品企劃類人員",
+"n": [
+{
+"no": "2004002005",
+"des": "遊戲企劃",
+"eng": "Game Planning"
+},
+{
+"no": "2004002006",
+"des": "網站企劃",
+"eng": "Website Planning"
+},
+{
+"no": "2004002003",
+"des": "傳播媒體企劃",
+"eng": "Media Communication Planning"
+},
+{
+"no": "2004002004",
+"des": "出版企劃",
+"eng": "Publishing Planning"
+},
+{
+"no": "2004002002",
+"des": "產品企劃",
+"eng": "Product Planning"
+},
+{
+"no": "2004002001",
+"des": "產品企劃主管",
+"eng": "Product Planning Supervisor"
+}
+],
+"eng": "Product Planning Staff"
+},
+{
+"no": "2004003000",
+"des": "專案／產品管理類人員",
+"n": [
+{
+"no": "2004003006",
+"des": "專案經理",
+"eng": "Project Manager"
+},
+{
+"no": "2004003007",
+"des": "專案助理",
+"eng": "Project Assistant"
+},
+{
+"no": "2004003005",
+"des": "產品管理師",
+"eng": "Product Manager"
+},
+{
+"no": "2004003008",
+"des": "永續管理師",
+"eng": "Sustainability Manager"
+},
+{
+"no": "2004003001",
+"des": "專案管理主管",
+"eng": "Project Management Supervisor"
+},
+{
+"no": "2004003003",
+"des": "軟體專案管理師",
+"eng": "Software Project Manager"
+},
+{
+"no": "2004003002",
+"des": "營運管理師／系統整合／ERP專案師",
+"eng": "Operations Manager/System Integration/ERP Specialist"
+},
+{
+"no": "2004003004",
+"des": "其他專案管理師",
+"eng": "Other Project Managers"
+},
+{
+"no": "2004003009",
+"des": "產品經理",
+"eng": "Product Manager"
+}
+],
+"eng": "Project/Product Management Staff"
+}
+],
+"eng": "Marketing / Planning / Project Manager"
+},
+{
+"no": "2005000000",
+"des": "客服／門市／業務／貿易類",
+"n": [
+{
+"no": "2005001000",
+"des": "客戶服務類人員",
+"n": [
+{
+"no": "2005001004",
+"des": "電話客服",
+"eng": "Contact Center Information Clerks"
+},
+{
+"no": "2005001001",
+"des": "客服主管",
+"eng": "Customer Service Supervisor"
+},
+{
+"no": "2005001006",
+"des": "文字客服",
+"eng": "Text Customer Service"
+},
+{
+"no": "2005001007",
+"des": "電訪人員",
+"eng": "Telemarketing Personnel"
+},
+{
+"no": "2005001005",
+"des": "其他客服人員",
+"eng": "Other Customer Service Personnel"
+},
+{
+"no": "2005001008",
+"des": "線上客服",
+"eng": "Online Customer Service Specialist"
+},
+{
+"no": "2005001009",
+"des": "客戶成功經理",
+"eng": "Customer Success Manager"
+},
+{
+"no": "2005001010",
+"des": "客戶支援人員",
+"eng": "Customer Support Specialist"
+}
+],
+"eng": "Customer Service Staff"
+},
+{
+"no": "2005002000",
+"des": "門市營業類人員",
+"n": [
+{
+"no": "2005002004",
+"des": "門市／店員／專櫃人員",
+"eng": "Shop Clerk/Counter Staff"
+},
+{
+"no": "2005002001",
+"des": "店長／賣場管理人員",
+"eng": "Store Manager/Sales Floor Manager"
+},
+{
+"no": "2005002005",
+"des": "售票／收銀人員",
+"eng": "Ticketing/Cashier Staff"
+},
+{
+"no": "2005002002",
+"des": "連鎖店管理人員",
+"eng": "Chain Store Management Staff"
+},
+{
+"no": "2005002006",
+"des": "商化人員",
+"eng": "Commercialization Staff"
+}
+],
+"eng": "Retail Sales Staff"
+},
+{
+"no": "2005003000",
+"des": "業務銷售類人員",
+"n": [
+{
+"no": "2005003004",
+"des": "國內業務",
+"eng": "Domestic Sales"
+},
+{
+"no": "2005003005",
+"des": "國外業務",
+"eng": "International Sales"
+},
+{
+"no": "2005003001",
+"des": "國內業務主管",
+"eng": "Domestic Sales Supervisor"
+},
+{
+"no": "2005003002",
+"des": "國外業務主管",
+"eng": "International Sales Supervisor"
+},
+{
+"no": "2005003016",
+"des": "內勤業務",
+"eng": "Inside Sales"
+},
+{
+"no": "2005003013",
+"des": "業務助理",
+"eng": "Sales Assistant"
+},
+{
+"no": "2005003008",
+"des": "醫藥業務代表",
+"eng": "Medical Sales Representative"
+},
+{
+"no": "2005003007",
+"des": "電話行銷人員",
+"eng": "Contact Center Salespersons"
+},
+{
+"no": "2005003009",
+"des": "不動產經紀人",
+"eng": "Real Estate Agents and Property Managers"
+},
+{
+"no": "2005003010",
+"des": "汽車銷售人員",
+"eng": "Car Salesperson"
+},
+{
+"no": "2005003006",
+"des": "廣告AE業務",
+"eng": "Advertising Account Executive Sales"
+},
+{
+"no": "2005003015",
+"des": "通路開發人員",
+"eng": "Channel Development Specialist"
+},
+{
+"no": "2005003003",
+"des": "專案業務主管",
+"eng": "Project Sales Supervisor"
+},
+{
+"no": "2005003014",
+"des": "產品事業處主管",
+"eng": "Product Business Manager"
+},
+{
+"no": "2005003011",
+"des": "傳銷人員",
+"eng": "Direct Salesperson"
+},
+{
+"no": "2005003012",
+"des": "駐校代表",
+"eng": "Campus Representative"
+},
+{
+"no": "2005003017",
+"des": "銷售工程師",
+"eng": "Sales Engineer"
+}
+],
+"eng": "Sales Personnel"
+},
+{
+"no": "2005004000",
+"des": "貿易類人員",
+"n": [
+{
+"no": "2005004001",
+"des": "國貿人員",
+"eng": "International Trade Specialist"
+},
+{
+"no": "2005004004",
+"des": "國貿助理",
+"eng": "International Trade Assistant"
+},
+{
+"no": "2005004002",
+"des": "空運／船務／報關人員",
+"eng": "Air/Sea Freight & Customs Clearance Specialist"
+},
+{
+"no": "2005004003",
+"des": "保稅人員",
+"eng": "Bonded Personnel"
+}
+],
+"eng": "Trade Personnel"
+}
+],
+"eng": "Service / Store Clerk / Salesperson  / Trade "
+},
+{
+"no": "2006000000",
+"des": "餐飲／旅遊 ／美容美髮類",
+"n": [
+{
+"no": "2006001000",
+"des": "餐飲類人員",
+"n": [
+{
+"no": "2006001008",
+"des": "餐廚助手",
+"eng": "Kitchen Assistant"
+},
+{
+"no": "2006001001",
+"des": "餐飲服務生",
+"eng": "Waitstaff"
+},
+{
+"no": "2006001012",
+"des": "咖啡師",
+"eng": "Barista"
+},
+{
+"no": "2006001017",
+"des": "茶師",
+"eng": "Tea Taster"
+},
+{
+"no": "2006001007",
+"des": "調酒師／吧台人員",
+"eng": "Bartender"
+},
+{
+"no": "2006001010",
+"des": "洗碗人員",
+"eng": "Dishwasher"
+},
+{
+"no": "2006001013",
+"des": "食品技師",
+"eng": "Food Technician"
+},
+{
+"no": "2006001003",
+"des": "西餐廚師",
+"eng": "Western Cuisine Chef"
+},
+{
+"no": "2006001002",
+"des": "中餐廚師",
+"eng": "Chinese Cuisine Chef"
+},
+{
+"no": "2006001011",
+"des": "日式廚師",
+"eng": "Japanese Chef"
+},
+{
+"no": "2006001004",
+"des": "其他類廚師",
+"eng": "Other Types of Chefs"
+},
+{
+"no": "2006001005",
+"des": "麵包師",
+"eng": "Baker"
+},
+{
+"no": "2006001014",
+"des": "麵包學徒",
+"eng": "Bakery Apprentice"
+},
+{
+"no": "2006001006",
+"des": "西點／蛋糕師",
+"eng": "Pastry / Cake Chef"
+},
+{
+"no": "2006001015",
+"des": "侍酒師",
+"eng": "Sommelier"
+},
+{
+"no": "2006001009",
+"des": "食品衛生管理師",
+"eng": "Food Safety Manager"
+},
+{
+"no": "2006001016",
+"des": "行政主廚",
+"eng": "Executive Chef"
+}
+],
+"eng": "Catering Staff"
+},
+{
+"no": "2006002000",
+"des": "旅遊休閒類人員",
+"n": [
+{
+"no": "2006002009",
+"des": "房務",
+"eng": "Housekeeping"
+},
+{
+"no": "2006002003",
+"des": "飯店工作人員",
+"eng": "Hotel Staff"
+},
+{
+"no": "2006002006",
+"des": "領隊",
+"eng": "Tour Leader"
+},
+{
+"no": "2006002007",
+"des": "導遊",
+"eng": "Tour Guide"
+},
+{
+"no": "2006002010",
+"des": "導覽員",
+"eng": "Tour Guide"
+},
+{
+"no": "2006002005",
+"des": "地勤人員",
+"eng": "Ground Staff"
+},
+{
+"no": "2006002004",
+"des": "空服員",
+"eng": "Flight Attendant"
+},
+{
+"no": "2006002008",
+"des": "OP／旅行社人員",
+"eng": "OP/Travel Agency Staff"
+},
+{
+"no": "2006002002",
+"des": "飯店或餐廳主管",
+"eng": "Hotel or Restaurant Supervisor"
+},
+{
+"no": "2006002001",
+"des": "旅遊休閒類主管",
+"eng": "Tourism & Leisure Supervisor"
+}
+],
+"eng": "Tourism & Leisure Personnel"
+},
+{
+"no": "2006003000",
+"des": "美容／美髮類人員",
+"n": [
+{
+"no": "2006003001",
+"des": "美容師",
+"eng": "Beautician"
+},
+{
+"no": "2006003008",
+"des": "美容助理",
+"eng": "Beauty Assistant"
+},
+{
+"no": "2006003007",
+"des": "美甲師",
+"eng": "Nail Technician"
+},
+{
+"no": "2006003015",
+"des": "美甲助理",
+"eng": "Nail Technician Assistant"
+},
+{
+"no": "2006003002",
+"des": "美髮師",
+"eng": "Hairdresser"
+},
+{
+"no": "2006003009",
+"des": "美髮助理",
+"eng": "Hairdressing Assistant"
+},
+{
+"no": "2006003006",
+"des": "寵物美容師",
+"eng": "Pet Groomer"
+},
+{
+"no": "2006003011",
+"des": "寵物美容助理",
+"eng": "Pet Grooming Assistant"
+},
+{
+"no": "2006003012",
+"des": "寵物保姆",
+"eng": "Pet Sitter"
+},
+{
+"no": "2006003005",
+"des": "美療／芳療師",
+"eng": "Beauty/ Aromatherapist"
+},
+{
+"no": "2006003013",
+"des": "醫美諮詢師",
+"eng": "Medical Aesthetic Consultant"
+},
+{
+"no": "2006003003",
+"des": "整體造型師",
+"eng": "Stylist"
+},
+{
+"no": "2006003010",
+"des": "美睫師",
+"eng": "Eyelash Technician"
+},
+{
+"no": "2006003014",
+"des": "紋繡師",
+"eng": "Tattoo & Embroidery Artist"
+},
+{
+"no": "2006003004",
+"des": "美姿美儀人員",
+"eng": "Beauty Therapist"
+},
+{
+"no": "2006003016",
+"des": "醫美／美容主管",
+"eng": "Beautician Supervisor"
+},
+{
+"no": "2006003017",
+"des": "彩妝師",
+"eng": "Makeup Artist"
+}
+],
+"eng": "Beauty/Haircare Professionals"
+}
+],
+"eng": "Catering/Tourism/Beauty & Haircare Industry"
+},
+{
+"no": "2007000000",
+"des": "資訊軟體系統類",
+"n": [
+{
+"no": "2007001000",
+"des": "軟體／工程類人員",
+"n": [
+{
+"no": "2007001013",
+"des": "iOS工程師",
+"eng": "iOS Engineer"
+},
+{
+"no": "2007001014",
+"des": "Android工程師",
+"eng": "Android Engineer"
+},
+{
+"no": "2007001015",
+"des": "前端工程師",
+"eng": "Front-End Engineer"
+},
+{
+"no": "2007001016",
+"des": "後端工程師",
+"eng": "Back-End Engineer"
+},
+{
+"no": "2007001017",
+"des": "全端工程師",
+"eng": "Full-Stack Engineer"
+},
+{
+"no": "2007001018",
+"des": "數據分析師／資料分析師",
+"eng": "Data Analyst"
+},
+{
+"no": "2007001004",
+"des": "軟體工程師",
+"eng": "Software Engineer"
+},
+{
+"no": "2007001019",
+"des": "軟體助理工程師",
+"eng": "Software Assistant Engineer"
+},
+{
+"no": "2007001001",
+"des": "軟體專案主管",
+"eng": "Software Project Manager"
+},
+{
+"no": "2007001007",
+"des": "系統分析師",
+"eng": "Systems Analyst"
+},
+{
+"no": "2007001021",
+"des": "資料科學家",
+"eng": "Data Scientist"
+},
+{
+"no": "2007001022",
+"des": "資料工程師",
+"eng": "Data Engineer"
+},
+{
+"no": "2007001020",
+"des": "AI工程師",
+"eng": "AI Engineer"
+},
+{
+"no": "2007001012",
+"des": "演算法工程師",
+"eng": "Algorithm Engineer"
+},
+{
+"no": "2007001005",
+"des": "韌體工程師",
+"eng": "Firmware Engineer"
+},
+{
+"no": "2007001008",
+"des": "遊戲工程師",
+"eng": "Game Engineer"
+},
+{
+"no": "2007001006",
+"des": "Internet程式設計師",
+"eng": "Internet Programmer"
+},
+{
+"no": "2007001010",
+"des": "資訊助理",
+"eng": "IT Assistant"
+},
+{
+"no": "2007001023",
+"des": "區塊鏈工程師",
+"eng": "Blockchain Engineer"
+},
+{
+"no": "2007001011",
+"des": "BIOS工程師",
+"eng": "BIOS Engineer"
+},
+{
+"no": "2007001003",
+"des": "通訊軟體工程師",
+"eng": "Communication Software Engineer"
+},
+{
+"no": "2007001002",
+"des": "電子商務技術主管",
+"eng": "E-Commerce Technology Supervisor"
+},
+{
+"no": "2007001024",
+"des": "商業分析師",
+"eng": "Business Analyst"
+},
+{
+"no": "2007001009",
+"des": "其他資訊專業人員",
+"eng": "Other IT Professionals"
+},
+{
+"no": "2007001025",
+"des": "DevOps 工程師",
+"eng": "DevOps Engineer"
+},
+{
+"no": "2007001026",
+"des": "機器學習工程師",
+"eng": "Machine Learning Engineer"
+}
+],
+"eng": "Software/Engineering"
+},
+{
+"no": "2007002000",
+"des": "MIS／網管類人員",
+"n": [
+{
+"no": "2007002006",
+"des": "系統工程師",
+"eng": "System Engineer"
+},
+{
+"no": "2007002005",
+"des": "網路管理工程師",
+"eng": "Network Management Engineer"
+},
+{
+"no": "2007002009",
+"des": "資安工程師",
+"eng": "Information Security Engineer"
+},
+{
+"no": "2007002007",
+"des": "資訊設備管制人員",
+"eng": "IT Equipment Control Personnel"
+},
+{
+"no": "2007002010",
+"des": "雲端工程師",
+"eng": "Cloud Engineer"
+},
+{
+"no": "2007002008",
+"des": "網路安全分析師",
+"eng": "Network Security Analyst"
+},
+{
+"no": "2007002004",
+"des": "MES工程師",
+"eng": "MES Engineer"
+},
+{
+"no": "2007002003",
+"des": "MIS程式設計師",
+"eng": "MIS Programmer"
+},
+{
+"no": "2007002002",
+"des": "資料庫管理人員",
+"eng": "Database Administrator"
+},
+{
+"no": "2007002001",
+"des": "MIS／網管主管",
+"eng": "MIS/Network Manager"
+},
+{
+"no": "2007002011",
+"des": "資安主管",
+"eng": "Information Security Supervisor"
+}
+],
+"eng": "MIS/Network"
+}
+],
+"eng": "Information Software Systems"
+},
+{
+"no": "2010000000",
+"des": "操作／技術／維修類",
+"n": [
+{
+"no": "2010001000",
+"des": "操作／技術類人員",
+"n": [
+{
+"no": "2010001001",
+"des": "領班",
+"eng": "Foreman"
+},
+{
+"no": "2010001002",
+"des": "作業員／包裝員",
+"eng": "Operator / Packer"
+},
+{
+"no": "2010001007",
+"des": "銑床人員",
+"eng": "Milling Machine Operator"
+},
+{
+"no": "2010001006",
+"des": "車床人員",
+"eng": "Lathe Operator"
+},
+{
+"no": "2010001004",
+"des": "CNC機台操作人員",
+"eng": "CNC Machine Operator"
+},
+{
+"no": "2010001005",
+"des": "CNC電腦程式編排人員",
+"eng": "CNC Computer Programming Coordinator"
+},
+{
+"no": "2010001028",
+"des": "手工包裝工及有關工作者",
+"eng": "Handicraft Workers"
+},
+{
+"no": "2010001011",
+"des": "塑膠射出技術人員",
+"eng": "Plastic Injection Technician"
+},
+{
+"no": "2010001009",
+"des": "塑膠模具技術人員",
+"eng": "Plastic Mold Technician"
+},
+{
+"no": "2010001010",
+"des": "機械加工技術人員",
+"eng": "Mechanical Machining Technician"
+},
+{
+"no": "2010001023",
+"des": "機械裝配員",
+"eng": "Mechanical Assembler"
+},
+{
+"no": "2010001035",
+"des": "線切割技術員",
+"eng": "Wire Cutting Technician"
+},
+{
+"no": "2010001036",
+"des": "雷射操作技術員",
+"eng": "Laser Operation Technician"
+},
+{
+"no": "2010001034",
+"des": "精密拋光技術人員",
+"eng": "Precision Polishing Technician"
+},
+{
+"no": "2010001029",
+"des": "其他機械操作員",
+"eng": "Other Machinery Operator"
+},
+{
+"no": "2010001008",
+"des": "沖壓模具技術人員",
+"eng": "Stamping Mold Technician"
+},
+{
+"no": "2010001016",
+"des": "焊接人員",
+"eng": "Welders and Flame Cutters"
+},
+{
+"no": "2010001014",
+"des": "板金技術員",
+"eng": "Sheet Metal Technician"
+},
+{
+"no": "2010001039",
+"des": "塗裝技術人員",
+"eng": "Coating Technician"
+},
+{
+"no": "2010001003",
+"des": "電機工程技術員",
+"eng": "Electrical Engineering Technicians"
+},
+{
+"no": "2010001024",
+"des": "電機設備裝配員",
+"eng": "Electrical Equipment Assembler"
+},
+{
+"no": "2010001017",
+"des": "紡織工務",
+"eng": "Textile Operations"
+},
+{
+"no": "2010001013",
+"des": "噴漆人員",
+"eng": "Spray Painting Technician"
+},
+{
+"no": "2010001018",
+"des": "打版人員",
+"eng": "Pattern Maker"
+},
+{
+"no": "2010001038",
+"des": "鍋爐操作技術人員",
+"eng": "Boiler Operation Technician"
+},
+{
+"no": "2010001032",
+"des": "壓鑄模具技術人員",
+"eng": "Die Casting Mold Technician"
+},
+{
+"no": "2010001030",
+"des": "鑄造／鍛造模具技術人員",
+"eng": "Casting/Forging Mold Technician"
+},
+{
+"no": "2010001033",
+"des": "電鍍／表面處理技術人員",
+"eng": "Electroplating/Surface Treatment Technician"
+},
+{
+"no": "2010001031",
+"des": "粉末冶金模具技術人員",
+"eng": "Powder Metallurgy Mold Technician"
+},
+{
+"no": "2010001015",
+"des": "PCB技術人員",
+"eng": "PCB (Printed Circuit Board) Technician"
+},
+{
+"no": "2010001026",
+"des": "推土機操作員",
+"eng": "Bulldozer Operator"
+},
+{
+"no": "2010001027",
+"des": "吊車司機",
+"eng": "Crane"
+},
+{
+"no": "2010001020",
+"des": "車縫人員",
+"eng": "Sewing Operator"
+},
+{
+"no": "2010001037",
+"des": "染整人員",
+"eng": "Dyeing and Finishing Operator"
+},
+{
+"no": "2010001019",
+"des": "製鞋人員",
+"eng": "Shoemaker"
+},
+{
+"no": "2010001012",
+"des": "印刷技術人員",
+"eng": "Printers"
+},
+{
+"no": "2010001022",
+"des": "珠寶及貴金屬技術員",
+"eng": "Jewellery and Precious-metal Workers"
+},
+{
+"no": "2010001021",
+"des": "樂器製造及調音技術員",
+"eng": "Musical Instrument Makers and Tuners"
+},
+{
+"no": "2010001025",
+"des": "農業及林業設備操作員",
+"eng": "Agricultural and Forestry Equipment Operator"
+},
+{
+"no": "2010001040",
+"des": "挖土機司機",
+"eng": "Excavator Operator"
+}
+],
+"eng": "Operation / Technical Staff"
+},
+{
+"no": "2010002000",
+"des": "維修／技術服務類人員",
+"n": [
+{
+"no": "2010002016",
+"des": "FAE工程師",
+"eng": "Field Application Engineer"
+},
+{
+"no": "2010002017",
+"des": "客服工程師",
+"eng": "Customer Service Engineer"
+},
+{
+"no": "2010002005",
+"des": "產品維修人員",
+"eng": "Product Maintenance Staff"
+},
+{
+"no": "2010002001",
+"des": "產品售後技術服務",
+"eng": "Post-sales Product Technical Service"
+},
+{
+"no": "2010002002",
+"des": "業務支援工程師",
+"eng": "Sales Support Engineer"
+},
+{
+"no": "2010002006",
+"des": "空調冷凍技術人員",
+"eng": "Air Conditioning and Refrigeration Mechanics"
+},
+{
+"no": "2010002011",
+"des": "電機裝修工",
+"eng": "Electrical Machine Refurbishment Worker"
+},
+{
+"no": "2010002012",
+"des": "電子設備裝修工",
+"eng": "Electronic Equipment Installers and Repairers"
+},
+{
+"no": "2010002004",
+"des": "通信測試維修人員",
+"eng": "Communication Testing and Maintenance Staff"
+},
+{
+"no": "2010002014",
+"des": "電信及電力線路架設工",
+"eng": "Telecommunications and Electrical Line Installer"
+},
+{
+"no": "2010002015",
+"des": "精密儀器製造工及修理工",
+"eng": "Precision-Instrument Makers and Repairers"
+},
+{
+"no": "2010002013",
+"des": "電話及電報機裝修工",
+"eng": "Telephone and Telegraph Equipment Repairer"
+},
+{
+"no": "2010002003",
+"des": "電腦組裝／測試",
+"eng": "Computer Assembly/Testing"
+},
+{
+"no": "2010002018",
+"des": "汽車檢驗員",
+"eng": "Automobile Inspector"
+},
+{
+"no": "2010002019",
+"des": "汽車學徒",
+"eng": "Automotive Apprentice"
+},
+{
+"no": "2010002020",
+"des": "機車學徒",
+"eng": "Motorcycle Apprentice"
+},
+{
+"no": "2010002007",
+"des": "汽車／機車引擎技術人員",
+"eng": "Automotive/Motorcycle Engine Technician"
+},
+{
+"no": "2010002008",
+"des": "其他汽車／機車技術維修人員",
+"eng": "Other Automotive/Motorcycle Technical Maintenance Staff"
+},
+{
+"no": "2010002009",
+"des": "飛機裝修工",
+"eng": "Aircraft Refurbishment Worker"
+},
+{
+"no": "2010002010",
+"des": "農業及工業用機器裝修工",
+"eng": "Agricultural and Industrial Machinery Refurbishment Worker"
+},
+{
+"no": "2010002021",
+"des": "維修工程師",
+"eng": "Maintenance Engineer"
+},
+{
+"no": "2010002022",
+"des": "AE工程師",
+"eng": "Application Engineer"
+}
+],
+"eng": "Maintenance/Technical Service Staff"
+}
+],
+"eng": "Operation / Technical / Maintenance Staff"
+},
+{
+"no": "2011000000",
+"des": "資材／物流／運輸類",
+"n": [
+{
+"no": "2011001000",
+"des": "採購／資材／倉管類人員",
+"n": [
+{
+"no": "2011001004",
+"des": "倉管／物料管理人員",
+"eng": "Warehouse / Material Management Clerk"
+},
+{
+"no": "2011001006",
+"des": "採購助理",
+"eng": "Purchasing Assistant"
+},
+{
+"no": "2011001003",
+"des": "採購人員",
+"eng": "Purchasing Staff"
+},
+{
+"no": "2011001001",
+"des": "採購主管",
+"eng": "Purchasing Manager"
+},
+{
+"no": "2011001005",
+"des": "物管／資材",
+"eng": "Materials Handling"
+},
+{
+"no": "2011001002",
+"des": "資材主管",
+"eng": "Materials Manager"
+},
+{
+"no": "2011001007",
+"des": "理貨人員",
+"eng": "Warehouse Staff / Sorter"
+},
+{
+"no": "2011001008",
+"des": "供應商管理人員",
+"eng": "Supplier Management Specialist"
+},
+{
+"no": "2011001009",
+"des": "供應鏈管理人員",
+"eng": "Supply Chain Management Specialist"
+}
+],
+"eng": "Purchasing / Materials / Warehouse "
+},
+{
+"no": "2011002000",
+"des": "運輸物流類人員",
+"n": [
+{
+"no": "2011002009",
+"des": "倉儲物流人員",
+"eng": "Warehouse and Logistics Staff"
+},
+{
+"no": "2011002003",
+"des": "快遞",
+"eng": "Courier"
+},
+{
+"no": "2011002011",
+"des": "外送員",
+"eng": "Delivery Driver"
+},
+{
+"no": "2011002005",
+"des": "小客車／計程車及小貨車司機",
+"eng": "Car and Van Drivers"
+},
+{
+"no": "2011002006",
+"des": "大貨車及其他類司機",
+"eng": "Heavy Truck and Other Drivers"
+},
+{
+"no": "2011002002",
+"des": "運輸交通人員",
+"eng": "Transportation Staff"
+},
+{
+"no": "2011002001",
+"des": "運輸物流類主管",
+"eng": "Transportation and Logistics Manager"
+},
+{
+"no": "2011002014",
+"des": "主管司機",
+"eng": "Supervisor Driver"
+},
+{
+"no": "2011002012",
+"des": "堆高機人員",
+"eng": "Forklift Operator"
+},
+{
+"no": "2011002013",
+"des": "隨車人員",
+"eng": "Transport Conductors"
+},
+{
+"no": "2011002010",
+"des": "船長／大副／船員",
+"eng": "Captain / First Mate / Crew"
+},
+{
+"no": "2011002008",
+"des": "飛安人員",
+"eng": "Flight Safety Officer"
+},
+{
+"no": "2011002007",
+"des": "飛行機師",
+"eng": "Pilot"
+},
+{
+"no": "2011002004",
+"des": "鐵路車輛駕駛員",
+"eng": "Railroad Vehicle Operator"
+},
+{
+"no": "2011002015",
+"des": "聯結車司機",
+"eng": "Dump Truck Driver"
+}
+],
+"eng": "Transportation and Logistics "
+}
+],
+"eng": "Materials/Logistics/Transportation"
+},
+{
+"no": "2012000000",
+"des": "營建／製圖類",
+"n": [
+{
+"no": "2012001000",
+"des": "營建規劃類人員",
+"n": [
+{
+"no": "2012001010",
+"des": "工務人員／助理",
+"eng": "Engineering Services Staff/Assistant"
+},
+{
+"no": "2012001004",
+"des": "土木技師／工程師",
+"eng": "Civil Engineers"
+},
+{
+"no": "2012001005",
+"des": "結構技師／工程師",
+"eng": "Structural Technician/Engineer"
+},
+{
+"no": "2012001008",
+"des": "水保技師／工程師",
+"eng": "Soil and Water Conservation Technician/Engineer"
+},
+{
+"no": "2012001002",
+"des": "建築師",
+"eng": "Building Architects"
+},
+{
+"no": "2012001009",
+"des": "內業工程師",
+"eng": "Interior Engineer"
+},
+{
+"no": "2012001001",
+"des": "營建主管",
+"eng": "Construction Supervisor"
+},
+{
+"no": "2012001014",
+"des": "土地開發人員",
+"eng": "Land Development Staff"
+},
+{
+"no": "2012001011",
+"des": "水電工程師",
+"eng": "Plumbing and Electrical Engineer"
+},
+{
+"no": "2012001006",
+"des": "水利技師/工程師",
+"eng": "Hydraulic Engineer"
+},
+{
+"no": "2012001012",
+"des": "估算人員",
+"eng": "Estimator"
+},
+{
+"no": "2012001007",
+"des": "工程配管繪圖",
+"eng": "Engineering Piping Drafting"
+},
+{
+"no": "2012001013",
+"des": "發包人員",
+"eng": "Contracting Staff"
+},
+{
+"no": "2012001003",
+"des": "都市／交通規劃人員",
+"eng": "Town and Traffic Planners"
+}
+],
+"eng": "Construction Planning"
+},
+{
+"no": "2012002000",
+"des": "營建施作類人員",
+"n": [
+{
+"no": "2012002002",
+"des": "工地監工／主任",
+"eng": "Site Supervisor/Foreman"
+},
+{
+"no": "2012002006",
+"des": "木工",
+"eng": "Carpenter"
+},
+{
+"no": "2012002016",
+"des": "木工學徒",
+"eng": "Carpentry Apprentice"
+},
+{
+"no": "2012002013",
+"des": "水電工",
+"eng": "Plumber and Electrician"
+},
+{
+"no": "2012002015",
+"des": "水電學徒",
+"eng": "Plumbing and Electrical Apprentice"
+},
+{
+"no": "2012002001",
+"des": "營造工程師",
+"eng": "Construction Engineer"
+},
+{
+"no": "2012002009",
+"des": "建築物清潔工",
+"eng": "Building Structure Cleaners"
+},
+{
+"no": "2012002003",
+"des": "建築物電力系統維修工",
+"eng": "Building and Related Electricians"
+},
+{
+"no": "2012002010",
+"des": "金屬建材架構人員",
+"eng": "Metal Building Structure Personnel"
+},
+{
+"no": "2012002008",
+"des": "油漆工",
+"eng": "Painter"
+},
+{
+"no": "2012002005",
+"des": "混凝土工",
+"eng": "Concrete Worker"
+},
+{
+"no": "2012002007",
+"des": "泥水工",
+"eng": "Plasterers"
+},
+{
+"no": "2012002011",
+"des": "泥水小工及有關工作者",
+"eng": "Mason and Related Workers"
+},
+{
+"no": "2012002014",
+"des": "防水施工人員",
+"eng": "Waterproofing Construction Personnel"
+},
+{
+"no": "2012002004",
+"des": "砌磚工及砌石工",
+"eng": "Bricklayers and Related Workers"
+},
+{
+"no": "2012002012",
+"des": "其他營建構造工",
+"eng": "Other Construction Laborers"
+}
+],
+"eng": "Construction Implementation"
+},
+{
+"no": "2012003000",
+"des": "製圖／測量類人員",
+"n": [
+{
+"no": "2012003006",
+"des": "室內設計師",
+"eng": "Interior Architects"
+},
+{
+"no": "2012003008",
+"des": "室內設計助理",
+"eng": "Interior Design Assistant"
+},
+{
+"no": "2012003009",
+"des": "軟裝設計師",
+"eng": "Soft Furnishings Designer"
+},
+{
+"no": "2012003002",
+"des": "建築設計師",
+"eng": "Architectural Designer"
+},
+{
+"no": "2012003007",
+"des": "景觀設計師",
+"eng": "Landscape Designer"
+},
+{
+"no": "2012003003",
+"des": "水電及其他工程繪圖人員",
+"eng": "Electrical and Other Engineering Drafting Personnel"
+},
+{
+"no": "2012003010",
+"des": "消防繪圖人員",
+"eng": "Fire Protection Drafter"
+},
+{
+"no": "2012003004",
+"des": "機械設計工程師",
+"eng": "Mechanical Design Engineer"
+},
+{
+"no": "2012003001",
+"des": "CAD／CAM工程師",
+"eng": "CAD/CAM Engineer"
+},
+{
+"no": "2012003005",
+"des": "量測／儀校人員",
+"eng": "Measurement/Instrument Calibration Personnel"
+}
+],
+"eng": "Drafting/Measurement "
+}
+],
+"eng": "Construction/Drafting"
+},
+{
+"no": "2013000000",
+"des": "傳播藝術／設計類",
+"n": [
+{
+"no": "2013001000",
+"des": "設計類人員",
+"n": [
+{
+"no": "2013001005",
+"des": "平面設計／美編",
+"eng": "Graphic Design/Art Editor"
+},
+{
+"no": "2013001019",
+"des": "美編助理",
+"eng": "Art Editor Assistant"
+},
+{
+"no": "2013001017",
+"des": "視覺設計師",
+"eng": "Visual Designer"
+},
+{
+"no": "2013001020",
+"des": "產品設計師",
+"eng": "Product Designer"
+},
+{
+"no": "2013001015",
+"des": "UI設計師",
+"eng": "UI Designer"
+},
+{
+"no": "2013001016",
+"des": "UX設計師",
+"eng": "UX Designer"
+},
+{
+"no": "2013001006",
+"des": "網頁設計師",
+"eng": "Web Designer"
+},
+{
+"no": "2013001010",
+"des": "工業設計師",
+"eng": "Industrial Designer"
+},
+{
+"no": "2013001004",
+"des": "多媒體動畫設計師",
+"eng": "Multimedia Animator"
+},
+{
+"no": "2013001001",
+"des": "多媒體開發主管",
+"eng": "Multimedia Development Manager"
+},
+{
+"no": "2013001003",
+"des": "展場／櫥窗佈置人員",
+"eng": "Exhibition/Window Display Staff"
+},
+{
+"no": "2013001009",
+"des": "服裝／皮包／鞋類設計",
+"eng": "Apparel/Leatherware/Footwear Design"
+},
+{
+"no": "2013001018",
+"des": "服裝設計助理",
+"eng": "Fashion Design Assistant"
+},
+{
+"no": "2013001012",
+"des": "電腦繪圖人員",
+"eng": "Computer Graphics Personnel"
+},
+{
+"no": "2013001013",
+"des": "設計助理",
+"eng": "Design Assistant"
+},
+{
+"no": "2013001007",
+"des": "美術設計",
+"eng": "Art Design"
+},
+{
+"no": "2013001008",
+"des": "商業設計",
+"eng": "Commercial Design"
+},
+{
+"no": "2013001002",
+"des": "廣告設計",
+"eng": "Advertising Design"
+},
+{
+"no": "2013001011",
+"des": "包裝設計",
+"eng": "Packaging Design"
+},
+{
+"no": "2013001014",
+"des": "織品設計",
+"eng": "Textile Design"
+}
+],
+"eng": "Design Personnel"
+},
+{
+"no": "2013002000",
+"des": "傳播藝術類人員",
+"n": [
+{
+"no": "2013002012",
+"des": "攝影師",
+"eng": "Photographers"
+},
+{
+"no": "2013002015",
+"des": "攝影助理",
+"eng": "Photography Assistant"
+},
+{
+"no": "2013002004",
+"des": "模特兒",
+"eng": "Model"
+},
+{
+"no": "2013002018",
+"des": "直播主",
+"eng": "Live Streamer"
+},
+{
+"no": "2013002002",
+"des": "演員",
+"eng": "Actors"
+},
+{
+"no": "2013002017",
+"des": "主持人",
+"eng": "Host"
+},
+{
+"no": "2013002019",
+"des": "剪輯師",
+"eng": "Editor"
+},
+{
+"no": "2013002020",
+"des": "剪輯助理",
+"eng": "Editing Assistant"
+},
+{
+"no": "2013002021",
+"des": "影音企劃",
+"eng": "Audio-Visual Planner"
+},
+{
+"no": "2013002010",
+"des": "影片製作技術人員",
+"eng": "Video Production Technician"
+},
+{
+"no": "2013002022",
+"des": "經紀人",
+"eng": "Agent"
+},
+{
+"no": "2013002023",
+"des": "製片",
+"eng": "Producer"
+},
+{
+"no": "2013002024",
+"des": "製片助理",
+"eng": "Producer Assistant"
+},
+{
+"no": "2013002025",
+"des": "編劇",
+"eng": "Screenwriter"
+},
+{
+"no": "2013002001",
+"des": "節目製作人員",
+"eng": "Program Production Staff"
+},
+{
+"no": "2013002014",
+"des": "節目助理",
+"eng": "Program Assistant"
+},
+{
+"no": "2013002016",
+"des": "視聽工程人員",
+"eng": "Audio-Visual Engineer"
+},
+{
+"no": "2013002011",
+"des": "燈光／音響師",
+"eng": "Lighting/Sound Technician"
+},
+{
+"no": "2013002003",
+"des": "導演／導播",
+"eng": "Director/Producer"
+},
+{
+"no": "2013002005",
+"des": "音樂家／作曲／歌唱及演奏家",
+"eng": "Musicians"
+},
+{
+"no": "2013002006",
+"des": "舞蹈指導與舞蹈家",
+"eng": "Dancers and Choreographers"
+},
+{
+"no": "2013002007",
+"des": "藝術指導 ／藝術總監",
+"eng": "Art Director/Art Supervisor "
+},
+{
+"no": "2013002009",
+"des": "播音／配音人員",
+"eng": "Announcer/Voice-over Artist"
+},
+{
+"no": "2013002008",
+"des": "電台工作人員",
+"eng": "Radio Staff"
+},
+{
+"no": "2013002013",
+"des": "其他娛樂事業人員",
+"eng": "Other Entertainment Professionals"
+},
+{
+"no": "2013002026",
+"des": "特效師",
+"eng": "Visual Effects Artist"
+},
+{
+"no": "2013002027",
+"des": "3D建模師",
+"eng": "3D Modeler"
+}
+],
+"eng": "Communication Arts Personnel"
+}
+],
+"eng": "Media Arts/Design"
+},
+{
+"no": "2014000000",
+"des": "文字／傳媒工作類",
+"n": [
+{
+"no": "2014001000",
+"des": "文字編譯類人員",
+"n": [
+{
+"no": "2014001002",
+"des": "英文翻譯",
+"eng": "English Translator"
+},
+{
+"no": "2014001003",
+"des": "日文翻譯",
+"eng": "Japanese Translator"
+},
+{
+"no": "2014001007",
+"des": "韓文翻譯",
+"eng": "Korean Translator"
+},
+{
+"no": "2014001008",
+"des": "越南翻譯",
+"eng": "Vietnamese Translator"
+},
+{
+"no": "2014001009",
+"des": "印尼翻譯",
+"eng": "Indonesian Translator"
+},
+{
+"no": "2014001010",
+"des": "泰文翻譯",
+"eng": "Thai Translator"
+},
+{
+"no": "2014001011",
+"des": "菲律賓翻譯",
+"eng": "Filipino Translator"
+},
+{
+"no": "2014001012",
+"des": "德文翻譯",
+"eng": "German Translator"
+},
+{
+"no": "2014001013",
+"des": "西班牙文翻譯",
+"eng": "Spanish Translator"
+},
+{
+"no": "2014001014",
+"des": "法文翻譯",
+"eng": "French Translator"
+},
+{
+"no": "2014001004",
+"des": "其他翻譯",
+"eng": "Other Translators"
+},
+{
+"no": "2014001005",
+"des": "文編／校對／文字工作者",
+"eng": "Copy Editor/Proofreader/Writer"
+},
+{
+"no": "2014001015",
+"des": "編輯助理",
+"eng": "Editorial Assistant"
+},
+{
+"no": "2014001001",
+"des": "技術文件／說明書編譯",
+"eng": "Technical Documentation Compiler"
+},
+{
+"no": "2014001006",
+"des": "排版人員",
+"eng": "Typesetter"
+},
+{
+"no": "2014001016",
+"des": "編輯",
+"eng": "Editor"
+}
+],
+"eng": "Text Compilation Professionals"
+},
+{
+"no": "2014002000",
+"des": "記者及採訪類人員",
+"n": [
+{
+"no": "2014002001",
+"des": "記者",
+"eng": "Journalist"
+},
+{
+"no": "2014002002",
+"des": "其他傳媒工作",
+"eng": "Other Media Jobs"
+}
+],
+"eng": "Reporters and Interviewers"
+}
+],
+"eng": "Writing/Media "
+},
+{
+"no": "2015000000",
+"des": "醫療／保健服務類",
+"n": [
+{
+"no": "2015001000",
+"des": "醫療專業類人員",
+"n": [
+{
+"no": "2015001005",
+"des": "藥師",
+"eng": "Pharmacists"
+},
+{
+"no": "2015001015",
+"des": "藥師助理",
+"eng": "Pharmacy Assistant"
+},
+{
+"no": "2015001004",
+"des": "護理師及護士",
+"eng": "Registered Nurse and Nurse"
+},
+{
+"no": "2015001021",
+"des": "專科護理師",
+"eng": "Specialist Nurse"
+},
+{
+"no": "2015001026",
+"des": "居家護理師",
+"eng": "Home Care Nurse"
+},
+{
+"no": "2015001027",
+"des": "研究護理師",
+"eng": "Research Nurse"
+},
+{
+"no": "2015001028",
+"des": "護理長",
+"eng": "Nursing Supervisor"
+},
+{
+"no": "2015001006",
+"des": "營養師",
+"eng": "Dieticians and Nutritionists"
+},
+{
+"no": "2015001025",
+"des": "健康管理師",
+"eng": "Health Manager"
+},
+{
+"no": "2015001019",
+"des": "物理治療師",
+"eng": "Physiotherapists"
+},
+{
+"no": "2015001024",
+"des": "勞工健康服務護理人員",
+"eng": "Occupational Health Nursing Staff"
+},
+{
+"no": "2015001018",
+"des": "職能治療師",
+"eng": "Occupational Therapists"
+},
+{
+"no": "2015001011",
+"des": "驗光師",
+"eng": "Optometrist"
+},
+{
+"no": "2015001016",
+"des": "醫事放射師",
+"eng": "Radiologic Technologist"
+},
+{
+"no": "2015001001",
+"des": "醫師",
+"eng": "Medical Doctors"
+},
+{
+"no": "2015001003",
+"des": "醫事檢驗師",
+"eng": "Medical Laboratory Technician"
+},
+{
+"no": "2015001007",
+"des": "獸醫師",
+"eng": "Veterinarians"
+},
+{
+"no": "2015001023",
+"des": "心理師",
+"eng": "Psychologists"
+},
+{
+"no": "2015001029",
+"des": "聽力師",
+"eng": "Audiologist"
+},
+{
+"no": "2015001020",
+"des": "語言治療師",
+"eng": "Speech Therapist"
+},
+{
+"no": "2015001017",
+"des": "呼吸治療師",
+"eng": "Respiratory Therapist"
+},
+{
+"no": "2015001002",
+"des": "牙醫師",
+"eng": "Dentists"
+},
+{
+"no": "2015001022",
+"des": "牙體技術師",
+"eng": "Dental Technician"
+},
+{
+"no": "2015001009",
+"des": "中醫師",
+"eng": "Doctors of Chinese Medicine"
+},
+{
+"no": "2015001013",
+"des": "治療師",
+"eng": "Therapist"
+},
+{
+"no": "2015001010",
+"des": "麻醉醫師",
+"eng": "Anesthesiologist"
+},
+{
+"no": "2015001008",
+"des": "公共衛生醫師",
+"eng": "Public Health Physician"
+},
+{
+"no": "2015001012",
+"des": "復健技術師",
+"eng": "Rehabilitation Technician"
+},
+{
+"no": "2015001014",
+"des": "其他醫療人員",
+"eng": "Other Medical Staff"
+}
+],
+"eng": "medical professionals"
+},
+{
+"no": "2015002000",
+"des": "醫療／保健服務人員",
+"n": [
+{
+"no": "2015002005",
+"des": "診所助理",
+"eng": "Clinic Assistant"
+},
+{
+"no": "2015002006",
+"des": "牙醫助理",
+"eng": "Dental Assistant"
+},
+{
+"no": "2015002015",
+"des": "獸醫助理",
+"eng": "Veterinary Associate Professionals"
+},
+{
+"no": "2015002002",
+"des": "照顧服務員",
+"eng": "Caregiver"
+},
+{
+"no": "2015002011",
+"des": "照顧實務指導員",
+"eng": "Care Coordinator"
+},
+{
+"no": "2015002012",
+"des": "居家服務督導員",
+"eng": "Home Service Supervisor"
+},
+{
+"no": "2015002010",
+"des": "安心服務員",
+"eng": "Peace of Mind Service Staff"
+},
+{
+"no": "2015002014",
+"des": "個案管理師",
+"eng": "Case Manager"
+},
+{
+"no": "2015002013",
+"des": "專任管理人員",
+"eng": "Full-time Management Staff"
+},
+{
+"no": "2015002001",
+"des": "醫院行政管理人員",
+"eng": "Hospital Administrative Staff"
+},
+{
+"no": "2015002007",
+"des": "放射性設備使用技術員",
+"eng": "Radiation Equipment Technician"
+},
+{
+"no": "2015002008",
+"des": "醫療設備控制人員",
+"eng": "Medical Equipment Controller"
+},
+{
+"no": "2015002004",
+"des": "按摩／推拿師",
+"eng": "Massage/Therapist"
+},
+{
+"no": "2015002009",
+"des": "其他醫療從業人員",
+"eng": "Other Health Professionals"
+}
+],
+"eng": "Medical/Healthcare Service Staff"
+}
+],
+"eng": "Medical Professionals"
+},
+{
+"no": "2016000000",
+"des": "學術／教育／輔導類",
+"n": [
+{
+"no": "2016001000",
+"des": "學術研究類人員",
+"n": [
+{
+"no": "2016001013",
+"des": "研究助理",
+"eng": "Research Assistant"
+},
+{
+"no": "2016001011",
+"des": "生物學研究員",
+"eng": "Biological Researcher"
+},
+{
+"no": "2016001007",
+"des": "統計學研究員",
+"eng": "Survey And Market Research Interviewers"
+},
+{
+"no": "2016001010",
+"des": "心理學研究員",
+"eng": "Psychological Researcher"
+},
+{
+"no": "2016001001",
+"des": "物理學研究員",
+"eng": "Physics Researcher"
+},
+{
+"no": "2016001004",
+"des": "化學研究員",
+"eng": "Chemistry Researcher"
+},
+{
+"no": "2016001006",
+"des": "數學研究員",
+"eng": "Mathematical Researcher"
+},
+{
+"no": "2016001012",
+"des": "應用科學研究員",
+"eng": "Applied Science Researcher"
+},
+{
+"no": "2016001005",
+"des": "地質與地球科學研究員",
+"eng": "Geologists and Geophysicists"
+},
+{
+"no": "2016001003",
+"des": "氣象學研究員",
+"eng": "Meteorology Researcher"
+},
+{
+"no": "2016001009",
+"des": "哲學／歷史／政治研究員",
+"eng": "Philosophy/History/Political Researcher"
+},
+{
+"no": "2016001008",
+"des": "社會／人類學研究員",
+"eng": "Sociologists"
+},
+{
+"no": "2016001002",
+"des": "天文學研究員",
+"eng": "Astronomy Researcher"
+},
+{
+"no": "2016001014",
+"des": "其他研究人員",
+"eng": "Other Research Staff"
+},
+{
+"no": "2016001015",
+"des": "博士後研究員",
+"eng": "Postdoctoral Researcher"
+}
+],
+"eng": "Academic research staff"
+},
+{
+"no": "2016002000",
+"des": "教育輔導類人員",
+"n": [
+{
+"no": "2016002024",
+"des": "英文老師",
+"eng": "English Teacher"
+},
+{
+"no": "2016002025",
+"des": "日文老師",
+"eng": "Japanese Teacher"
+},
+{
+"no": "2016002026",
+"des": "韓文老師",
+"eng": "Korean Teacher"
+},
+{
+"no": "2016002011",
+"des": "語文補習班老師",
+"eng": "Language Tutoring Teachers"
+},
+{
+"no": "2016002001",
+"des": "補習班導師／管理人員",
+"eng": "Tutoring School Teacher/Manager"
+},
+{
+"no": "2016002027",
+"des": "健身教練",
+"eng": "Fitness Trainer"
+},
+{
+"no": "2016002019",
+"des": "運動教練",
+"eng": "Sports Coach"
+},
+{
+"no": "2016002028",
+"des": "家教",
+"eng": "Private Tutor"
+},
+{
+"no": "2016002020",
+"des": "教保員",
+"eng": "Childcare Worker"
+},
+{
+"no": "2016002023",
+"des": "托育員",
+"eng": "Childcare Provider"
+},
+{
+"no": "2016002008",
+"des": "安親班老師",
+"eng": "After-School Care Teachers"
+},
+{
+"no": "2016002007",
+"des": "幼教班老師",
+"eng": "Preschool Teachers"
+},
+{
+"no": "2016002029",
+"des": "幼兒園園長",
+"eng": "Kindergarten Principal"
+},
+{
+"no": "2016002018",
+"des": "社工",
+"eng": "Social Worker"
+},
+{
+"no": "2016002030",
+"des": "就業服務員",
+"eng": "Employment Services Officer"
+},
+{
+"no": "2016002021",
+"des": "講師",
+"eng": "Lecturer"
+},
+{
+"no": "2016002003",
+"des": "助教",
+"eng": "Teaching Assistant"
+},
+{
+"no": "2016002002",
+"des": "教授／副教授／助理教授",
+"eng": "Professor/Associate Professor/Assistant Professor"
+},
+{
+"no": "2016002009",
+"des": "升學補習班老師",
+"eng": "Cram School Teachers for Schoolwork and Employment Eligibility Exam"
+},
+{
+"no": "2016002022",
+"des": "數理補習班老師",
+"eng": "Math and Science Tutoring Teachers"
+},
+{
+"no": "2016002010",
+"des": "電腦補習班老師",
+"eng": "Computer Tutoring Teachers"
+},
+{
+"no": "2016002031",
+"des": "中文老師",
+"eng": "Chinese Teacher"
+},
+{
+"no": "2016002032",
+"des": "作文老師",
+"eng": "Authors and Related Writers"
+},
+{
+"no": "2016002033",
+"des": "數學老師",
+"eng": "Math Teacher"
+},
+{
+"no": "2016002013",
+"des": "美術老師",
+"eng": "Art Teachers"
+},
+{
+"no": "2016002014",
+"des": "音樂老師",
+"eng": "Music Teachers"
+},
+{
+"no": "2016002034",
+"des": "游泳教練",
+"eng": "Swimming Coach"
+},
+{
+"no": "2016002035",
+"des": "鋼琴老師",
+"eng": "Piano Teacher"
+},
+{
+"no": "2016002012",
+"des": "珠心算老師",
+"eng": "Abacus Teachers"
+},
+{
+"no": "2016002004",
+"des": "中等學校教師",
+"eng": "Secondary Education Teachers"
+},
+{
+"no": "2016002005",
+"des": "國小學校教師",
+"eng": "Primary Education Teachers"
+},
+{
+"no": "2016002006",
+"des": "特殊教育教師",
+"eng": "Special Education Teachers"
+},
+{
+"no": "2016002016",
+"des": "其他才藝類老師",
+"eng": "Other Talent Education Teachers"
+},
+{
+"no": "2016002015",
+"des": "其他補習班老師",
+"eng": "Other Tutoring Teachers"
+},
+{
+"no": "2016002017",
+"des": "其他類講師",
+"eng": "Other Types of Lecturers"
+}
+],
+"eng": "Educational Guidance Staff"
+}
+],
+"eng": "Academic/Education/Counseling"
+},
+{
+"no": "2008000000",
+"des": "研發相關類",
+"n": [
+{
+"no": "2008001000",
+"des": "工程研發類人員",
+"n": [
+{
+"no": "2008001023",
+"des": "助理工程師",
+"eng": "Assistant Engineer"
+},
+{
+"no": "2008001024",
+"des": "工程助理",
+"eng": "Engineering Assistant"
+},
+{
+"no": "2008001007",
+"des": "機構工程師",
+"eng": "Mechanical Engineer"
+},
+{
+"no": "2008001006",
+"des": "機械工程師",
+"eng": "Mechanical Engineers"
+},
+{
+"no": "2008001009",
+"des": "電子工程師",
+"eng": "Electronics Engineers"
+},
+{
+"no": "2008001030",
+"des": "電力工程師",
+"eng": "Electrical Power Engineer"
+},
+{
+"no": "2008001013",
+"des": "電源工程師",
+"eng": "Power Engineer"
+},
+{
+"no": "2008001015",
+"des": "數位IC設計工程師",
+"eng": "Digital IC Design Engineer"
+},
+{
+"no": "2008001014",
+"des": "類比IC設計工程師",
+"eng": "Analog IC Design Engineer"
+},
+{
+"no": "2008001022",
+"des": "IC佈局工程師",
+"eng": "IC Layout Engineer"
+},
+{
+"no": "2008001016",
+"des": "半導體工程師",
+"eng": "Semiconductor Engineer"
+},
+{
+"no": "2008001019",
+"des": "光學工程師",
+"eng": "Optical Engineer"
+},
+{
+"no": "2008001028",
+"des": "熱傳工程師",
+"eng": "Heat Transfer Engineer"
+},
+{
+"no": "2008001010",
+"des": "零件工程師",
+"eng": "Component Engineer"
+},
+{
+"no": "2008001018",
+"des": "光電工程師",
+"eng": "Optoelectronic Engineer"
+},
+{
+"no": "2008001002",
+"des": "光電工程研發主管",
+"eng": "Optoelectronic Engineering R&D Supervisor"
+},
+{
+"no": "2008001021",
+"des": "RF通訊工程師",
+"eng": "RF Communication Engineer"
+},
+{
+"no": "2008001020",
+"des": "電信／通訊系統工程師",
+"eng": "Telecommunications/Communication System Engineer"
+},
+{
+"no": "2008001003",
+"des": "通訊工程研發主管",
+"eng": "Communication Engineering R&D Supervisor"
+},
+{
+"no": "2008001027",
+"des": "太陽能技術工程師",
+"eng": "Solar Technology Engineer"
+},
+{
+"no": "2008001012",
+"des": "PCB佈線工程師",
+"eng": "PCB Layout Engineer"
+},
+{
+"no": "2008001011",
+"des": "硬體研發工程師",
+"eng": "Hardware Development Engineer"
+},
+{
+"no": "2008001001",
+"des": "硬體工程研發主管",
+"eng": "Hardware Engineering R&D Supervisor"
+},
+{
+"no": "2008001026",
+"des": "電子產品系統工程師",
+"eng": "Electronic Product System Engineer"
+},
+{
+"no": "2008001017",
+"des": "微機電工程師",
+"eng": "Microelectromechanical Engineer"
+},
+{
+"no": "2008001029",
+"des": "聲學／噪音工程師",
+"eng": "Acoustics/Noise Engineer"
+},
+{
+"no": "2008001008",
+"des": "機電技師／工程師",
+"eng": "Electro-Mechanical Technician/Engineer"
+},
+{
+"no": "2008001005",
+"des": "電機技師／工程師",
+"eng": "Electrical Engineers"
+},
+{
+"no": "2008001025",
+"des": "其他特殊工程師",
+"eng": "Other Specialized Engineer"
+},
+{
+"no": "2008001004",
+"des": "其他工程研發主管",
+"eng": "Other Engineering R&D Supervisors"
+},
+{
+"no": "2008001031",
+"des": "能源工程師",
+"eng": "Energy Engineer"
+}
+],
+"eng": "Engineering R&D Personnel"
+},
+{
+"no": "2008002000",
+"des": "化工材料研發類人員",
+"n": [
+{
+"no": "2008002004",
+"des": "材料研發人員",
+"eng": "Material Research and Development Staff"
+},
+{
+"no": "2008002001",
+"des": "化工化學工程師",
+"eng": "Chemical Engineers"
+},
+{
+"no": "2008002005",
+"des": "實驗化驗人員",
+"eng": "Laboratory Technician"
+},
+{
+"no": "2008002003",
+"des": "特用化學工程師",
+"eng": "Specialized Chemical Engineer"
+},
+{
+"no": "2008002002",
+"des": "紡織化學工程師",
+"eng": "Textile Chemical Engineer"
+},
+{
+"no": "2008002006",
+"des": "材料工程師",
+"eng": "Materials Engineer"
+}
+],
+"eng": "Chemical Material Research and Development Staff"
+},
+{
+"no": "2008003000",
+"des": "生技／醫療研發類人員",
+"n": [
+{
+"no": "2008003003",
+"des": "生物科技研發人員",
+"eng": "Biotechnology Research and Development Staff"
+},
+{
+"no": "2008003002",
+"des": "醫藥研發人員",
+"eng": "Pharmaceutical Research and Development Staff"
+},
+{
+"no": "2008003007",
+"des": "醫療器材研發工程師",
+"eng": "Medical Device Research and Development Engineer"
+},
+{
+"no": "2008003001",
+"des": "食品研發人員",
+"eng": "Food Research and Development Staff"
+},
+{
+"no": "2008003004",
+"des": "化學工程研發人員",
+"eng": "Chemical Engineering Research and Development Staff"
+},
+{
+"no": "2008003005",
+"des": "病理藥理研究人員",
+"eng": "Pathology and Pharmacology Research Staff"
+},
+{
+"no": "2008003006",
+"des": "農藝／畜產研究人員",
+"eng": "Agronomy/Livestock Research Staff"
+}
+],
+"eng": "Biotechnology/Medical Research and Development Staff"
+}
+],
+"eng": "Research & Development"
+},
+{
+"no": "2009000000",
+"des": "生產製造／品管／環衛類",
+"n": [
+{
+"no": "2009001000",
+"des": "生產管理類人員",
+"n": [
+{
+"no": "2009001004",
+"des": "生管",
+"eng": "Production Controller"
+},
+{
+"no": "2009001005",
+"des": "生管助理",
+"eng": "Production Controller Assistant"
+},
+{
+"no": "2009001001",
+"des": "生產管理主管",
+"eng": "Production Management Supervisor"
+},
+{
+"no": "2009001003",
+"des": "工業工程師／生產線規劃",
+"eng": "Industrial Engineer / Production Line Planning"
+},
+{
+"no": "2009001006",
+"des": "廠長",
+"eng": "Factory Manager"
+},
+{
+"no": "2009001002",
+"des": "工廠主管",
+"eng": "Factory Supervisor"
+}
+],
+"eng": "Production Management Staff"
+},
+{
+"no": "2009002000",
+"des": "製程規劃類人員",
+"n": [
+{
+"no": "2009002003",
+"des": "自動控制工程師",
+"eng": "Automatic Control Engineer"
+},
+{
+"no": "2009002002",
+"des": "生產設備工程師",
+"eng": "Production Equipment Engineer"
+},
+{
+"no": "2009002004",
+"des": "SMT工程師",
+"eng": "SMT Engineer"
+},
+{
+"no": "2009002005",
+"des": "半導體製程工程師",
+"eng": "Semiconductor Process Engineer"
+},
+{
+"no": "2009002007",
+"des": "半導體設備工程師",
+"eng": "Semiconductor Equipment Engineer"
+},
+{
+"no": "2009002006",
+"des": "LCD製程工程師",
+"eng": "LCD Process Engineer"
+},
+{
+"no": "2009002008",
+"des": "LCD設備工程師",
+"eng": "LCD Equipment Engineer"
+},
+{
+"no": "2009002001",
+"des": "生產技術／製程工程師",
+"eng": "Production Technology / Process Engineer"
+},
+{
+"no": "2009002009",
+"des": "智慧製造工程師",
+"eng": "Smart Manufacturing Engineer"
+}
+],
+"eng": "Process Planning Staff"
+},
+{
+"no": "2009003000",
+"des": "品保／品管類人員",
+"n": [
+{
+"no": "2009003007",
+"des": "軟韌體測試工程師",
+"eng": "Software/Firmware Testing Engineer"
+},
+{
+"no": "2009003003",
+"des": "可靠度工程師",
+"eng": "Reliability Engineer"
+},
+{
+"no": "2009003005",
+"des": "測試人員",
+"eng": "Testing Staff"
+},
+{
+"no": "2009003004",
+"des": "硬體測試工程師",
+"eng": "Hardware Testing Engineer"
+},
+{
+"no": "2009003008",
+"des": "EMC／電子安規工程師",
+"eng": "EMC / Electronic Compliance Engineer"
+},
+{
+"no": "2009003006",
+"des": "IC封裝／測試工程師",
+"eng": "IC Packaging / Testing Engineer"
+},
+{
+"no": "2009003010",
+"des": "品管／檢驗人員",
+"eng": "Quality Control / Inspection Staff"
+},
+{
+"no": "2009003002",
+"des": "品管／品保工程師",
+"eng": "QA / QC Engineer"
+},
+{
+"no": "2009003009",
+"des": "ISO／品保人員",
+"eng": "ISO / Quality Assurance Staff"
+},
+{
+"no": "2009003001",
+"des": "品管／品保主管",
+"eng": "QA / QC Supervisor"
+},
+{
+"no": "2009003011",
+"des": "故障分析工程師",
+"eng": "Fault Analysis Engineer"
+}
+],
+"eng": "Quality Assurance / Quality Control Staff"
+},
+{
+"no": "2009004000",
+"des": "環境安全衛生類人員",
+"n": [
+{
+"no": "2009004006",
+"des": "廠務",
+"eng": "Factory Affairs"
+},
+{
+"no": "2009004007",
+"des": "廠務助理",
+"eng": "Factory Affairs Assistant"
+},
+{
+"no": "2009004008",
+"des": "職業安全衛生管理員",
+"eng": "Occupational Safety and Health Administrator"
+},
+{
+"no": "2009004001",
+"des": "職業安全衛生管理師",
+"eng": "Occupational Safety and Health Manager"
+},
+{
+"no": "2009004003",
+"des": "環境工程人員 / 工程師",
+"eng": "Environmental Engineer / Engineering Staff"
+},
+{
+"no": "2009004002",
+"des": "安全／衛生相關檢驗人員",
+"eng": "Safety / Health-related Inspection Staff"
+},
+{
+"no": "2009004005",
+"des": "公共衛生人員",
+"eng": "Public Health Staff"
+},
+{
+"no": "2009004004",
+"des": "防火及建築檢驗人員",
+"eng": "Fire Prevention and Building Inspection Staff"
+},
+{
+"no": "2009004009",
+"des": "職安工程師",
+"eng": "HSE Engineer"
+}
+],
+"eng": "Environmental Safety and Health Staff"
+}
+],
+"eng": "Manufacturing/Quality Control/Environmental Safety"
+},
+{
+"no": "2017000000",
+"des": "軍警消／保全類",
+"n": [
+{
+"no": "2017001000",
+"des": "軍警消防類人員",
+"n": [
+{
+"no": "2017001004",
+"des": "救生員",
+"eng": "Lifeguard"
+},
+{
+"no": "2017001002",
+"des": "消防專業人員",
+"eng": "Firefighting Professionals"
+},
+{
+"no": "2017001003",
+"des": "消防員",
+"eng": "Firefighter"
+},
+{
+"no": "2017001001",
+"des": "志願役軍官／士官／士兵",
+"eng": "Voluntary Military Officer/Sergeant/Soldier"
+},
+{
+"no": "2017001005",
+"des": "警察／警務人員",
+"eng": "Police/Law Enforcement Officer"
+}
+],
+"eng": "Military"
+},
+{
+"no": "2017002000",
+"des": "保全類人員",
+"n": [
+{
+"no": "2017002001",
+"des": "保全人員／警衛",
+"eng": "Security Guards"
+},
+{
+"no": "2017002002",
+"des": "保全技術人員",
+"eng": "Security Technician"
+},
+{
+"no": "2017002005",
+"des": "總幹事",
+"eng": "General Manager"
+},
+{
+"no": "2017002006",
+"des": "社區秘書",
+"eng": "Community Secretary"
+},
+{
+"no": "2017002003",
+"des": "大樓管理員",
+"eng": "Building Manager"
+},
+{
+"no": "2017002004",
+"des": "其他保安服務工作",
+"eng": "Other Protective Services Workers"
+}
+],
+"eng": "Security Personnel"
+}
+],
+"eng": "Military/Police/Fire/Security"
+},
+{
+"no": "2018000000",
+"des": "其他職類",
+"n": [
+{
+"no": "2018001000",
+"des": "農林漁牧相關類人員",
+"n": [
+{
+"no": "2018001001",
+"des": "農藝作物栽培工作者",
+"eng": "Crop Cultivation Workers"
+},
+{
+"no": "2018001002",
+"des": "一般動物飼育工作者",
+"eng": "General Animal Husbandry Workers"
+},
+{
+"no": "2018001004",
+"des": "水產養殖工作者",
+"eng": "Aquaculture Workers"
+},
+{
+"no": "2018001003",
+"des": "林木伐運工作者",
+"eng": "Logging Workers"
+}
+],
+"eng": "Agriculture"
+},
+{
+"no": "2018002000",
+"des": "其他類人員",
+"n": [
+{
+"no": "2018002012",
+"des": "清潔工／資源回收人員",
+"eng": "Cleaner/Recycling Worker"
+},
+{
+"no": "2018002007",
+"des": "家庭代工",
+"eng": "Home-based Worker"
+},
+{
+"no": "2018002013",
+"des": "家事服務人員",
+"eng": "Domestic Housekeepers"
+},
+{
+"no": "2018002010",
+"des": "加油員",
+"eng": "Service Station Attendants"
+},
+{
+"no": "2018002001",
+"des": "顧問",
+"eng": "Consultant"
+},
+{
+"no": "2018002008",
+"des": "花藝／園藝人員",
+"eng": " Florist/Gardener"
+},
+{
+"no": "2018002015",
+"des": "花藝助理",
+"eng": "Floral Assistant"
+},
+{
+"no": "2018002014",
+"des": "汽車美容人員",
+"eng": "Car Detailer"
+},
+{
+"no": "2018002009",
+"des": "生鮮人員",
+"eng": " Fresh Produce Staff"
+},
+{
+"no": "2018002011",
+"des": "派報生／傳單派送",
+"eng": "Newspaper Distributor/Flyer Distributor"
+},
+{
+"no": "2018002005",
+"des": "公家機關相關人員",
+"eng": "Government Agency-related Workers"
+},
+{
+"no": "2018002003",
+"des": "生命禮儀師",
+"eng": "Funeral Celebrant"
+},
+{
+"no": "2018002002",
+"des": "志工",
+"eng": "Volunteer"
+},
+{
+"no": "2018002006",
+"des": "藝術品／珠寶鑑價／拍賣顧問",
+"eng": "Art/Jewelry Appraiser/Auction Consultant"
+},
+{
+"no": "2018002004",
+"des": "星象占卜人員",
+"eng": "Astrologer"
+},
+{
+"no": "2018002016",
+"des": "調查員",
+"eng": "Investigator"
+}
+],
+"eng": "Other Types of Workers"
+}
+],
+"eng": "Other Job Categories"
+}
+]
