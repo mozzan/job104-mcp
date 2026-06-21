@@ -1,0 +1,60 @@
+{
+  "manifest_version": "0.4",
+  "name": "job104-mcp",
+  "display_name": "104 Job Search",
+  "version": "0.1.0",
+  "description": "Search 104 (Taiwan) job listings with natural-language filters.",
+  "long_description": "# job104-mcp\n\n> Disclaimer: This is an unofficial, educational/personal-use tool. It is not affiliated with, endorsed by, or sponsored by 104 Corporation. It calls 104's public web endpoints; please respect 104's Terms of Service and use it at a reasonable, low frequency.\n\nGives Claude natural-language search over 104 人力銀行 job listings. Provide Chinese area/job-category names (e.g. 台北市大安區, 軟體工程師) and the server resolves them to 104 codes automatically. No API key or login required.",
+  "author": {
+    "name": "mozzan"
+  },
+  "homepage": "https://github.com/mozzan/job104-mcp",
+  "documentation": "https://github.com/mozzan/job104-mcp#readme",
+  "support": "https://github.com/mozzan/job104-mcp/issues",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcpb",
+    "104",
+    "jobs",
+    "taiwan",
+    "search"
+  ],
+  "server": {
+    "type": "uv",
+    "entry_point": "src/job104_mcp/__main__.py",
+    "mcp_config": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--project",
+        "${__dirname}",
+        "-m",
+        "job104_mcp"
+      ]
+    }
+  },
+  "tools": [
+    {
+      "name": "search_jobs",
+      "description": "Search 104 job listings by keyword, area, job category, salary floor, remote, recency, experience, education, with sorting and paging."
+    },
+    {
+      "name": "get_job_detail",
+      "description": "Get the full posting (description, requirements, salary, location) for a detail_id from search_jobs."
+    },
+    {
+      "name": "lookup_code",
+      "description": "Resolve a 104 job-category or area name to its code."
+    }
+  ],
+  "user_config": {},
+  "compatibility": {
+    "claude_desktop": ">=0.10.0",
+    "platforms": [
+      "darwin",
+      "linux",
+      "win32"
+    ]
+  }
+}
