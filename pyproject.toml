@@ -1,0 +1,26 @@
+[project]
+name = "job104-mcp"
+version = "0.1.0"
+description = "MCP server for searching 104 job listings"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.2.0",
+    "curl_cffi>=0.7.0",
+]
+
+[project.scripts]
+job104-mcp = "job104_mcp.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/job104_mcp"]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+markers = ["live: hits the real 104 site (deselect with -m 'not live')"]
+addopts = "-m 'not live'"
