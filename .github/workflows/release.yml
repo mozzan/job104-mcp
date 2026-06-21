@@ -13,12 +13,12 @@ jobs:
       should-release: ${{ steps.check.outputs.should-release }}
       version: ${{ steps.check.outputs.version }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2  # need previous commit to diff the version
 
       - name: Set up uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v8
 
       - name: Detect version bump
         id: check
@@ -46,10 +46,10 @@ jobs:
       contents: write   # create the GitHub release + tag
       id-token: write   # PyPI Trusted Publishing (OIDC)
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Set up uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v8
         with:
           enable-cache: true
 
@@ -79,7 +79,7 @@ jobs:
       - name: Create GitHub Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: v${{ env.VERSION }}
           name: "job104-mcp v${{ env.VERSION }}"
