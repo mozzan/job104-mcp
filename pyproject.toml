@@ -1,12 +1,30 @@
 [project]
 name = "job104-mcp"
 version = "0.1.0"
-description = "MCP server for searching 104 job listings"
+description = "MCP server for searching 104 (Taiwan) job listings with natural-language filters"
+readme = "README.md"
 requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "mozzan" }]
+keywords = ["mcp", "model-context-protocol", "104", "jobs", "taiwan", "claude"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Environment :: Console",
+]
 dependencies = [
     "mcp>=1.2.0",
     "curl_cffi>=0.7.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/mozzan/job104-mcp"
+Repository = "https://github.com/mozzan/job104-mcp"
+Issues = "https://github.com/mozzan/job104-mcp/issues"
 
 [project.scripts]
 job104-mcp = "job104_mcp.server:main"
