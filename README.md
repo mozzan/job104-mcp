@@ -1,7 +1,8 @@
 # job104-mcp
 
 An MCP server for searching [104 人力銀行](https://www.104.com.tw) job listings with
-natural-language filters, for use with Claude Desktop, Cursor, and other MCP clients.
+natural-language filters. Works with any MCP client — Claude, Cursor, Windsurf, Cline,
+Zed, VS Code, and others.
 
 > **Disclaimer:** This is an unofficial, educational/personal-use tool. It is **not
 > affiliated with, endorsed by, or sponsored by 104 Corporation**. It calls 104's
@@ -16,9 +17,29 @@ with `impersonate="chrome"` to match a real browser's TLS fingerprint, so the sa
 public endpoints return their normal JSON. The AI sees clean structured results; the
 104 category/area codes are resolved from Chinese names automatically.
 
-## Install in Claude Code
+## Prerequisite: install uv
 
-Once published to PyPI, no manual install is needed — `uvx` fetches it on demand:
+Every install path runs the server through [uv](https://docs.astral.sh/uv/), so it must
+be installed first (`uvx` ships with uv):
+
+    # macOS / Linux
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    # Windows (PowerShell)
+    powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+## Install in any MCP client (Cursor, Windsurf, Cline, Zed, VS Code, …)
+
+MCP is an open protocol, so any MCP-capable client works — not just Claude. Add this to
+the client's MCP config (e.g. Cursor's `~/.cursor/mcp.json`); the `command`/`args` form is
+what most clients accept:
+
+    {
+      "mcpServers": {
+        "job104": { "command": "uvx", "args": ["job104-mcp@latest"] }
+      }
+    }
+
+## Install in Claude Code
 
     claude mcp add job104 -- uvx job104-mcp@latest
 
@@ -28,9 +49,10 @@ Or from a local clone (no PyPI required):
 
 ## Install in Claude Desktop (.mcpb bundle)
 
-Download `job104-mcp-vX.Y.Z.mcpb` from the [Releases](https://github.com/mozzan/job104-mcp/releases)
-page and double-click it (or drag it into Claude Desktop → Settings → Extensions). Claude
-Desktop runs it via `uv`, so [uv](https://docs.astral.sh/uv/) must be installed.
+The `.mcpb` bundle is a Claude-Desktop-only convenience (other clients use the JSON config
+above). Download `job104-mcp-vX.Y.Z.mcpb` from the
+[Releases](https://github.com/mozzan/job104-mcp/releases) page and double-click it (or drag
+it into Claude Desktop → Settings → Extensions).
 
 To build the bundle yourself:
 
