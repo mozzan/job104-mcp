@@ -23,18 +23,16 @@ class CodeTable:
         return matches[:limit]
 
 
-def _flatten(nodes: list[dict], prefix: str = "") -> list[tuple[str, str]]:
-    """Walk the nested 104 tree; emit a (code, joined-name) leaf for every node
-    that has no children."""
+def _flatten(nodes: list[dict]) -> list[tuple[str, str]]:
+    """Walk the nested 104 tree; emit a (code, des) pair for EVERY node — both
+    internal (e.g. city '台北市', category '資訊軟體系統類') and leaf (district,
+    job title). 104's filter params accept a code at any level."""
     out: list[tuple[str, str]] = []
     for node in nodes:
-        name = node["des"]
-        full = f"{prefix} {name}" if prefix else name
+        out.append((node["no"], node["des"]))
         children = node.get("n")
         if children:
-            out.extend(_flatten(children, full))
-        else:
-            out.append((node["no"], full))
+            out.extend(_flatten(children))
     return out
 
 
