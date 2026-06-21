@@ -6,7 +6,7 @@ from dataclasses import dataclass
 _NEGOTIABLE_HIGH = 9999999
 
 
-def format_salary(low: int, high: int, s5: int) -> str:
+def format_salary(low: int, high: int) -> str:
     if not low or high >= _NEGOTIABLE_HIGH:
         return "待遇面議"
     if low == high:
@@ -21,9 +21,8 @@ def _job_url(d: dict) -> str:
     return link or ""
 
 
-def _detail_id(d: dict) -> str:
+def _detail_id_from_url(url: str) -> str:
     """The short code 104's detail endpoint keys on (last path segment of link.job)."""
-    url = _job_url(d)
     return url.rstrip("/").split("/")[-1] if url else ""
 
 
@@ -44,20 +43,19 @@ class JobSummary:
 
     @classmethod
     def from_raw(cls, d: dict) -> "JobSummary":
+        url = _job_url(d)
         return cls(
             job_no=d.get("jobNo", ""),
-            detail_id=_detail_id(d),
+            detail_id=_detail_id_from_url(url),
             job_name=d.get("jobName", ""),
             company=d.get("custName", ""),
-            salary=format_salary(
-                d.get("salaryLow", 0), d.get("salaryHigh", 0), d.get("s5", 0)
-            ),
+            salary=format_salary(d.get("salaryLow", 0), d.get("salaryHigh", 0)),
             location=d.get("jobAddrNoDesc", ""),
             job_type=d.get("jobType", 0),
             remote=d.get("remoteWorkType", 0),
             applied_count=d.get("applyCnt", 0),
             snippet=d.get("descSnippet", "") or d.get("description", ""),
-            url=_job_url(d),
+            url=url,
             appear_date=d.get("appearDate", ""),
         )
 
@@ -108,7 +106,6 @@ class JobDetail:
     requirements: str
     salary: str
     location: str
-    url: str
 
     @classmethod
     def from_raw(cls, payload: dict) -> "JobDetail":
@@ -124,5 +121,4 @@ class JobDetail:
             requirements=_join_requirements(cond),
             salary=jd.get("salary", ""),
             location=jd.get("addressRegion", "") + jd.get("addressDetail", ""),
-            url="",
         )

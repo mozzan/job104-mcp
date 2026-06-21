@@ -14,6 +14,10 @@ mcp = FastMCP("job104")
 _client = Client()
 
 
+def _client_error(exc: Client104Error) -> dict:
+    return {"error": f"104 查詢失敗：{exc}"}
+
+
 @mcp.tool()
 def search_jobs(
     keyword: str = "",
@@ -44,7 +48,7 @@ def search_jobs(
     try:
         raw = _client.search(params)
     except Client104Error as exc:
-        return {"error": f"104 查詢失敗：{exc}"}
+        return _client_error(exc)
     result = SearchResult.from_raw(raw)
     return {
         "total": result.total,
@@ -61,7 +65,7 @@ def get_job_detail(detail_id: str) -> dict:
     try:
         raw = _client.job_detail(detail_id)
     except Client104Error as exc:
-        return {"error": f"104 查詢失敗：{exc}"}
+        return _client_error(exc)
     return asdict(JobDetail.from_raw(raw))
 
 

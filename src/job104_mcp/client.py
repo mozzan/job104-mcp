@@ -49,6 +49,8 @@ class Client:
             last_err = Client104Error(
                 f"104 returned HTTP {resp.status_code} (likely Cloudflare block)"
             )
+        if isinstance(last_err, Client104Error):
+            raise last_err
         raise Client104Error(f"104 request failed: {last_err}")
 
     def _parse_json(self, resp) -> dict:
