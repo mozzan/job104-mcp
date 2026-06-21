@@ -7,12 +7,12 @@ FIX = Path(__file__).parent / "fixtures"
 
 
 def test_format_salary_range():
-    assert format_salary(32000, 38000, 50) == "月薪 32,000~38,000 元"
+    assert format_salary(32000, 38000) == "月薪 32,000~38,000 元"
 
 
 def test_format_salary_negotiable():
     # 104 uses salaryLow=0 / high sentinel for 面議
-    assert format_salary(0, 9999999, 0) == "待遇面議"
+    assert format_salary(0, 9999999) == "待遇面議"
 
 
 def test_search_result_from_raw():

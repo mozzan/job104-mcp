@@ -36,16 +36,15 @@ def _flatten(nodes: list[dict]) -> list[tuple[str, str]]:
     return out
 
 
+@lru_cache(maxsize=None)
 def _load(filename: str) -> CodeTable:
     raw = json.loads((_DATA_DIR / filename).read_text(encoding="utf-8"))
     return CodeTable(_flatten(raw))
 
 
-@lru_cache(maxsize=None)
 def load_jobcat() -> CodeTable:
     return _load("jobcat.json")
 
 
-@lru_cache(maxsize=None)
 def load_area() -> CodeTable:
     return _load("area.json")
