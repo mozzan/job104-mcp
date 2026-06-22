@@ -3,7 +3,10 @@ from __future__ import annotations
 
 from .codes import load_area, load_jobcat, CodeTable
 
-_SORT = {"relevance": "15", "date": "16", "salary": "11"}
+# 104 order codes: 15=relevance, 16=newest, 13=salary floor high→low.
+# (order=11 is NOT a salary sort — it is roughly the default order and surfaces
+# many 待遇面議 jobs at the top, so do not use it for salary.)
+_SORT = {"relevance": "15", "date": "16", "salary": "13"}
 _JOB_TYPE = {"全職": "1", "兼職": "2", "高階": "3", "派遣": "4", "接案": "5"}
 
 

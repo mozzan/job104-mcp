@@ -22,7 +22,7 @@ def test_salary_sets_scstrict():
     )
     assert p["scmin"] == "40000"
     assert p["scstrict"] == "1"
-    assert p["order"] == "11"
+    assert p["order"] == "13"  # 104's salary-floor high→low sort
 
 
 def test_remote_and_isnew():
