@@ -70,6 +70,18 @@ jobs:
         run: |
           sed -i 's/"version": "[^"]*"/"version": "'"$VERSION"'"/' manifest.json
 
+      - name: Commit manifest.json version bump back to main
+        run: |
+          if git diff --quiet manifest.json; then
+            echo "manifest.json already in sync"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add manifest.json
+            git commit -m "chore: sync manifest.json to v$VERSION [skip ci]"
+            git push origin HEAD:main
+          fi
+
       - name: Build .mcpb bundle
         run: |
           npx -y @anthropic-ai/mcpb validate manifest.json

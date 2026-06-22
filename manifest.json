@@ -2,7 +2,7 @@
   "manifest_version": "0.4",
   "name": "job104-mcp",
   "display_name": "104 Job Search",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Search 104 (Taiwan) job listings with natural-language filters.",
   "long_description": "# job104-mcp\n\n> Disclaimer: This is an unofficial, educational/personal-use tool. It is not affiliated with, endorsed by, or sponsored by 104 Corporation. It calls 104's public web endpoints; please respect 104's Terms of Service and use it at a reasonable, low frequency.\n\nGives Claude natural-language search over 104 人力銀行 job listings. Provide Chinese area/job-category names (e.g. 台北市大安區, 軟體工程師) and the server resolves them to 104 codes automatically. No API key or login required.",
   "author": {
