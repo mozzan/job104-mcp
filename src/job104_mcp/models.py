@@ -5,13 +5,24 @@ from dataclasses import dataclass
 
 _NEGOTIABLE_HIGH = 9999999
 
+# 104 salary-type codes (the search list's `s10`, == detail's `salaryType`).
+_SALARY_PREFIX = {30: "時薪", 40: "日薪", 50: "月薪", 60: "年薪"}
 
-def format_salary(low: int, high: int) -> str:
-    if not low or high >= _NEGOTIABLE_HIGH:
+
+def format_salary(low: int, high: int, salary_type: int = 0) -> str:
+    """Format a 104 salary. salary_type is `s10`: 10=面議, 30=時薪, 40=日薪,
+    50=月薪, 60=年薪. high == 9999999 is 104's "no upper bound" sentinel, which
+    means "{low} 以上" — NOT negotiable, as long as there is a real floor."""
+    if salary_type == 10 or (not low and (not high or high >= _NEGOTIABLE_HIGH)):
         return "待遇面議"
+    prefix = _SALARY_PREFIX.get(salary_type, "月薪")
+    if high >= _NEGOTIABLE_HIGH:
+        return f"{prefix} {low:,} 元以上"
+    if not low:
+        return f"{prefix} {high:,} 元以下"
     if low == high:
-        return f"月薪 {low:,} 元"
-    return f"月薪 {low:,}~{high:,} 元"
+        return f"{prefix} {low:,} 元"
+    return f"{prefix} {low:,}~{high:,} 元"
 
 
 def _job_url(d: dict) -> str:
@@ -49,7 +60,9 @@ class JobSummary:
             detail_id=_detail_id_from_url(url),
             job_name=d.get("jobName", ""),
             company=d.get("custName", ""),
-            salary=format_salary(d.get("salaryLow", 0), d.get("salaryHigh", 0)),
+            salary=format_salary(
+                d.get("salaryLow", 0), d.get("salaryHigh", 0), d.get("s10", 0)
+            ),
             location=d.get("jobAddrNoDesc", ""),
             job_type=d.get("jobType", 0),
             remote=d.get("remoteWorkType", 0),

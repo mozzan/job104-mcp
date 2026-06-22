@@ -7,12 +7,23 @@ FIX = Path(__file__).parent / "fixtures"
 
 
 def test_format_salary_range():
-    assert format_salary(32000, 38000) == "月薪 32,000~38,000 元"
+    assert format_salary(32000, 38000, 50) == "月薪 32,000~38,000 元"
 
 
 def test_format_salary_negotiable():
-    # 104 uses salaryLow=0 / high sentinel for 面議
-    assert format_salary(0, 9999999) == "待遇面議"
+    # truly negotiable: no floor and no ceiling
+    assert format_salary(0, 9999999, 10) == "待遇面議"
+    assert format_salary(0, 0, 50) == "待遇面議"
+
+
+def test_format_salary_floor_only_is_not_negotiable():
+    # real floor + 9999999 sentinel ceiling => "X 以上", NOT 面議
+    assert format_salary(2200000, 9999999, 60) == "年薪 2,200,000 元以上"
+    assert format_salary(55000, 9999999, 50) == "月薪 55,000 元以上"
+
+
+def test_format_salary_hourly():
+    assert format_salary(200, 220, 30) == "時薪 200~220 元"
 
 
 def test_search_result_from_raw():

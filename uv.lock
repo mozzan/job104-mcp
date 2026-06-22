@@ -294,7 +294,7 @@ wheels = [
 
 [[package]]
 name = "job104-mcp"
-version = "0.1.5"
+version = "0.1.6"
 source = { editable = "." }
 dependencies = [
     { name = "curl-cffi" },
