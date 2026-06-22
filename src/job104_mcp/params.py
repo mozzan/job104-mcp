@@ -50,7 +50,7 @@ def build_search_params(
         params["scmin"] = str(salary_min)
         params["scstrict"] = "1"
     if remote:
-        params["remoteWork"] = "1"
+        params["remoteWork"] = "1,2"  # 1=完全遠端, 2=部分遠端; include both
     if is_new:
         params["isnew"] = "7"
     if job_type and job_type in _JOB_TYPE:

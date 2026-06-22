@@ -31,7 +31,7 @@ def test_remote_and_isnew():
         job_type=None, remote=True, is_new=True, exp_years=None,
         edu=None, sort="date", page=1, page_size=20,
     )
-    assert p["remoteWork"] == "1"
+    assert p["remoteWork"] == "1,2"
     assert p["isnew"] == "7"
 
 
