@@ -39,9 +39,9 @@ what most clients accept:
       }
     }
 
-## Install in Claude Code
+## Install in Claude Code (User scope)
 
-    claude mcp add job104 -- uvx job104-mcp@latest
+    claude mcp add job104 -s user -- uvx job104-mcp@latest
 
 Or from a local clone (no PyPI required):
 
