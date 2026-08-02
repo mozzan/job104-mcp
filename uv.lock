@@ -294,7 +294,7 @@ wheels = [
 
 [[package]]
 name = "job104-mcp"
-version = "0.1.7"
+version = "0.1.8"
 source = { editable = "." }
 dependencies = [
     { name = "curl-cffi" },
@@ -309,7 +309,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "curl-cffi", specifier = ">=0.7.0" },
-    { name = "mcp", specifier = ">=1.2.0" },
+    { name = "mcp", specifier = ">=1.2.0,<2" },
 ]
 
 [package.metadata.requires-dev]
