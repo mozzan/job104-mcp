@@ -14,7 +14,13 @@ Zed, VS Code, and others.
 104 sits behind Cloudflare bot protection — a plain HTTP request to its JSON API
 returns 403. This server uses [`curl_cffi`](https://github.com/lexiforest/curl_cffi)
 with `impersonate="chrome"` to match a real browser's TLS fingerprint, so the same
-public endpoints return their normal JSON. The AI sees clean structured results; the
+public endpoints return their normal JSON.
+
+When Cloudflare rejects even that (104 tightened its rules in late 2026), the server
+falls back to a headless Chrome/Edge already installed on your machine: it opens
+104 in the background and runs the same requests from inside that page. This adds
+~1–2 s to the first call and needs Chrome, Edge, Chromium or Brave installed — set
+`JOB104_CHROME=/path/to/browser` if yours isn't found automatically. The AI sees clean structured results; the
 104 category/area codes are resolved from Chinese names automatically.
 
 ## Prerequisite: install uv

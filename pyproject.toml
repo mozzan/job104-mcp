@@ -1,6 +1,6 @@
 [project]
 name = "job104-mcp"
-version = "0.1.8"
+version = "0.1.9"
 description = "MCP server for searching 104 (Taiwan) job listings with natural-language filters"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -20,6 +20,8 @@ dependencies = [
     # <2: mcp 2.0 removed mcp.server.fastmcp, which server.py imports.
     "mcp>=1.2.0,<2",
     "curl_cffi>=0.7.0",
+    # CDP client for the headless-browser fallback (browser.py)
+    "websockets>=15.0",
 ]
 
 [project.urls]
