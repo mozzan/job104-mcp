@@ -93,6 +93,23 @@ def test_non_403_does_not_use_browser(monkeypatch):
     assert browser.calls == []
 
 
+def test_network_error_retries_in_browser_without_sticking(monkeypatch):
+    calls = []
+
+    def fake_get(url, **kw):
+        calls.append(url)
+        raise RuntimeError("curl: (6) Could not resolve host: www.104.com.tw")
+    monkeypatch.setattr(client_mod.requests, "get", fake_get)
+    browser = FakeBrowser(BrowserResponse(200, '{"data": []}'))
+    client = Client(min_interval=0.0, browser=browser)
+
+    assert client.search({"keyword": "python"}) == {"data": []}
+    assert len(browser.calls) == 1
+    n_curl = len(calls)
+    client.search({"keyword": "python"})
+    assert len(calls) > n_curl  # curl is tried again next time
+
+
 def test_browser_unavailable_is_client_error(monkeypatch):
     _curl_returns(monkeypatch, Resp403())
     browser = FakeBrowser(exc=BrowserUnavailable("找不到 Chrome"))

@@ -25,6 +25,14 @@ class _Blocked(Client104Error):
     """curl_cffi got a 403: Cloudflare is rejecting non-browser clients."""
 
 
+class _Unreachable(Client104Error):
+    """curl_cffi never got a response (DNS/connect/timeout).
+
+    curl_cffi 0.17's bundled resolver intermittently fails on some IPv6 DNS
+    servers that the system resolver (and so Chrome) handles fine.
+    """
+
+
 class Client:
     def __init__(self, min_interval: float = 1.0, timeout: int = 20,
                  browser: BrowserFetcher | None = None):
@@ -48,6 +56,8 @@ class Client:
                 return self._get_curl(url, params, referer)
             except _Blocked:
                 self._use_browser = True
+            except _Unreachable:
+                pass  # retry this one request in the browser; curl may recover
         return self._get_browser(url, params, referer)
 
     def _get_browser(self, url: str, params: dict | None, referer: str):
@@ -87,7 +97,7 @@ class Client:
             )
         if isinstance(last_err, Client104Error):
             raise last_err
-        raise Client104Error(f"104 request failed: {last_err}")
+        raise _Unreachable(f"104 request failed: {last_err}")
 
     def _parse_json(self, resp) -> dict:
         try:
